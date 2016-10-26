@@ -1,0 +1,57 @@
+
+
+
+/* .sanderlab ul.layout-row{ */
+/* 	float:right; */
+/* } */
+/*
+@media (max-width: 599px){
+	.sanderlab ul.layout-row{
+		float:none;
+	}
+}
+*/
+
+.fa.s28 {
+  font-size:28px;
+  padding-left:0px;
+}
+.selectedtabicon{
+	line-height: 48px;
+    padding-right: 5px;
+}
+
+
+/* header */
+.sanderlab .flex h1{
+	margin: 0;
+	line-height:100px;
+	text-align: center;
+}
+.sanderlab .flex h1 a{
+	text-decoration:none;
+	color : #000;
+}
+
+/* expanding menu button when xs */
+.sanderlab .flex .md-menu{
+	height:110px;
+	line-height:110px;
+}
+
+/* tabs resizing */
+.sanderlab md-tabs-canvas{
+	height:100px;
+}
+.sanderlab md-pagination-wrapper{
+	top:0;
+	bottom:0;
+	margin:auto;
+}
+.sanderlab md-tabs-content-wrapper{
+	top:100px;
+	height:0;
+	display:none;
+}
+
+

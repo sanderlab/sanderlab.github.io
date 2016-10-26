@@ -1,0 +1,21 @@
+{
+  "name": "sanderlab",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-messages": "^1.5.7",
+    "angular-material": "1.1.0-rc.5",
+    "angular-scroll": "1.0.0",
+    "angular-ui-router": "1.0.0-beta.3",
+    "font-awesome": "v4.6.3",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies":{
+  }
+}
