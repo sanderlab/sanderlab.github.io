@@ -8,47 +8,73 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
     .primaryPalette('grey')
     .accentPalette('blue-grey');
   
-  $urlRouterProvider.otherwise('/tab/dash');
+  $urlRouterProvider.otherwise('/');
   $stateProvider
-    .state('view1', {
-        url: "/view1",
-        templateUrl: "partials/view1.html"
+    .state('index', {
+      url: '',
+      templateUrl: 'javascript/partials/home.html'
     })
-    .state('view2', {
-        url: "/view2",
-        templateUrl: "partials/view2.html"
+    .state('people', {
+        url: '/people',
+        templateUrl: 'javascript/partials/people.html'
     })
-    .state('view3', {
-        url: "/view3",
-        templateUrl: "partials/view3.html"
+    .state('research', {
+        url: '/research',
+        templateUrl: 'javascript/partials/research.html'
+    })
+    .state('tools', {
+        url: '/tools',
+        templateUrl: 'javascript/partials/tools.html'
+    })
+    .state('publications', {
+      url: '/publications',
+      templateUrl: 'javascript/partials/publications.html'
+    })
+    .state('news', {
+      url: '/news',
+      templateUrl: 'javascript/partials/news.html'
+    })
+    .state('contact', {
+      url: '/contact',
+      templateUrl: 'javascript/partials/contact.html'
     });
   
 }]);
 
-app.controller('MainCtrl', ['$scope', '$log', '$document', '$location', 
-                            function($scope, $log, $document, $location){
+app.controller('MainCtrl', ['$scope', '$log', '$document', '$transitions', '$state', 
+                            function($scope, $log, $document, $transitions, $state){
   $scope.title = 'Sander lab';
   $scope.pages = [
-    {title:'People', url:''}, 
-    {title:'Research', url:''}, 
-    {title:'Tools', url:''}, 
-    {title:'Publications', url:''}, 
-    {title:'News', url:''}, 
-    {title:'Contact', url:''}
+    {title:'People', state:'people'}, 
+    {title:'Research', state:'research'}, 
+    {title:'Tools', state:'tools'}, 
+    {title:'Publications', state:'publications'}, 
+    {title:'News', state:'news'}, 
+    {title:'Contact', state:'contact'}
   ];
   
-  $scope.selectedTabIndex = -1;
+  $scope.selectedTabIndex = -1; //default to no tab set (home)
+  
+  //watch for tab changes--set the state depending on the tab set.
   $scope.$watch('selectedTabIndex', function(current, old){
-      switch (current) {
-          case 0:
-              $location.url("/view1");
-              break;
-          case 1:
-              $location.url("/view2");
-              break;
-          case 2:
-              $location.url("/view3");
-              break;
-      }
+    if (!$scope.pages[current]){
+      $state.go("index");
+      return;
+    }
+    $state.go($scope.pages[current].state);
   });
+
+  //update the tab selected based on the current state. 
+  //necessary for initial load  (that might be it, but not sure)
+  $transitions.onFinish({}, function(transition){
+    var idx = _.findIndex($scope.pages, function(p){
+      if (p.state == transition.to().name){
+        return true;
+      }
+    });
+    if ($scope.selectedTabIndex !== idx){
+      $scope.selectedTabIndex = idx;
+    }
+  });
+      
 }]);

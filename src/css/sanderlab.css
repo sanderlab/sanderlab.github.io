@@ -40,6 +40,9 @@
 }
 
 /* tabs resizing */
+.sanderlab md-tabs.hide-xs{
+	min-height: initial;
+}
 .sanderlab md-tabs-canvas{
 	height:100px;
 }
