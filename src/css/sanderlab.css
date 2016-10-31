@@ -30,7 +30,7 @@
 }
 .sanderlab .flex h1 a{
 	text-decoration:none;
-	color : #000;
+	color : #800000;
 }
 
 /* expanding menu button when xs */
@@ -58,3 +58,32 @@
 }
 
 
+/* animate entering exiting pages */
+.ui-view-container {
+    position: relative;
+}
+
+[ui-view].ng-enter, [ui-view].ng-leave {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+[ui-view].ng-enter {
+    -webkit-animation: slideInRight 0.5s; /*starts from right side*/
+    animation: slideInRight 0.5s;
+}
+
+[ui-view].ng-leave {
+    -webkit-animation: slideOutLeft 0.5s;
+    animation: slideOutLeft 0.5s;
+}
+[ui-view].ng-enter.back {
+    -webkit-animation: slideInLeft 0.5s;
+    animation: slideInLeft 0.5s;
+}
+
+[ui-view].ng-leave.back {
+    -webkit-animation: slideOutRight 0.5s;
+    animation: slideOutRight 0.5s;
+}
