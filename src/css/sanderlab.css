@@ -23,10 +23,16 @@
 
 
 /* header */
+.sanderlab .navbar{
+	border-bottom: 1px #e0e0e0 solid;
+    margin: 0 10px;
+}
+
 .sanderlab .flex h1{
 	margin: 0;
 	line-height:100px;
 	text-align: center;
+	font-size:48px;
 }
 .sanderlab .flex h1 a{
 	text-decoration:none;
@@ -63,6 +69,7 @@
     position: relative;
 }
 
+/*
 [ui-view].ng-enter, [ui-view].ng-leave {
     position: absolute;
     left: 0;
@@ -70,7 +77,7 @@
 }
 
 [ui-view].ng-enter {
-    -webkit-animation: slideInRight 0.5s; /*starts from right side*/
+    -webkit-animation: slideInRight 0.5s;
     animation: slideInRight 0.5s;
 }
 
@@ -86,4 +93,12 @@
 [ui-view].ng-leave.back {
     -webkit-animation: slideOutRight 0.5s;
     animation: slideOutRight 0.5s;
+}*/
+
+
+/* INDEX */
+.sanderlab .home p{
+	font-size: 16px;
 }
+
+

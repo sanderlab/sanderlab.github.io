@@ -1,6 +1,11 @@
 
 var app = angular.module('sanderlab', ['ngMaterial', 'ui.router']);
 
+//
+//
+// CONFIG
+//
+//
 app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider', 
             function($mdThemingProvider, $urlRouterProvider, $stateProvider) {
   
@@ -27,24 +32,14 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
       templateUrl: 'javascript/partials/home.html',
       controller: backController
     })
-    .state('people', {
-      url: '/people',
-      templateUrl: 'javascript/partials/people.html',
-      controller: backController
-    })
     .state('research', {
       url: '/research',
       templateUrl: 'javascript/partials/research.html',
       controller: backController
     })
-    .state('tools', {
-      url: '/tools',
-      templateUrl: 'javascript/partials/tools.html',
-      controller: backController
-    })
-    .state('publications', {
-      url: '/publications',
-      templateUrl: 'javascript/partials/publications.html',
+    .state('people', {
+      url: '/people',
+      templateUrl: 'javascript/partials/people.html',
       controller: backController
     })
     .state('news', {
@@ -56,11 +51,20 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
       url: '/contact',
       templateUrl: 'javascript/partials/contact.html',
       controller: backController
+    })
+    .state('join', {
+      url: '/join',
+      templateUrl: 'javascript/partials/join.html',
+      controller: backController
     });
   
 }]);
 
-
+//
+//
+// RUN
+//
+//
 app.run(['$rootScope', '$log', '$transitions', '$state',
          function ($rootScope, $log, $transitions, $state) {
   
@@ -76,7 +80,7 @@ app.run(['$rootScope', '$log', '$transitions', '$state',
   //   see http://plnkr.co/edit/3cBugxsAglHHpt9XAkMp?p=info
   //   and https://ui-router.github.io/docs/latest/classes/transition.transition-1.html
   $transitions.onStart({}, function(transition){
-    $log.info('transition start: ' + transition.from().name + ' -> ' + transition.to().name);
+    $log.debug('transition start: ' + transition.from().name + ' -> ' + transition.to().name);
     
     // we cannot distinguish history "back" and "forward", so if possible, can using this alternative way
     // using data instead program for history back
@@ -97,18 +101,23 @@ app.run(['$rootScope', '$log', '$transitions', '$state',
 // CONTROLLER
 //
 //
-app.controller('MainCtrl', ['$scope', '$element', '$log', '$document', '$transitions', '$state', '$stateParams',
-                            function($scope, $element, $log, $document, $transitions, $state, $stateParams){
+app.controller('MainCtrl', ['$scope', '$element', '$log', '$document', '$transitions', 
+                            '$state', '$stateParams',
+                            function($scope, $element, $log, $document, $transitions, 
+                                     $state, $stateParams){
   $scope.title = 'Sander lab';
-  $scope.pages = [
-    {title:'People', state:'people'}, 
-    {title:'Research', state:'research'}, 
-    {title:'Tools', state:'tools'}, 
-    {title:'Publications', state:'publications'}, 
-    {title:'News', state:'news'}, 
-    {title:'Contact', state:'contact'}
-  ];
   
+  //set the pages configured for this site into the scope.
+  $scope.pages = _.chain($state.get().slice(2))
+                  .map('name')
+                  .reduce(function(memo, statename){
+                    memo.push({
+                      'title':statename.charAt(0).toUpperCase() + statename.slice(1), 
+                      'state':statename
+                    });
+                    return memo;
+                  }, [])
+                  .value();
   $scope.selectedTabIndex = -1; //default to no tab set (home)
   
   //watch for tab changes--set the state depending on the tab set.
