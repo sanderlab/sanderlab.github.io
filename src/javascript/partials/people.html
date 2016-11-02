@@ -1,4 +1,21 @@
-<div>
-  <h4>people page</h4>
-  <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<div class="toppage people" layout-xs="column" layout="row" layout-wrap layout-align="center top">
+  <div flex-xs flex-sm="50" flex-gt-sm="33" ng-repeat="a in [0,1,2,3,4,5,6,7]">
+    <md-card>
+      <md-card-title>
+        <md-card-title-text>
+          <span class="md-headline">Nicholas Gauthier</span>
+          <span class="md-subhead">Staff Scientist</span>
+        </md-card-title-text>
+        <md-card-title-media>
+          <img src="images/people/nicholasgauthier.jpg" class="md-media-lg card-media"/>
+        </md-card-title-media>
+      </md-card-title>
+      <md-card-content>
+        <p style="text-align:justify;text-justify:inter-word;font-size:14px;">
+          Applying experimental and computational methods to probe evolution-selection and design 
+          combination therapies to overcome cancer drug resistance
+        </p>
+      </md-card-content>
+    </md-card>
+  </div>
 </div>

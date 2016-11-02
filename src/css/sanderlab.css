@@ -26,6 +26,7 @@
 .sanderlab .navbar{
 	border-bottom: 1px #e0e0e0 solid;
     margin: 0 10px;
+    height: 100px;
 }
 
 .sanderlab .flex h1{
