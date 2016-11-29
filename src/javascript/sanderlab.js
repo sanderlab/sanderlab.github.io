@@ -121,11 +121,16 @@ app.run(['$rootScope', '$log', '$transitions', '$state',
 // CONTROLLER
 //
 //
-app.controller('MainCtrl', ['$scope', '$element', '$log', '$document', '$transitions', 
-                            '$state', '$stateParams',
-                            function($scope, $element, $log, $document, $transitions, 
-                                     $state, $stateParams){
+app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '$transitions', 
+                            '$state', '$stateParams', '$http',
+                            function($log, $scope, $element, $log, $document, $transitions, 
+                                     $state, $stateParams, $http){
   $scope.title = 'Sander lab';
+  
+  $http.get('sanderlabdata.json').then(function(response) {
+    $log.debug('site data loaded:', response.data);
+    $scope.sitedata = response.data;
+  });
   
   //set the pages configured for this site into the scope.
   $scope.pages = _.reduce($state.get(), function(memo, state){
