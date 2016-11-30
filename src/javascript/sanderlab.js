@@ -139,7 +139,10 @@ app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '
   $scope.getSafeHtml = function(str){
     return $sce.trustAsHtml(str);
   }
-  
+  $scope.reverseEmail = function(addr){
+    var nameDomainArr = addr.split('@');
+    return nameDomainArr[0].split('').reverse().join('') + '@' + nameDomainArr[1];
+  };
   
   //set the pages configured for this site into the scope.
   $scope.pages = _.reduce($state.get(), function(memo, state){
@@ -178,4 +181,13 @@ app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '
     }
     $state.go($scope.pages[current].state);
   });
-}]);
+}])
+
+
+//
+//
+// DIRECTIVES
+//
+//
+
+;

@@ -30,17 +30,42 @@
      }
    ]
 },
-"contact": [
-   {
-     "title": "Join us!",
+"contact":{
+     "scientific_contact": {
+        "name": "Chris Sander",
+        "email_reversed": "sirhc@sanderlab.org",
+        "phone": "(617) 632-3013"
+     },
+     "administrative_contact": {
+        "name": "Dwana Agosto",
+        "email_reversed": "anawd@jimmy.harvard.edu",
+        "phone": "(617) 582-9717"
+     },
+     "mailing_addresses":[
+        [
+"Dana-Farber Cancer Institute",
+"360 Longwood Avenue",
+"Longwood Center Building, 9th Floor, Room 316 (LC-9316)",
+"Boston, MA 02115",
+"[Mail stop = Longwood Center Building, 9th Floor, Room 310 (LC-9310)]",
+"[Wet lab space = Longwood Center Building, 4th Floor, Room 305 (LC-4305)]"
+        ],
+ 	[
+"Harvard Medical School",
+"200 Longwood Avenue",
+"Armenise Building, 6th Floor, Room 625B",
+"Boston, MA 02115"
+        ]
+     ]
+},
+"join":{
      "description": "We are actively looking to expand the Sander Lab and cBio Center at all levels! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
      "openings": [
         {"title": "Postdoc in Quantitative Biology", "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job"},
         {"title": "Senior Research Technician", "link": "https://careers-dfci.icims.com/jobs/3638/senior-research-technician---sander-lab-in-the-cbio-center/job"},
         {"title": "Software Engineer I", "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job"}
      ]
-   }
-],
+},
 "people": [
   {
      "key": "nicholasgauthier",
@@ -69,7 +94,7 @@
      "paragraphs":[
  "Put anything you want in here",
  "This is the second paragraph",
- "Third paragraph with link: <a href=\"http://www.yahoo.com\">a link</a>",
+ "Third paragraph with link: <a target=\"_blank\" href=\"http://www.yahoo.com\">a link</a>",
  "And a relative link to the joinus page: <a href=\"join\">join us!</a>"
      ]
   },
@@ -81,7 +106,7 @@
      "paragraphs":[
      "paragraph1",
      "paragraph2",
-     "paragraph3 <a href=\"www.yahoo.com\">a link</a>"
+     "paragraph3 <a target=\"_blank\" href=\"www.yahoo.com\">a link</a>"
      ]
   },
   
@@ -91,7 +116,7 @@
      "paragraphs":[
      "paragraph1",
      "paragraph2",
-     "paragraph3 <a href=\"http://www.yahoo.com\">a link</a> and here is <a href=\"people/lk\">her</a> profile"
+     "paragraph3 <a target=\"_blank\" href=\"http://www.yahoo.com\">a link</a> and here is <a href=\"people/lk\">her</a> profile"
      ]
   }
 ]
