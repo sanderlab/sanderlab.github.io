@@ -1,4 +1,16 @@
 <div>
-  <h4>news page</h4>
-  <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+  <md-card ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true">
+    <md-card-title>
+      <md-card-title-text>
+        <span class="md-headline" ng-bind="newsitem.title"></span>
+        <span class="md-subhead" ng-bind="newsitem.date"></span>
+      </md-card-title-text>
+    </md-card-title>
+    <md-card-content>
+      <p ng-repeat="paragraph in newsitem.paragraphs"
+         ng-bind-html="getSafeHtml(paragraph)"
+         style="text-align:justify;text-justify:inter-word;font-size:14px;">
+      </p>
+    </md-card-content>
+  </md-card>
 </div>

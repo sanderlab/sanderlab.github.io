@@ -1,24 +1,25 @@
 <div class="toppage people" layout-xs="column" layout="row" layout-wrap layout-align="center top">
-  <button ng-repeat="personname in [0,1,2,3,4,5,6,7]"
-          ui-sref="person({personId:personname})"
+
+  <button ng-repeat="person in sitedata.people"
+          ui-sref="personpage({personId:person.id})"
           flex-xs flex-sm="50" flex-gt-sm="33"
           style="background:none!important;border:none; padding:0!important;font: inherit;text-align:left;outline:none;">
     <md-card>
       <md-card-title>
         <md-card-title-text>
-          <span class="md-headline">Nicholas Gauthier</span>
-          <span class="md-subhead">Staff Scientist</span>
+          <span class="md-headline" ng-bind="person.name"></span>
+          <span class="md-subhead" ng-bind="person.role"></span>
         </md-card-title-text>
         <md-card-title-media>
-          <img src="images/people/nicholasgauthier.jpg" class="md-media-lg card-media"/>
+          <img ng-src="/images/people/{{person.photo}}" class="md-media-lg card-media"/>
         </md-card-title-media>
       </md-card-title>
       <md-card-content>
-        <p style="text-align:justify;text-justify:inter-word;font-size:14px;">
-          Applying experimental and computational methods to probe evolution-selection and design 
-          combination therapies to overcome cancer drug resistance
+        <p style="text-align:justify;text-justify:inter-word;font-size:14px;" ng-bind="person.tagline">
         </p>
       </md-card-content>
     </md-card>
   </button>
+  
+ 
 </div>

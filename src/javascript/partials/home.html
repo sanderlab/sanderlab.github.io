@@ -10,38 +10,22 @@
   <div layout="column" layout-gt-sm="row" layout-padding layout-align="center start">
   
     <div flex-xs="100" style="text-align:center;width:100%">
-      <img src="images/LC_press.jpg" style="width:419px;height:325px"/>
-      <p style="width:419px;margin-left:auto;margin-right:auto;text-align:justify;text-justify:inter-word;">
-         Our new home! The sander group is moving into a newly
-         built space in the longwood center 
-         (LC9, <a target="_blank" href="https://goo.gl/maps/bUPVEvzRuKw">google maps</a>). Come visit!
+      <img ng-src="{{sitedata.homepage.image}}" style="width:419px;height:325px"/>
+      <p ng-bind-html="getSafeHtml(sitedata.homepage.image_caption)"
+         style="width:419px;margin-left:auto;margin-right:auto;text-align:justify;text-justify:inter-word;">
       </p>
     </div>
     <div flex-xs="100">
-      <p style="text-align:justify;text-justify:inter-word;margin:0;font-size:18px;">
-      The overall goal of our work is to solve biological problems 
-      using quantitative methods from the phys-math-stat-data  sciences. 
-      We use computational methods from statistical physics (e.g. maximum 
-      entropy, inference of probability distributions), data sciences and 
-      statistics (e.g. machine learning), as well as computer science and 
-      mathematics (e.g. network analysis, optimization methods). We apply 
-      these methods to build predictive network models of molecular and 
-      cell-cell interactions, to support cancer precision medicine, and 
-      to aim for discoveries in structural and evolutionary biology.
+      <p ng-bind="sitedata.homepage.intro_paragraph"
+         style="text-align:justify;text-justify:inter-word;margin:0;font-size:18px;">
       </p>
       <div>
         <h3>News</h3>
         <ul style="font-size:15px">
-          <li style="margin-top:5px;margin-bottom:5px;">
-            June 15, 2017: Sahand Hormoz joins the cBio Center &#64;DFCI as a junior faculty member
-          </li>
-          <li style="margin-top:5px;margin-bottom:5px;">
-            October 31, 2016: Laura Kleiman recruited to be the new Scientific Research Director at the cBio Center &#64;DFCI
-          </li>
-          <li style="margin-top:5px;margin-bottom:5px;">
-            Septembr 1, 2016: Michael Stiffler recruited!</li>
-          <li style="margin-top:5px;margin-bottom:5px;">
-            January 15, 2016: The Sander lab moves from MSKCC to DFCI (link to DFCI article)
+          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true"
+              style="margin-top:5px;margin-bottom:5px;" >
+            <strong ng-bind="newsitem.date"></strong>:
+            <span ng-bind="newsitem.title"></span>
           </li>
         </ul>
       </div>

@@ -36,7 +36,7 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
       controller: backController,
       isTab: false
     })
-    .state('person', {
+    .state('personpage', {
       url: '/people/:personId',
       templateUrl: 'javascript/partials/person.html',
       controller: backController,
@@ -100,8 +100,6 @@ app.run(['$rootScope', '$log', '$transitions', '$state',
   //   see http://plnkr.co/edit/3cBugxsAglHHpt9XAkMp?p=info
   //   and https://ui-router.github.io/docs/latest/classes/transition.transition-1.html
   $transitions.onStart({}, function(transition){
-    $log.debug('transition start: ' + transition.from().name + ' -> ' + transition.to().name);
-    
     // we cannot distinguish history "back" and "forward", so if possible, can using this alternative way
     // using data instead program for history back
     var backStates = goBackStates[transition.from().name];
@@ -122,15 +120,26 @@ app.run(['$rootScope', '$log', '$transitions', '$state',
 //
 //
 app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '$transitions', 
-                            '$state', '$stateParams', '$http',
+                            '$state', '$stateParams', '$http', '$sce',
                             function($log, $scope, $element, $log, $document, $transitions, 
-                                     $state, $stateParams, $http){
+                                     $state, $stateParams, $http, $sce){
   $scope.title = 'Sander lab';
   
   $http.get('sanderlabdata.json').then(function(response) {
     $log.debug('site data loaded:', response.data);
+    response.data.news = _.map(response.data.news, function(newsitem){
+      newsitem.timestamp = Date.parse(newsitem.date);
+      return newsitem;
+    });
+    
     $scope.sitedata = response.data;
   });
+  
+  //helper functions for the view
+  $scope.getSafeHtml = function(str){
+    return $sce.trustAsHtml(str);
+  }
+  
   
   //set the pages configured for this site into the scope.
   $scope.pages = _.reduce($state.get(), function(memo, state){

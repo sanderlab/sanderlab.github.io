@@ -1,24 +1,31 @@
 {
+
+
+"homepage":{
+   "intro_paragraph": "The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, statistical physics, data sciences, statistics, computer science, and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine, and to make discoveries in structural and evolutionary biology.",
+   "image": "images/LC_press.jpg",
+   "image_caption": "The Sander Lab and cBio Center just moved into a newly built space in the Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">google maps</a>). Come visit us!"
+},
 "research":{
     "overviewtopics":[
      {
        "title": "Predictive network models",
-       "description": "In a wet and dry lab, and in collaborations, we are developing systems biology methods that combine systematic perturbation experiments with rich observational readout, for the de novo derivation of predictive and quantitative models. We aim to model cellular signaling events, e.g., between proteins, nucleic acids and metabolites, and cell-cell interactions in cell culture or cancer tissues. To solve the computational complexity of systematic model discovery we adapt methods from statistical physics and data sciences. The translational impact of this technology is in the nomination of combination therapeutics in cancer, such as melanoma, prostate cancer and pancreatic cancer. The cell biological impact depends on the availability of rich perturbation data with rich readout, with dual Crispr screens followed by mass spectrometry an attractive next technological advance - and using other datasets from the HMS community may be an exciting opportunity.",
+       "description": "We are modeling intracellular signaling events (e.g., between proteins, nucleic acids, and metabolites) and cell-cell interactions to better understand what functionally changes in cancer and how to exploit vulnerabilities. In wet and dry laboratories, and with collaborators, we are gathering data from systematic perturbation experiments with rich observational readouts to derive quantitative and predictive models. We have a particular interest in identifying promising combination therapies for cancer to circumvent drug resistance.",
        "image": "networkmodels.png"
      },
      {
        "title": "Cancer precision medicine",
-       "description": "Bioinformatics took on a crucial analytical and infrastructure role in the national and international cancer genome atlas projects. Collaborating closely with clinical researchers, we are applying bioinformatics analysis to cancer genomics, for individual cancer types and across the board. For example, pan-cancer oncogenic signature analysis of about 10K tumor samples provides an estimate as to which groups of cancer patients can be nominated for particular trials based on shared occurrence of genomic alterations. Collaboration with clinicians for the design of \"basket\" and \"match\" trials would be attractive.",
+       "description": "We have played a key role in national and international cancer genome atlas projects by providing open-source bioinformatics tools for analysis. We collaborate closely with clinicians (primarily at the Dana-Farber Cancer Institute (DFCI) and Memorial Sloan Kettering) to apply bioinformatics analysis to cancer genomics. For example, by analyzing pan-cancer oncogenic signatures from around 10,000 patients, we are developing a tool to match patients to appropriate clinical trials based on shared occurrence of genomic alterations. We anticipate working with clinicians to design basket or match trials in the near future.",
        "image": "cbioportal.png"
      },
      {
        "title": "Structural and evolutionary biology",
-       "description": "In collaboration with the Marks group ins systems biology at HMS, we are interested in strengthening the application of maximum entropy methods, with improved inference algorithms, to problems of evolutionary biology, structural biology and cell biology. The derivation of interactions that explain the observed correlations in data is key and there is significant potential for inferring interactions in diverse biological systems beyond proteins and RNA. We would like to generate evolutionarily constrained sequences in the laboratory and further develop a quantitative theory relating biopolymer sequences to phenotypic consequences.",
+       "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School (HMS), we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we have solved the problem of 3D fold prediction using information from next-generation sequencing. We are now generating evolutionarily constrained sequences in the laboratory, and further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
        "image": "evcouplings.png"
      },
      {
-       "title": "General goals and style of science",
-       "description": "We tend to focus on problems that have a chance of impacting the real world, such as human health, global future, synthetic biology, and engineering. We are guided by three principles : focus on the common goal of scientific progress, build and practice supportive and constructive human relations, and help with everyone's career goals. Within the community, we also aim to promote creative ways of communicating scientific results and to help reform the counterproductive journal publication system.",
+       "title": "Outlook on goals, style of science, and collaborations",
+       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goal of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities with Systems Biology, Cell Biology, and other HMS faculty that we look forward to exploring. We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
        "image": "general_goals_and_style_of_science.png"
      }
    ]
@@ -26,33 +33,50 @@
 "contact": [
    {
      "title": "Join us!",
-     "description": "We are actively looking to expand the lab at all levels! The lab is based at the New York Genome Center, a vibrant, new, and rapidly growing research institute located in lower Manhattan. All lab members will have the option of being cross-trained in both computational analysis and experimental work, and will also have full access to nearby facilities at the NYU Center for Genomics and Systems Biology.",
+     "description": "We are actively looking to expand the Sander Lab and cBio Center at all levels! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
      "openings": [
-        {"title": "postdoc", "link": "http://dfci_posting"},
-        {"title": "lab tech", "link": "http://dfci_posting"},
-        {"title": "software engineer", "link": "http://dfci_posting"}
+        {"title": "Postdoc in Quantitative Biology", "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job"},
+        {"title": "Senior Research Technician", "link": "https://careers-dfci.icims.com/jobs/3638/senior-research-technician---sander-lab-in-the-cbio-center/job"},
+        {"title": "Software Engineer I", "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job"}
      ]
    }
 ],
 "people": [
   {
+     "key": "nicholasgauthier",
      "name": "Nicholas Gauthier",
      "role": "Staff scientist",
+     "photo": "nicholasgauthier.jpg",
      "google_scholar_link": "https://scholar.google.com/citations?user=NcaZT3wAAAAJ&hl=en",
      "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
      "tagline": "Applying experimental and computational methods to probe evolution-selection and design combination therapies to overcome cancer drug resistance",
      "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
   },
   {
+     "key": "laurakleiman",
      "name": "Laura Kleiman",
      "role": "Staff scientist",
+     "photo": "laurakleiman.jpg",
      "tagline": "Applying experimental and computational methods to probe evolution-selection and design combination therapies to overcome cancer drug resistance",
      "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
   }
 ],
 "news":[
+ 
   {
-     "title": "Sahand Hormoz joins the cBio Center @DFCI as a junior faculty member",
+     "title": "We are hiring!",
+     "date": "November 30, 2016",
+     "paragraphs":[
+ "Put anything you want in here",
+ "This is the second paragraph",
+ "Third paragraph with link: <a href=\"http://www.yahoo.com\">a link</a>",
+ "And a relative link to the joinus page: <a href=\"join\">join us!</a>"
+     ]
+  },
+
+
+ {
+     "title": "Sahand Hormoz will join the cBio Center as a junior faculty member",
      "date": "June 15, 2017",
      "paragraphs":[
      "paragraph1",
@@ -62,12 +86,12 @@
   },
   
   {
-     "title": "Laura Kleiman recruited to be the new Scientific Research Director at the cBio Center @DFCI",
-     "date": "October 31, 2016",
+     "title": "Laura Kleiman recruited to be the new Scientific Research Director at the cBio Center",
+     "date": "October 17, 2016",
      "paragraphs":[
      "paragraph1",
      "paragraph2",
-     "paragraph3 <a href=\"www.yahoo.com\">a link</a> and here is <a href=\"people/lk\">her</a> profile"
+     "paragraph3 <a href=\"http://www.yahoo.com\">a link</a> and here is <a href=\"people/lk\">her</a> profile"
      ]
   }
 ]
