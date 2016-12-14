@@ -4,9 +4,12 @@
 "homepage":{
    "intro_paragraph": "The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, statistical physics, data sciences, statistics, computer science, and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine, and to make discoveries in structural and evolutionary biology.",
    "image": "images/LC_press.jpg",
-   "image_caption": "The Sander Lab and cBio Center just moved into a newly built space in the Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">google maps</a>). Come visit us!"
+   "image_caption": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">google maps</a>). Come visit us!"
 },
+
+
 "research":{
+    "final_text":"For an up-to-date list of Sander lab publications, please see our Google Scholar page <a target=\"_blank\" href=\"https://scholar.google.com/citations?user=4R7_wW8AAAAJ&hl=en\">here.</a>",
     "overviewtopics":[
      {
        "title": "Predictive network models",
@@ -25,11 +28,13 @@
      },
      {
        "title": "Outlook on goals, style of science, and collaborations",
-       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goal of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities with Systems Biology, Cell Biology, and other HMS faculty that we look forward to exploring. We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
+       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at HMS. We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
        "image": "general_goals_and_style_of_science.png"
      }
    ]
 },
+
+
 "contact":{
      "scientific_contact": {
         "name": "Chris Sander",
@@ -45,78 +50,256 @@
         [
 "Dana-Farber Cancer Institute",
 "360 Longwood Avenue",
-"Longwood Center Building, 9th Floor, Room 316 (LC-9316)",
-"Boston, MA 02115",
-"[Mail stop = Longwood Center Building, 9th Floor, Room 310 (LC-9310)]",
-"[Wet lab space = Longwood Center Building, 4th Floor, Room 305 (LC-4305)]"
+"Longwood Center Building, 9th Floor, Room 310 (LC-9310)",
+"Boston, MA 02115"
         ],
  	[
 "Harvard Medical School",
-"200 Longwood Avenue",
+"210 Longwood Avenue",
 "Armenise Building, 6th Floor, Room 625B",
 "Boston, MA 02115"
         ]
-     ]
+     ],
+     "map_text": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
 },
+
+
 "join":{
-     "description": "We are actively looking to expand the Sander Lab and cBio Center at all levels! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
+     "description": "We are actively looking to expand the Sander lab and cBio Center! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
      "openings": [
-        {"title": "Postdoc in Quantitative Biology", "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job"},
-        {"title": "Senior Research Technician", "link": "https://careers-dfci.icims.com/jobs/3638/senior-research-technician---sander-lab-in-the-cbio-center/job"},
-        {"title": "Software Engineer I", "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job"}
+        {
+          "title": "Postdoc in Quantitative Biology", 
+          "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job",
+          "description":"Join Chris Sander’s group as a postdoc at Dana-Farber Cancer Institute or Harvard Medical School, with links to the Broad Institute, to work on: 1) perturbation biology and network pharmacology, 2) cancer genomics, proteomics, and metabolomics, 3) protein structure, function, and evolution, or 4) biological information resources."
+        },
+        {
+          "title": "Senior Research Technician", 
+          "link": "https://careers-dfci.icims.com/jobs/3638/senior-research-technician---sander-lab-in-the-cbio-center/job",
+          "description":"We seek a highly motivated Senior Laboratory Technician to assist with and drive molecular and cellular biology research projects, help with the establishment of the experimental laboratory, collaborate with computational biologists, and work closely with leadership to coordinate daily lab operations."
+        },
+        {
+          "title": "Software Engineer I", 
+          "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job",
+          "description":"We are looking for an experienced and versatile Software Engineer to work within the new cBio Center at Dana-Farber Cancer Institute in the area of biological data and information tools applied to basic biological research, cancer genomics, and potential clinical translation."
+        }
      ]
 },
+
+
 "people": [
   {
-     "key": "nicholasgauthier",
-     "name": "Nicholas Gauthier",
-     "role": "Staff scientist",
-     "photo": "nicholasgauthier.jpg",
-     "google_scholar_link": "https://scholar.google.com/citations?user=NcaZT3wAAAAJ&hl=en",
-     "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
-     "tagline": "Applying experimental and computational methods to probe evolution-selection and design combination therapies to overcome cancer drug resistance",
-     "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
+     "key": "chrissander",
+     "name": "Chris Sander",
+     "role": "Professor",
+     "email": "sirhc@sanderlab.org",
+     "phone": "(617) 632-3013",
+     "location": "Longwood Center Building, 9th Floor, Room 316 (LC-9316)",
+     "photo": "ChrisSander.jpg",
+     "google_scholar_link": "http://bit.ly/ACCayl",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "",
+     "bio": "<p>Chris Sander started as a theoretical physicist and switched to theoretical biology after a first postdoc, in part inspired by the first completely sequenced genome.</p><p>He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York. He co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as Professor-in-Residence of Cell Biology at Harvard Medical School, Director of the cBio Center at Dana-Farber Cancer Institute, and advisor to the Ludwig Center at Harvard.</p><p>With his group and collaborators, he would like to beat drug resistance in cancer using systems biology methods, develop the next generation cBioPortal for cancer research and therapy, obtain biomolecular structures and functional interactions on a large scale using evolutionary information, and do cool computations with 10 million human genomes.</p>"
   },
   {
      "key": "laurakleiman",
      "name": "Laura Kleiman",
-     "role": "Staff scientist",
-     "photo": "laurakleiman.jpg",
+     "role": "Scientific Research Director, cBio Center",
+     "email": "namielK_aruaL@dfci.harvard.edu",
+     "phone": "(617) 582-9475",
+     "location": "Longwood Center Building, 9th Floor, Room 339 (LC-9339)",
+     "photo": "LauraKleiman.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "",
+     "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she initiated a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
+  },
+  {
+     "key": "dwanaagosto",
+     "name": "Dwana Agosto",
+     "role": "Program Administrator",
+     "email": "anawd@jimmy.harvard.edu",
+     "phone": "(617) 582-9717",
+     "location": "Longwood Center Building, 9th Floor, Room 342 (LC-9342)",
+     "photo": "Dwana.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "",
+     "bio": ""
+  },
+  {
+     "key": "nicholasgauthier",
+     "name": "Nicholas Gauthier",
+     "role": "Staff Scientist",
+     "email": "reihtuag_psalohcin@dfci.harvard.edu",
+     "phone": "",
+     "location": "",
+     "photo": "nicholasgauthier.jpg",
+     "google_scholar_link": "https://scholar.google.com/citations?user=NcaZT3wAAAAJ&hl=en",
+     "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
+     "personal_website": "",
      "tagline": "Applying experimental and computational methods to probe evolution-selection and design combination therapies to overcome cancer drug resistance",
      "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
+  },
+  {
+     "key": "thomashopf",
+     "name": "Thomas A. Hopf",
+     "role": "Research Fellow",
+     "email": "fpoh_samoht@hms.harvard.edu",
+     "phone": "",
+     "location": "",
+     "photo": "Thomas_Hopf.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Coevolutionary methods to infer phenotypic information from biological sequences",
+     "bio": "Thomas is a computational biologist interested in studying the coevolution of protein and nucleotide sequences to infer phenotypes from constraints on the sequence level. After his university studies in bioinformatics in Munich, he crossed the Atlantic just at the right time to work with Chris Sander and Debora Marks on the prediction of protein 3D structure using evolutionary couplings. Since then, Thomas has developed pioneering methods to predict the structure and function of transmembrane proteins, protein interactions, and the effects of mutations upon phenotype and fitness. He is also committed to making the evolutionary couplings approach readily available to the biology community through user-friendly tools, such as the EVcouplings webserver (www.evfold.org)."
+  },
+  {
+     "key": "benjaminschubert",
+     "name": "Benjamin Schubert",
+     "role": "Postdoctoral Fellow",
+     "email": "trebuhcs_nimajneb@hms.harvard.edu",
+     "phone": "",
+     "location": "",
+     "photo": "Benjamin_Schubert.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Developing and applying novel algorithms to better understand and treat disease",
+     "bio": "Benni’s background is in computer science and computational biology. In his undergraduate studies, Benni became interested in applying advanced optimization and machine learning approaches to tackle immunological questions. During his PhD at the Univesity of Tübingen, he continued his undergraduate work in computational immunology and made important algorithmic contributions to NGS-based HLA genotyping and to personalized cancer vaccines design. He also became fascinated by co-evolutionary models used for protein structure inference. He combined these models with his previous work to tackle the problem of anti-drug antibody formation in biotherapeutics in close collaboration with the Marks Lab at Harvard Medical School. As a new Postdoctoral Fellow at Harvard Medical School, Benni will continue his work in cancer immunology and related areas."
+  },
+  {
+     "key": "michaelstiffler",
+     "name": "Michael Stiffler",
+     "role": "Staff Scientist",
+     "email": "aleahcim_relffits@dfci.harvard.edu",
+     "phone": "",
+     "location": "",
+     "photo": "stiffler.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Applying and developing experimental approaches to study problems in protein folding and evolution, and cancer drug resistance",
+     "bio": "Mike earned his BSc in biochemistry from Ohio State, and PhD in chemistry from Harvard. He is primarily an experimental biologist, with a background and focus in biochemistry, systems biology and protein evolution. As a graduate student, Mike characterized protein-protein interaction selectivity across a family of eukaryotic protein domains using protein microarrays, towards understanding how specificity in cell signaling is achieved. As a postdoc, he developed a deep-sequencing experimental approach and computational model to characterize the fitness effects of ~5000 mutations in TEM-1 β-lactamase, towards understanding genotype-environment interactions in antibiotic resistance evolution. In the CBio Center at DFCI, Mike is interested in applying and developing experimental approaches to study problems in protein folding and evolution, and cancer drug resistance."
+  },
+  {
+     "key": "elinnyman",
+     "name": "Elin Nyman",
+     "role": "Postdoc",
+     "email": "namyn.nile@liu.se",
+     "phone": "",
+     "location": "",
+     "photo": "Elin.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Modeling of protein signaling networks to unravel disease mechanisms and potential drug targets",
+     "bio": "Elin focuses on protein signaling networks and the mechanisms of deregulation of these networks in disease. In her graduate studies, at Linköping University, Sweden, she developed mathematical models to study insulin resistance mechanisms in adipocytes from diabetic patients. This work led up to a postdoctoral collaboration with AstraZeneca on drugs for diabetes and obesity that target signaling pathways in adipocytes. Elin has joined the Sander lab as a postdoc to broaden her knowledge towards oncogenic signaling pathways and currently she works with data driven analysis of the response to combination therapy in cancer."
+  },
+  {
+     "key": "frankpoelwijk",
+     "name": "Frank Poelwijk",
+     "role": "Senior Research Scientist",
+     "email": "kjiwleop@jimmy.harvard.edu",
+     "phone": "",
+     "location": "",
+     "photo": "Frank.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Performing quantitative experiments and theoretical modeling to explore how biological interactions shape evolution, both in nature and in the clinic",
+     "bio": "Frank's aim is to find simple, but informative, descriptions of how proteins and biochemical networks are shaped by evolution and how they adapt, in an attempt to make evolution a more quantitative and predictive science. His major focus is on understanding the complexities caused by biological interactions, relevant not only to natural evolution, but also to 'clinical evolution', such as in tumor development, within-host viral evolution, and the acquisition of antibiotic resistance. Frank's background is in experimental physics and his research is an interplay between experiment and theoretical modeling. In his current position At the cBio Center, he has set up a laboratory that develops core technologies in mutant library generation, high-throughput screening, and directed evolution, in order to test concepts in evolutionary systems biology."
   }
 ],
+
+
 "news":[
+  {
+     "title": "Welcome to Benni Schubert, a new postdoctoral fellow!",
+     "date": "October 1, 2016",
+     "paragraphs":[
+ "Learn more about Benni <a href=\"BENNIPAGE\">here</a>."
+     ]
+  },
+  {
+     "title": "Opening of the cBio Center on the 9th floor of Longwood Center",
+     "date": "November 22, 2016",
+     "paragraphs":[
+ "<a href=\"CONTACTUSPAGE\">Come visit us!</a>."
+     ]
+  },
+  {
+     "title": "Upcoming official opening of the HMS computational biology \"Collaboratory\" on the 6th floor of the Armenise Building at Harvard Medical School (joint with Debora Marks’ group)",
+     "date": "February 1, 2017",
+     "paragraphs":[
+ "<a href=\"CONTACTUSPAGE\">Come visit us!</a>."
+     ]
+  },
+  {
+     "title": "Recent publication in Genome Biology: \"Tumor immune microenvironment characterization in clear cell renal cell carcinoma identifies prognostic and immunotherapeutically relevant messenger RNA signatures\"",
+     "date": "November 17, 2016",
+     "paragraphs":[
+ "Read the paper <a target=\"_blank\" href=\"https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1092-z\"> here</a>."
+     ]
+  },
+  {
+     "title": "Chris presents keynote lecture at the Barcelona BioMed Conference \"From genomes to structures: looking at big data with an atomic perspective\"",
+     "date": "November 28, 2016",
+     "paragraphs":[
+ ""
+     ]
+  },
+  {
+     "title": "Chris presents keynote lecture at the CNIO Frontiers Meeting \"CANCEROMATICS III: Cancer Heterogeneity\" in Madrid",
+     "date": "November 13, 2016",
+     "paragraphs":[
+ ""
+     ]
+  },
+  {
  
-  {
-     "title": "We are hiring!",
-     "date": "November 30, 2016",
+     "title": "Chris joins Advisory Group and gives talk at the Centre for Big Data and Integrative Genomics workshop in Singapore",
+     "date": "November 10, 2016",
      "paragraphs":[
- "Put anything you want in here",
- "This is the second paragraph",
- "Third paragraph with link: <a target=\"_blank\" href=\"http://www.yahoo.com\">a link</a>",
- "And a relative link to the joinus page: <a href=\"join\">join us!</a>"
+ ""
      ]
   },
-
-
- {
-     "title": "Sahand Hormoz will join the cBio Center as a junior faculty member",
-     "date": "June 15, 2017",
+  {
+     "title": "Chris to give a talk at the Simons Center for Systems Biology and Rutgers Cancer Institute of New Jersey Governor’s Conference on Effective Partnering in Cancer Research",
+     "date": "April 6, 2017",
      "paragraphs":[
-     "paragraph1",
-     "paragraph2",
-     "paragraph3 <a target=\"_blank\" href=\"www.yahoo.com\">a link</a>"
+ ""
      ]
   },
-  
   {
-     "title": "Laura Kleiman recruited to be the new Scientific Research Director at the cBio Center",
-     "date": "October 17, 2016",
+     "title": "Sander lab attends the Broad Institute retreat",
+     "date": "December 19, 2016",
      "paragraphs":[
-     "paragraph1",
-     "paragraph2",
-     "paragraph3 <a target=\"_blank\" href=\"http://www.yahoo.com\">a link</a> and here is <a href=\"people/lk\">her</a> profile"
+ ""
+     ]
+  },
+  {
+     "title": "Welcome to Roc Reguant, a new visiting researcher!",
+     "date": "December 12, 2016",
+     "paragraphs":[
+ ""
+     ]
+  },
+  {
+     "title": "Chris can now accept PhD students through the Harvard Systems Biology program",
+     "date": "November 15, 2016",
+     "paragraphs":[
+ ""
+     ]
+  },
+  {
+     "title": "Chris presents keynote lecture at the Reverse Phase Protein Array Global Workshop in Germany",
+     "date": "September 25, 2016",
+     "paragraphs":[
+ ""
      ]
   }
 ]

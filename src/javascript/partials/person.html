@@ -2,28 +2,32 @@
   <div flex="100">
     <a ui-sref='people'>back to all people</a>
   </div>
-  <div flex="100" flex-gt-sm="75">
-    <div class="padded" md-whiteframe="10" flex="100" layout-padding>
-      <div class="md-headline">Nicholas Gauthier {{params.personId}}</div>
-      <div class="md-subhead">Staff Scientist</div>
-      <p style="text-align:justify;text-justify:inter-word;font-size:14px;">
-        Nick’s background is in computer science and computational
-        biology. During his graduate work in cancer biology at Memorial
-        Sloan Kettering Cancer Center, he became fascinated by how
-        “normal" cells in the tumor microenvironment influence cancer
-        development, maintenance, and progression. To address
-        limitations in existing methods for studying
-        tumor-microenvironment interactions, he developed a proteomic
-        method called CTAP for identifying and linking thousands of
-        proteins to their cellular source in heterogeneous cell culture
-        using mass spectrometry. During his postdoc, Nick developed a
-        web resource for visualizing and analyzing recurrent mutation
-        hotspots in protein domains in cancer (mutationaligner.org) and
-        also spearheaded technology development for evolutionary
-        constraint determination. At the cBio Center at DFCI, Nick is
-        leading an experimental lab focused on method development for
-        evolution-selection experiments and evaluating combination
-        therapies for overcoming cancer drug resistance.</p>
+  <div flex="80" flex-gt-sm="75" md-whiteframe="10" 
+       layout="row" layout-xs="column" layout-align="center center" layout-wrap>
+    
+    <div class="padded" flex-offset-gt-xs="3" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
+        <div class="md-headline" ng-bind="person.name"></div>
+        <div class="md-subhead">
+          <a ng-href="mailto:{{reverseEmail(person.email)}}">{{reverseEmail(person.email)}}</a>
+        </div>
+        <div class="md-subhead" ng-bind="person.role"></div>
+    </div>
+    <div class="padded" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
+        <img ng-src="/images/people1024x1024/{{person.photo}}"
+             class="md-media-lg card-media"
+             style="height:256px!important;width:256px!important;"
+             hide-sm/>
+             
+        <img ng-src="/images/people1024x1024/{{person.photo}}"
+             class="md-media-lg card-media"
+             style="height:192px!important;width:192px!important;"
+             hide show-sm/>
+             
+    </div>
+    <div class="padded" flex="100" layout-padding>
+      <p ng-bind-html="getSafeHtml(person.bio)"
+         style="text-align:justify;text-justify:inter-word;font-size:14px;">
+      </p>
     </div>
   </div>
 </div>

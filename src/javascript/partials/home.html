@@ -22,10 +22,13 @@
       <div>
         <h3>News</h3>
         <ul style="font-size:15px">
-          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true"
+          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:4"
               style="margin-top:5px;margin-bottom:5px;" >
             <strong ng-bind="newsitem.date"></strong>:
             <span ng-bind="newsitem.title"></span>
+          </li>
+          <li>
+           <strong>...</strong> more news items are available <a ui-sref="news">here</a>.
           </li>
         </ul>
       </div>

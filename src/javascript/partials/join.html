@@ -1,11 +1,23 @@
-<div layout="column" layout-gt-sm="row" layout-align="center top" layout-wrap>
-  <h2 flex>Come work with us!</h2>
-  <p ng-bind="sitedata.join.description"></p>
-  
-  <dl flex>
-    <dt ng-repeat-start="opening in sitedata.join.openings" ng-bind="opening.title"></dt>
-    <dd ng-repeat-end>
-      <a target="_blank" ng-href="{{opening.link}}">more info / apply</a>
-    </dd>
-  </dl>
+<div layout="row" layout-align="center top" layout-wrap>
+
+  <h2 flex="90">Come work with us!</h2>
+  <p flex="90" ng-bind="sitedata.join.description"></p>
+  <div flex-xs flex-gt-xs="60">
+    <md-card ng-repeat="opening in sitedata.join.openings">
+      <md-card-title>
+        <md-card-title-text>
+          <span class="md-headline" ng-bind="opening.title"></span>
+        </md-card-title-text>
+      </md-card-title>
+      <md-card-content>
+        <p ng-bind="opening.description"
+           style="text-align:justify;text-justify:inter-word;">
+        </p>
+        <p style="text-align:center">
+        Click <a target="_blank" ng-href="{{opening.link}}">here</a> for more information or to apply.
+        </p>
+      </md-card-content>
+    </md-card>
+  </div>
+    
 </div>

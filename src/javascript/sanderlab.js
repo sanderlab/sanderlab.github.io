@@ -25,7 +25,15 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
     });
     
     //add all parameters to the scope
+    $scope.person = null;
     $scope.params = $stateParams;
+    if ($scope.params.personId){
+      $scope.person = _.find($scope.sitedata.people, function(person){
+        if ($scope.params.personId == person.key){ return true; }
+        return false;
+      });
+      console.log('$scope.person:', $scope.person);
+    }
   };
   
   $urlRouterProvider.otherwise('/');
