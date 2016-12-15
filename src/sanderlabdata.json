@@ -1,12 +1,10 @@
 {
 
-
 "homepage":{
    "intro_paragraph": "The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, statistical physics, data sciences, statistics, computer science, and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine, and to make discoveries in structural and evolutionary biology.",
    "image": "images/LC_press.jpg",
    "image_caption": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">google maps</a>). Come visit us!"
 },
-
 
 "research":{
     "final_text":"For an up-to-date list of Sander lab publications, please see our Google Scholar page <a target=\"_blank\" href=\"https://scholar.google.com/citations?user=4R7_wW8AAAAJ&hl=en\">here.</a>",
@@ -29,11 +27,10 @@
      {
        "title": "Outlook on goals, style of science, and collaborations",
        "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at HMS. We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
-       "image": "general_goals_and_style_of_science.png"
+       "image": "blank.png"
      }
    ]
 },
-
 
 "contact":{
      "scientific_contact": {
@@ -63,14 +60,13 @@
      "map_text": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
 },
 
-
 "join":{
      "description": "We are actively looking to expand the Sander lab and cBio Center! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
      "openings": [
         {
           "title": "Postdoc in Quantitative Biology", 
           "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job",
-          "description":"Join Chris Sander’s group as a postdoc at Dana-Farber Cancer Institute or Harvard Medical School, with links to the Broad Institute, to work on: 1) perturbation biology and network pharmacology, 2) cancer genomics, proteomics, and metabolomics, 3) protein structure, function, and evolution, or 4) biological information resources."
+          "description":"Join Chris Sander’s group as a postdoc at Dana-Farber Cancer Institute or Harvard Medical School, with links to the Broad Institute, to work on: 1) perturbation biology and network pharmacology, 2) cancer genomics, proteomics, and metabolomics, 3) protein structure, function, and evolution, and/or 4) biological information resources."
         },
         {
           "title": "Senior Research Technician", 
@@ -85,7 +81,6 @@
      ]
 },
 
-
 "people": [
   {
      "key": "chrissander",
@@ -93,7 +88,7 @@
      "role": "Professor",
      "email": "sirhc@sanderlab.org",
      "phone": "(617) 632-3013",
-     "location": "Longwood Center Building, 9th Floor, Room 316 (LC-9316)",
+     "location": ["Longwood Center Building", "9th Floor, Room 316"],
      "photo": "ChrisSander.jpg",
      "google_scholar_link": "http://bit.ly/ACCayl",
      "pubmed_link": "",
@@ -107,7 +102,7 @@
      "role": "Scientific Research Director, cBio Center",
      "email": "namielK_aruaL@dfci.harvard.edu",
      "phone": "(617) 582-9475",
-     "location": "Longwood Center Building, 9th Floor, Room 339 (LC-9339)",
+     "location": ["Longwood Center Building", "9th Floor, Room 339"],
      "photo": "LauraKleiman.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -121,7 +116,7 @@
      "role": "Program Administrator",
      "email": "anawd@jimmy.harvard.edu",
      "phone": "(617) 582-9717",
-     "location": "Longwood Center Building, 9th Floor, Room 342 (LC-9342)",
+     "location": ["Longwood Center Building", "9th Floor, Room 342"],
      "photo": "Dwana.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -134,8 +129,8 @@
      "name": "Nicholas Gauthier",
      "role": "Staff Scientist",
      "email": "reihtuag_psalohcin@dfci.harvard.edu",
-     "phone": "",
-     "location": "",
+     "phone": "(617) 582-9474",
+     "location": ["Longwood Center Building", "9th Floor, Room 311"],
      "photo": "nicholasgauthier.jpg",
      "google_scholar_link": "https://scholar.google.com/citations?user=NcaZT3wAAAAJ&hl=en",
      "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
@@ -144,12 +139,26 @@
      "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
   },
   {
+     "key": "richardstein",
+     "name": "Richard Stein",
+     "role": "Research Associate, Harvard School of Public Health",
+     "email": "niets@jimmy.harvard.edu",
+     "phone": "(617) 582-7229",
+     "location": ["Longwood Center Building", "9th Floor, Room 314"],
+     "photo": "",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Using mathematical modeling to predict the dynamics of microbial systems under perturbations, such as antibiotics, and optimize drug combinations in cancer",
+     "bio": "Richard's background is in mathematics and theoretical biophysics. He studied mathematics at Humboldt-Universität zu Berlin, Germany and finished his PhD in theoretical physics at Institut Curie and Université Pierre et Marie Curie in Paris, France. Previously, he was a postdoc with Chris Sander at Memorial Sloan Kettering Cancer Center in New York."
+  },
+  {
      "key": "thomashopf",
      "name": "Thomas A. Hopf",
      "role": "Research Fellow",
      "email": "fpoh_samoht@hms.harvard.edu",
      "phone": "",
-     "location": "",
+     "location": "Armenise Building, 6th Floor",
      "photo": "Thomas_Hopf.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -163,7 +172,7 @@
      "role": "Postdoctoral Fellow",
      "email": "trebuhcs_nimajneb@hms.harvard.edu",
      "phone": "",
-     "location": "",
+     "location": "Armenise Building, 6th Floor",
      "photo": "Benjamin_Schubert.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -176,8 +185,8 @@
      "name": "Michael Stiffler",
      "role": "Staff Scientist",
      "email": "aleahcim_relffits@dfci.harvard.edu",
-     "phone": "",
-     "location": "",
+     "phone": "(617) 582-9787",
+     "location": ["Longwood Center Building", "4th Floor, Room 315G"],
      "photo": "stiffler.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -191,7 +200,7 @@
      "role": "Postdoc",
      "email": "namyn.nile@liu.se",
      "phone": "",
-     "location": "",
+     "location": "Armenise Building, 6th Floor",
      "photo": "Elin.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -204,8 +213,8 @@
      "name": "Frank Poelwijk",
      "role": "Senior Research Scientist",
      "email": "kjiwleop@jimmy.harvard.edu",
-     "phone": "",
-     "location": "",
+     "phone": "(617) 582-9311",
+     "location": ["Longwood Center Building", "4th Floor, Room 315G"],
      "photo": "Frank.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -215,27 +224,26 @@
   }
 ],
 
-
 "news":[
   {
      "title": "Welcome to Benni Schubert, a new postdoctoral fellow!",
      "date": "October 1, 2016",
      "paragraphs":[
- "Learn more about Benni <a href=\"BENNIPAGE\">here</a>."
+ "Learn more about Benni <a href=\"/#/people/benjaminschubert\">here</a>."
      ]
   },
   {
      "title": "Opening of the cBio Center on the 9th floor of Longwood Center",
      "date": "November 22, 2016",
      "paragraphs":[
- "<a href=\"CONTACTUSPAGE\">Come visit us!</a>."
+ "<a href=\"/#/contact\">Come visit us!</a>."
      ]
   },
   {
      "title": "Upcoming official opening of the HMS computational biology \"Collaboratory\" on the 6th floor of the Armenise Building at Harvard Medical School (joint with Debora Marks’ group)",
      "date": "February 1, 2017",
      "paragraphs":[
- "<a href=\"CONTACTUSPAGE\">Come visit us!</a>."
+ "<a href=\"/#/contact\">Come visit us!</a>."
      ]
   },
   {

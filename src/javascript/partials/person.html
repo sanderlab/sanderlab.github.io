@@ -7,10 +7,14 @@
     
     <div class="padded" flex-offset-gt-xs="3" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
         <div class="md-headline" ng-bind="person.name"></div>
+        <div class="md-subhead" ng-bind="person.role"></div>
         <div class="md-subhead">
           <a ng-href="mailto:{{reverseEmail(person.email)}}">{{reverseEmail(person.email)}}</a>
         </div>
-        <div class="md-subhead" ng-bind="person.role"></div>
+        <div class="md-subhead" ng-bind="person.phone"></div>
+        <div class="md-subhead">
+          <div ng-bind="addrline" ng-repeat="addrline in person.location"></div>
+        </div>
     </div>
     <div class="padded" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
         <img ng-src="/images/people1024x1024/{{person.photo}}"
@@ -28,6 +32,17 @@
       <p ng-bind-html="getSafeHtml(person.bio)"
          style="text-align:justify;text-justify:inter-word;font-size:14px;">
       </p>
+      <p ng-if="person.google_scholar_link || person.pubmed_link">
+        <span ng-show="person.google_scholar_link">
+          See publication list on Google Scholar 
+          <a target="_blank" ng-href="{{person.google_scholar_link}}">here</a>.
+        </span>
+        <span ng-show="person.pubmed_link">
+          See publication list on Pubmed 
+          <a target="_blank" ng-href="{{person.pubmed_link}}">here</a>.
+        </span>
+      </p>
+      
     </div>
   </div>
 </div>

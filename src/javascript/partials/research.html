@@ -7,7 +7,13 @@
 
   <div flex-xs flex-gt-sm="45" ng-repeat="topic in sitedata.research.overviewtopics">
     <div layout="column" layout-align="center center">
-      <img ng-src="/images/research/{{topic.image}}" alt="Description" ng-if="topic.image" width="80%"/>
+      <img ng-src="/images/research/{{topic.image}}"
+           ng-if="topic.image && topic.image != 'blank.png'"
+           width="80%"/>
+      <img ng-src="/images/research/{{topic.image}}"
+           ng-if="topic.image == 'blank.png'"
+           hide-xs hide-sm
+           width="80%"/>
       <h2 ng-bind="topic.title"></h2>
       <p style="text-align:justify;text-justify:inter-word;" ng-bind="topic.description"></p>
     </div>
