@@ -1,10 +1,10 @@
 <div layout="column" layout-gt-sm="row" layout-align="center top" layout-padding layout-wrap>
 
   <!-- contact info -->
-  <div flex="20" hide show-gt-xs></div>
   <!-- scientific contact info -->
   <div flex="100" flex-gt-xs="30" layout="column" layout-align="center center"> 
     <div class="md-headline" ng-bind="sitedata.contact.scientific_contact.name"></div>
+    <div class="md-subhead">Principal Investigator</div>
     <div class="md-subhead">
       <a ng-href="mailto:{{reverseEmail(sitedata.contact.scientific_contact.email_reversed)}}">
         <span ng-bind="reverseEmail(sitedata.contact.scientific_contact.email_reversed)"></span>
@@ -13,9 +13,22 @@
     <div class="md-subhead" ng-bind="sitedata.contact.scientific_contact.phone"></div>
   </div>
   
+  <!-- other contact info -->
+  <div flex="100" flex-gt-xs="30" layout="column" layout-align="center center"> 
+    <div class="md-headline" ng-bind="sitedata.contact.other_contact.name"></div>
+    <div class="md-subhead">Scientific Research Director</div>
+    <div class="md-subhead">
+      <a ng-href="mailto:{{reverseEmail(sitedata.contact.other_contact.email_reversed)}}">
+        <span ng-bind="reverseEmail(sitedata.contact.other_contact.email_reversed)"></span>
+      </a>
+    </div>
+    <div class="md-subhead" ng-bind="sitedata.contact.administrative_contact.phone"></div>
+  </div>
+  
   <!-- administrative contact info -->
   <div flex="100" flex-gt-xs="30" layout="column" layout-align="center center"> 
     <div class="md-headline" ng-bind="sitedata.contact.administrative_contact.name"></div>
+    <div class="md-subhead">Center Administrator</div>
     <div class="md-subhead">
       <a ng-href="mailto:{{reverseEmail(sitedata.contact.administrative_contact.email_reversed)}}">
         <span ng-bind="reverseEmail(sitedata.contact.administrative_contact.email_reversed)"></span>
@@ -23,15 +36,16 @@
     </div>
     <div class="md-subhead" ng-bind="sitedata.contact.administrative_contact.phone"></div>
   </div>
-  <div flex="20" hide show-gt-xs></div>
   
+  <!-- a break -->
+  <div flex="100">&nbsp;</div>
   
   <!-- addresses -->
   <div flex="20" show-gt-xs></div>
   <div flex="100" flex-gt-xs="60" layout="column" layout-align="center center"> 
     <div class="md-headline">Mailing addresses</div>
-    <div layout="row" layout-margin>
-      <div flex="50" ng-repeat="address in sitedata.contact.mailing_addresses">
+    <div layout="column" layout-gt-xs="row" layout-margin>
+      <div flex="100" ng-repeat="address in sitedata.contact.mailing_addresses">
         <div class="md-subhead" ng-repeat="line in address" ng-bind="line"></div>
       </div>
     </div>

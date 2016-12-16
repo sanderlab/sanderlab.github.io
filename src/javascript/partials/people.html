@@ -12,6 +12,11 @@
         </md-card-title-text>
         <md-card-title-media>
           <img ng-src="/images/people256x256/{{person.photo}}"
+               ng-if="person.photo"
+               class="md-media-lg card-media"
+               style="height:128px!important;width:128px!important;"/>
+          <img ng-src="/images/people256x256/blank.png"
+               ng-if="!person.photo"
                class="md-media-lg card-media"
                style="height:128px!important;width:128px!important;"/>
         </md-card-title-media>

@@ -27,12 +27,11 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
     //add all parameters to the scope
     $scope.person = null;
     $scope.params = $stateParams;
-    if ($scope.params.personId){
+    if ($scope.params.personId){ //helper function to add person if person page.
       $scope.person = _.find($scope.sitedata.people, function(person){
         if ($scope.params.personId == person.key){ return true; }
         return false;
       });
-      console.log('$scope.person:', $scope.person);
     }
   };
   
@@ -166,9 +165,14 @@ app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '
   
   //update the tab selected based on the current state. 
   //only execute once for initial load
-  $scope.loading = true;
   $transitions.onFinish({}, function(transition){
-    if (!$scope.loading) { return; }
+    if (transition.to().name == 'personpage') { //special case for person page
+      //$scope.selectedTabIndex = 1;
+      $scope.selectedTabIndex = _.findIndex($scope.pages, function(p){
+        if (p.state == 'people'){ return true; } //make sure people tab is selected 
+      });
+      return; 
+    }
     var idx = _.findIndex($scope.pages, function(p){
       if (p.state == transition.to().name){
         return true;
@@ -177,7 +181,6 @@ app.controller('MainCtrl', ['$log', '$scope', '$element', '$log', '$document', '
     if ($scope.selectedTabIndex !== idx){
       $scope.selectedTabIndex = idx;
     }
-    $scope.loading = false;
   });
   
 

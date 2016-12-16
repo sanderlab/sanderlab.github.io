@@ -36,12 +36,17 @@
      "scientific_contact": {
         "name": "Chris Sander",
         "email_reversed": "sirhc@sanderlab.org",
-        "phone": "(617) 632-3013"
+        "phone": "(617) 582-9717"
      },
      "administrative_contact": {
         "name": "Dwana Agosto",
         "email_reversed": "anawd@jimmy.harvard.edu",
         "phone": "(617) 582-9717"
+     },
+     "other_contact": {
+        "name": "Laura Kleiman",
+        "email_reversed": "namielK_aruaL@dfci.harvard.edu",
+        "phone": "(617) 582-9475"
      },
      "mailing_addresses":[
         [
@@ -61,7 +66,7 @@
 },
 
 "join":{
-     "description": "We are actively looking to expand the Sander lab and cBio Center! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School.",
+     "description": "We are actively looking to expand the Sander lab and cBio Center! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School. These are our current job openings:",
      "openings": [
         {
           "title": "Postdoc in Quantitative Biology", 
@@ -81,20 +86,44 @@
      ]
 },
 
+
+"cBio":{
+     "description": "Official website coming soon! The Sander lab is based in the newly formed cBio Center at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
+     "others": [
+        {
+          "title": "Knowledge Systems Group", 
+          "link": "http://bcb.dfci.harvard.edu/knowledge-systems/",
+          "description":"The Knowledge Systems Group, led by Ethan Cerami, is an applied genomics software and data sciences group that enables cancer genomics research and precision medicine through development of powerful tools such as the cBioPortal for Cancer Genomics, Insight Engine, and MatchMiner."
+        },
+        {
+          "title": "Hormoz laboratory", 
+          "link": "http://sysbio.med.harvard.edu/sahand-hormoz",
+          "description":"Sahand Hormoz will join us as an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI in June 2017. His academic appointment will be in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
+        },
+        {
+          "title": "YOU?!", 
+          "link": "http://sanderlab.org/associateprofessor.html",
+          "description":"We are currently searching for an exceptional Assistant/Associate Professor in Computational Biology to join the cBio Center, with an academic appointment in the Department of Biomedical Informatics at Harvard Medical School. Please help us spread the word to potential candidates!"
+        }
+     ]
+},
+
+
 "people": [
   {
      "key": "chrissander",
      "name": "Chris Sander",
-     "role": "Professor",
+     "role": "Director",
+     "role_other": ["Director, cBio Center at Dana-Farber Cancer Institute", "Professor of Cell Biology, Harvard Medical School", "Special Advisor for Quantitative Biology, Ludwig Center at Harvard", "Associate Member, Broad Institute"],
      "email": "sirhc@sanderlab.org",
-     "phone": "(617) 632-3013",
+     "phone": "(617) 582-9717",
      "location": ["Longwood Center Building", "9th Floor, Room 316"],
      "photo": "ChrisSander.jpg",
      "google_scholar_link": "http://bit.ly/ACCayl",
      "pubmed_link": "",
      "personal_website": "",
      "tagline": "",
-     "bio": "<p>Chris Sander started as a theoretical physicist and switched to theoretical biology after a first postdoc, in part inspired by the first completely sequenced genome.</p><p>He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York. He co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as Professor-in-Residence of Cell Biology at Harvard Medical School, Director of the cBio Center at Dana-Farber Cancer Institute, and advisor to the Ludwig Center at Harvard.</p><p>With his group and collaborators, he would like to beat drug resistance in cancer using systems biology methods, develop the next generation cBioPortal for cancer research and therapy, obtain biomolecular structures and functional interactions on a large scale using evolutionary information, and do cool computations with 10 million human genomes.</p>"
+     "bio": "<p>Chris Sander is the Director of cBio Center at Dana-Farber Cancer Institute, Professor of Cell Biology at Harvard Medical School, Special Advisor for Quantitative Biology at the Ludwig Center at Harvard, and Associate Member at the Broad Institute.</p><p>Chris started as a theoretical physicist and switched to theoretical biology after a first postdoc, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York. He co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as Director of the cBio Center at the Dana-Farber Cancer Institute (within the Department of Biostatistics and Computational Biology), Professor-in-Residence of Cell Biology at Harvard Medical School, Special Advisor for Quantitative Biology to the Ludwig Center at Harvard, and Associate Member of the Broad Institute. He is currently accepting graduate students through the Harvard Medical School Systems Biology PhD program.</p><p>With his group and collaborators, he would like to beat drug resistance in cancer using systems biology methods, develop the next generation cBioPortal for cancer research and therapy, obtain biomolecular structures and functional interactions on a large scale using evolutionary information, and do cool computations with 10 million human genomes.</p>"
   },
   {
      "key": "laurakleiman",
@@ -145,7 +174,7 @@
      "email": "niets@jimmy.harvard.edu",
      "phone": "(617) 582-7229",
      "location": ["Longwood Center Building", "9th Floor, Room 314"],
-     "photo": "",
+     "photo": "Richard.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
      "personal_website": "",
@@ -165,6 +194,34 @@
      "personal_website": "",
      "tagline": "Coevolutionary methods to infer phenotypic information from biological sequences",
      "bio": "Thomas is a computational biologist interested in studying the coevolution of protein and nucleotide sequences to infer phenotypes from constraints on the sequence level. After his university studies in bioinformatics in Munich, he crossed the Atlantic just at the right time to work with Chris Sander and Debora Marks on the prediction of protein 3D structure using evolutionary couplings. Since then, Thomas has developed pioneering methods to predict the structure and function of transmembrane proteins, protein interactions, and the effects of mutations upon phenotype and fitness. He is also committed to making the evolutionary couplings approach readily available to the biology community through user-friendly tools, such as the EVcouplings webserver (www.evfold.org)."
+  },
+  {
+     "key": "kellybrock",
+     "name": "Kelly Brock",
+     "role": "Postdoc",
+     "email": "kcorb_yllek@hms.harvard.edu",
+     "phone": "",
+     "location": "Armenise Building, 6th Floor",
+     "photo": "",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Applying evolutionary couplings analysis to study structure in RNA",
+     "bio": "Kelly spent her PhD studying the evolution of protein stress response in the England group at MIT. As a joint postdoc between the Marks and Sander groups, she applies evolutionary couplings analysis to search for undiscovered structures in human RNA and how they might be implicated in human pathologies. When not trying to bend computers to do her bidding, she enjoys playing pub trivia and coaching cheerleading."
+  },
+  {
+     "key": "rocreguant",
+     "name": "Roc Reguant",
+     "role": "Visiting Research Scholar",
+     "email": "sallemoctnauger_cor@hms.harvard.edu",
+     "phone": "",
+     "location": "Armenise Building, 6th Floor",
+     "photo": "",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "http://rocreguant.com/",
+     "tagline": "Applying evolutionary couplings to differentiate easily different protein families",
+     "bio": "Roc got his bachelors in computer science and business information in Barcelona (Spain). Later on he moved to Munich (Germany) to pursue a masters program at the Technical University of Munich (TUM). During the time that Roc spent in Munich he became fascinated by what computers had to offer to the medical community. During his master studies he got a job as a scientific data analyst in Bertelsmann. There he developed tools to enable his colleagues to perform newer and faster data analysis over the 2M patients and their clinical records. Thanks to some lectures at his university in Munich, Roc got attracted to computational biology and bioinformatics. This interest lead him to write his thesis about the protein sequence alignment with co-evolutionary couplings at Harvard Medical School."
   },
   {
      "key": "benjaminschubert",
@@ -192,7 +249,7 @@
      "pubmed_link": "",
      "personal_website": "",
      "tagline": "Applying and developing experimental approaches to study problems in protein folding and evolution, and cancer drug resistance",
-     "bio": "Mike earned his BSc in biochemistry from Ohio State, and PhD in chemistry from Harvard. He is primarily an experimental biologist, with a background and focus in biochemistry, systems biology and protein evolution. As a graduate student, Mike characterized protein-protein interaction selectivity across a family of eukaryotic protein domains using protein microarrays, towards understanding how specificity in cell signaling is achieved. As a postdoc, he developed a deep-sequencing experimental approach and computational model to characterize the fitness effects of ~5000 mutations in TEM-1 β-lactamase, towards understanding genotype-environment interactions in antibiotic resistance evolution. In the CBio Center at DFCI, Mike is interested in applying and developing experimental approaches to study problems in protein folding and evolution, and cancer drug resistance."
+     "bio": "Mike earned his BSc in biochemistry from Ohio State, and PhD in chemistry from Harvard. He is primarily an experimental biologist, with a background and focus in biochemistry, systems biology and protein evolution. As a graduate student, Mike characterized protein-protein interaction selectivity across a family of eukaryotic protein domains using protein microarrays, towards understanding how specificity in cell signaling is achieved. As a postdoc, he developed a deep-sequencing experimental approach and computational model to characterize the fitness effects of ~5000 mutations in TEM-1 β-lactamase, towards understanding genotype-environment interactions in antibiotic resistance evolution. In the cBio Center at DFCI, Mike is interested in applying and developing experimental approaches to study problems in protein folding and evolution, and cancer drug resistance."
   },
   {
      "key": "elinnyman",
