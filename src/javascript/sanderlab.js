@@ -78,6 +78,12 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
       templateUrl: 'javascript/partials/join.html',
       controller: backController,
       isTab: true
+    })
+    .state('cbio center', {
+      url: '/cbio',
+      templateUrl: 'javascript/partials/cbiocenter.html',
+      controller: backController,
+      isTab: true
     });
   
 }]);

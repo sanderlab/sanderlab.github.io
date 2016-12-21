@@ -21,12 +21,12 @@
      },
      {
        "title": "Structural and evolutionary biology",
-       "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School (HMS), we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we have solved the problem of 3D fold prediction using information from next-generation sequencing. We are now generating evolutionarily constrained sequences in the laboratory, and further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
+       "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School, we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we have solved the problem of 3D fold prediction using information from next-generation sequencing. We are now generating evolutionarily constrained sequences in the laboratory, and further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
        "image": "evcouplings.png"
      },
      {
        "title": "Outlook on goals, style of science, and collaborations",
-       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at HMS. We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
+       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at Harvard Medical School (HMS). We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
        "image": "blank.png"
      }
    ]
@@ -89,7 +89,7 @@
 
 "cBio":{
      "description": "Official website coming soon! The Sander lab is based in the newly formed cBio Center at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
-     "others": [
+     "other_groups": [
         {
           "title": "Knowledge Systems Group", 
           "link": "http://bcb.dfci.harvard.edu/knowledge-systems/",
@@ -123,7 +123,7 @@
      "pubmed_link": "",
      "personal_website": "",
      "tagline": "",
-     "bio": "<p>Chris Sander is the Director of cBio Center at Dana-Farber Cancer Institute, Professor of Cell Biology at Harvard Medical School, Special Advisor for Quantitative Biology at the Ludwig Center at Harvard, and Associate Member at the Broad Institute.</p><p>Chris started as a theoretical physicist and switched to theoretical biology after a first postdoc, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York. He co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as Director of the cBio Center at the Dana-Farber Cancer Institute (within the Department of Biostatistics and Computational Biology), Professor-in-Residence of Cell Biology at Harvard Medical School, Special Advisor for Quantitative Biology to the Ludwig Center at Harvard, and Associate Member of the Broad Institute. He is currently accepting graduate students through the Harvard Medical School Systems Biology PhD program.</p><p>With his group and collaborators, he would like to beat drug resistance in cancer using systems biology methods, develop the next generation cBioPortal for cancer research and therapy, obtain biomolecular structures and functional interactions on a large scale using evolutionary information, and do cool computations with 10 million human genomes.</p>"
+     "bio": "<p>Chris Sander started as a theoretical physicist and switched to theoretical biology after a first postdoc, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York. He co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as <a target=\"_blank\" href=\"http://www.dana-farber.org/Research/Departments-and-Centers/Department-of-Biostatistics-and-Computational-Biology/cBio-Center-at-Dana-Farber.aspx\">Director of the cBio Center at the Dana-Farber Cancer Institute</a> (within the Department of Biostatistics and Computational Biology), <a target=\"_blank\" href=\"http://cellbio.med.harvard.edu/people/faculty/sander-0\">Professor of Cell Biology at Harvard Medical School</a>, <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is currently accepting graduate students through the <a target=\"_blank\" href=\"http://sysbiophd.harvard.edu/people/faculty/chris-sander\">Harvard Medical School Systems Biology PhD program</a>.</p><p>With his group and collaborators, he would like to beat drug resistance in cancer using systems biology methods, develop the next generation cBioPortal for cancer research and therapy, obtain biomolecular structures and functional interactions on a large scale using evolutionary information, and do cool computations with 10 million human genomes.</p>"
   },
   {
      "key": "laurakleiman",
@@ -142,7 +142,7 @@
   {
      "key": "dwanaagosto",
      "name": "Dwana Agosto",
-     "role": "Program Administrator",
+     "role": "Center Administrator",
      "email": "anawd@jimmy.harvard.edu",
      "phone": "(617) 582-9717",
      "location": ["Longwood Center Building", "9th Floor, Room 342"],
@@ -187,7 +187,7 @@
      "role": "Research Fellow",
      "email": "fpoh_samoht@hms.harvard.edu",
      "phone": "",
-     "location": "Armenise Building, 6th Floor",
+     "location": ["Armenise Building, 6th Floor"],
      "photo": "Thomas_Hopf.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -201,7 +201,7 @@
      "role": "Postdoc",
      "email": "kcorb_yllek@hms.harvard.edu",
      "phone": "",
-     "location": "Armenise Building, 6th Floor",
+     "location": ["Armenise Building, 6th Floor"],
      "photo": "",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -215,8 +215,8 @@
      "role": "Visiting Research Scholar",
      "email": "sallemoctnauger_cor@hms.harvard.edu",
      "phone": "",
-     "location": "Armenise Building, 6th Floor",
-     "photo": "",
+     "location": ["Armenise Building, 6th Floor"],
+     "photo": "roc.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
      "personal_website": "http://rocreguant.com/",
@@ -229,7 +229,7 @@
      "role": "Postdoctoral Fellow",
      "email": "trebuhcs_nimajneb@hms.harvard.edu",
      "phone": "",
-     "location": "Armenise Building, 6th Floor",
+     "location": ["Armenise Building, 6th Floor"],
      "photo": "Benjamin_Schubert.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -257,7 +257,7 @@
      "role": "Postdoc",
      "email": "namyn.nile@liu.se",
      "phone": "",
-     "location": "Armenise Building, 6th Floor",
+     "location": ["Armenise Building, 6th Floor"],
      "photo": "Elin.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",

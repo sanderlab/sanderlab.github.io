@@ -1,0 +1,23 @@
+<div layout="row" layout-align="center top" layout-wrap>
+
+  <h2 flex="90">cBio Center</h2>
+  <p flex="90" ng-bind="sitedata.cBio.description"></p>
+  <div flex-xs flex-gt-xs="60">
+    <md-card ng-repeat="othergroup in sitedata.cBio.other_groups">
+      <md-card-title>
+        <md-card-title-text>
+          <span class="md-headline" ng-bind="othergroup.title"></span>
+        </md-card-title-text>
+      </md-card-title>
+      <md-card-content>
+        <p ng-bind="othergroup.description"
+           style="text-align:justify;text-justify:inter-word;">
+        </p>
+        <p style="text-align:center">
+        Click <a target="_blank" ng-href="{{othergroup.link}}">here</a> for more information.
+        </p>
+      </md-card-content>
+    </md-card>
+  </div>
+    
+</div>
