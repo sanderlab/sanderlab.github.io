@@ -135,8 +135,8 @@
      "photo": "LauraKleiman.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
-     "personal_website": "",
-     "tagline": "",
+     "personal_website": "https://www.linkedin.com/in/laurakleiman",
+     "tagline": "Enabling translational cancer research",
      "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she initiated a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
   },
   {
@@ -198,11 +198,11 @@
   {
      "key": "kellybrock",
      "name": "Kelly Brock",
-     "role": "Postdoc",
+     "role": "Postdoctoral Fellow",
      "email": "kcorb_yllek@hms.harvard.edu",
      "phone": "",
      "location": ["Armenise Building, 6th Floor"],
-     "photo": "",
+     "photo": "KellyBrock.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
      "personal_website": "",
@@ -254,10 +254,10 @@
   {
      "key": "elinnyman",
      "name": "Elin Nyman",
-     "role": "Postdoc",
+     "role": "Postdoctoral Fellow",
      "email": "namyn.nile@liu.se",
      "phone": "",
-     "location": ["Armenise Building, 6th Floor"],
+     "location": "",
      "photo": "Elin.jpg",
      "google_scholar_link": "",
      "pubmed_link": "",
@@ -296,14 +296,7 @@
  "<a href=\"/#/contact\">Come visit us!</a>."
      ]
   },
-  {
-     "title": "Upcoming official opening of the HMS computational biology \"Collaboratory\" on the 6th floor of the Armenise Building at Harvard Medical School (joint with Debora Marks’ group)",
-     "date": "February 1, 2017",
-     "paragraphs":[
- "<a href=\"/#/contact\">Come visit us!</a>."
-     ]
-  },
-  {
+   {
      "title": "Recent publication in Genome Biology: \"Tumor immune microenvironment characterization in clear cell renal cell carcinoma identifies prognostic and immunotherapeutically relevant messenger RNA signatures\"",
      "date": "November 17, 2016",
      "paragraphs":[
@@ -332,14 +325,7 @@
  ""
      ]
   },
-  {
-     "title": "Chris to give a talk at the Simons Center for Systems Biology and Rutgers Cancer Institute of New Jersey Governor’s Conference on Effective Partnering in Cancer Research",
-     "date": "April 6, 2017",
-     "paragraphs":[
- ""
-     ]
-  },
-  {
+    {
      "title": "Sander lab attends the Broad Institute retreat",
      "date": "December 19, 2016",
      "paragraphs":[
