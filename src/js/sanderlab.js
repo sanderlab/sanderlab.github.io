@@ -39,49 +39,49 @@ app.config(['$mdThemingProvider', '$urlRouterProvider', '$stateProvider',
   $stateProvider
     .state('index', {
       url: '/',
-      templateUrl: 'javascript/partials/home.html',
+      templateUrl: 'js/partials/home.html',
       controller: backController,
       isTab: false
     })
     .state('personpage', {
       url: '/people/:personId',
-      templateUrl: 'javascript/partials/person.html',
+      templateUrl: 'js/partials/person.html',
       controller: backController,
       isTab: false
     })
     .state('research', {
       url: '/research',
-      templateUrl: 'javascript/partials/research.html',
+      templateUrl: 'js/partials/research.html',
       controller: backController,
       isTab: true
     })
     .state('people', {
       url: '/people',
-      templateUrl: 'javascript/partials/people.html',
+      templateUrl: 'js/partials/people.html',
       controller: backController,
       isTab: true
     })
     .state('news', {
       url: '/news',
-      templateUrl: 'javascript/partials/news.html',
+      templateUrl: 'js/partials/news.html',
       controller: backController,
       isTab: true
     })
     .state('contact', {
       url: '/contact',
-      templateUrl: 'javascript/partials/contact.html',
+      templateUrl: 'js/partials/contact.html',
       controller: backController,
       isTab: true
     })
     .state('join', {
       url: '/join',
-      templateUrl: 'javascript/partials/join.html',
+      templateUrl: 'js/partials/join.html',
       controller: backController,
       isTab: true
     })
     .state('cbio center', {
       url: '/cbio',
-      templateUrl: 'javascript/partials/cbiocenter.html',
+      templateUrl: 'js/partials/cbiocenter.html',
       controller: backController,
       isTab: true
     });
