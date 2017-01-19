@@ -1,7 +1,7 @@
 {
    
 "homepage":{
-   "intro_paragraph": "The Sander lab is based in the newly formed cBio Center at the Dana-Farber Cancer Institute and at Harvard Medical School. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, statistical physics, data sciences, statistics, computer science, and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine, and to make discoveries in structural and evolutionary biology.",
+   "intro_paragraph": "The Sander lab is based in the newly formed cBio Center at the Dana-Farber Cancer Institute and at Harvard Medical School, and is affiliated with the Broad Institute and Ludwig Center at Harvard. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, statistical physics, data sciences, statistics, computer science, and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine, and to make discoveries in structural and evolutionary biology.",
    "image": "images/LC_press.jpg",
    "image_caption": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">google maps</a>). Come visit us!"
 },
