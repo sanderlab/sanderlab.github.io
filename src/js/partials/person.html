@@ -1,8 +1,8 @@
-<div class="toppage people" layout-xs="column" layout="row" layout-align="center top" layout-wrap layout-margin>
+<div class="toppage person" layout-xs="column" layout="row" layout-align="center top" layout-wrap layout-margin>
   <div flex="100">
     <a ui-sref='people'>back to all people</a>
   </div>
-  <div flex="80" flex-gt-sm="75" md-whiteframe="10" 
+  <div flex="100" flex-gt-sm="75" md-whiteframe="10"
        layout="row" layout-xs="column" layout-align="center center" layout-wrap>
     
     <div class="padded" flex-offset-gt-xs="3" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
@@ -15,38 +15,33 @@
         <div class="md-subhead">
           <div ng-bind="addrline" ng-repeat="addrline in person.location"></div>
         </div>
-    </div>
+    </div> 
+
     <div class="padded" flex-gt-xs="40" flex="100" layout-padding layout-wrap>
         <img ng-src="/images/people1024x1024/{{person.photo}}"
              ng-if="person.photo"
-             class="md-media-lg card-media"
-             style="height:256px!important;width:256px!important;"
-             hide-sm/>
+             class="md-media-lg card-media imagelarge"
+             hide show-gt-sm/>
              
         <img ng-src="/images/people1024x1024/{{person.photo}}"
              ng-if="person.photo"
-             class="md-media-lg card-media"
-             style="height:192px!important;width:192px!important;"
-             hide show-sm/>
+             class="md-media-lg card-media imagesmall"
+             hide show-xs show-sm/>
              
         <img ng-src="/images/people1024x1024/blank.png"
              ng-if="!person.photo"
-             class="md-media-lg card-media"
-             style="height:256px!important;width:256px!important;"
-             hide-sm/>
+             class="md-media-lg card-media imagelarge"
+             hide show-gt-sm/>
              
         <img ng-src="/images/people1024x1024/blank.png"
              ng-if="!person.photo"
-             class="md-media-lg card-media"
-             style="height:192px!important;width:192px!important;"
-             hide show-sm/>
+             class="md-media-lg card-media imagesmall"
+             hide show-xs show-sm/>
     </div>
-    <div class="padded" flex="100" layout-padding>
-      <p ng-bind-html="getSafeHtml(person.bio)"
-         style="text-align:justify;text-justify:inter-word;font-size:14px;">
+    <div class="padded description" flex="100" layout-padding>
+      <p ng-bind-html="getSafeHtml(person.bio)">
       </p>
-      <p ng-if="person.google_scholar_link || person.pubmed_link"
-         style="text-align:justify;text-justify:inter-word;font-size:14px;">
+      <p ng-if="person.google_scholar_link || person.pubmed_link">
         <span ng-show="person.google_scholar_link">
           See publication list on Google Scholar 
           <a target="_blank" ng-href="{{person.google_scholar_link}}">here</a>.
@@ -56,8 +51,7 @@
           <a target="_blank" ng-href="{{person.pubmed_link}}">here</a>.
         </span>
       </p>
-      <p ng-if="person.personal_website"
-         style="text-align:justify;text-justify:inter-word;font-size:14px;">
+      <p ng-if="person.personal_website">
         See {{person.name}}'s personal website <a target="_blank" ng-href="{{person.personal_website}}">here</a>
       </p>
     </div>

@@ -3,8 +3,8 @@
   <button ng-repeat="person in sitedata.people | orderBy:'name':false"
           ui-sref="personpage({personId:person.key})"
           flex-xs flex-sm="50" flex-gt-sm="33"
-          style="background:none!important;border:none;padding:0!important;font:inherit;text-align:left;outline:none;">
-    <md-card style="height: 95%;">
+          class="peoplebutton">
+    <md-card>
       <md-card-title>
         <md-card-title-text>
           <span class="md-headline" ng-bind="person.name"></span>
@@ -13,18 +13,14 @@
         <md-card-title-media>
           <img ng-src="/images/people256x256/{{person.photo}}"
                ng-if="person.photo"
-               class="md-media-lg card-media"
-               style="height:128px!important;width:128px!important;"/>
+               class="md-media-lg card-media"/>
           <img ng-src="/images/people256x256/blank.png"
                ng-if="!person.photo"
-               class="md-media-lg card-media"
-               style="height:128px!important;width:128px!important;"/>
+               class="md-media-lg card-media"/>
         </md-card-title-media>
       </md-card-title>
       <md-card-content>
-        <p style="text-align:justify;text-justify:inter-word;font-size:14px;" 
-           ng-bind="person.tagline">
-        </p>
+        <p ng-bind="person.tagline"></p>
       </md-card-content>
     </md-card>
   </button>

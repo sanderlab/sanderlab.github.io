@@ -1,29 +1,19 @@
-
 <div class="toppage home">
-  <!-- 
-  <div layout="row" layout-padding layout-align="center center">
-    <h2>
-      Welcome to the Sander Lab!
-    </h2>
-  </div>
-   -->
   <div layout="column" layout-gt-sm="row" layout-padding layout-align="center start">
   
-    <div flex-xs="100" style="text-align:center;width:100%">
-      <img ng-src="{{sitedata.homepage.image}}" style="width:419px;height:325px"/>
-      <p ng-bind-html="getSafeHtml(sitedata.homepage.image_caption)"
-         style="width:419px;margin-left:auto;margin-right:auto;text-align:justify;text-justify:inter-word;">
-      </p>
+    <div flex-xs="100" class="index_image_holder">
+      <img ng-src="{{sitedata.homepage.image}}"/>
+      <p ng-bind-html="getSafeHtml(sitedata.homepage.image_caption)"></p>
     </div>
+    
     <div flex-xs="100">
-      <p ng-bind="sitedata.homepage.intro_paragraph"
-         style="text-align:justify;text-justify:inter-word;margin:0;font-size:18px;">
-      </p>
+      <div ng-bind-html="getSafeHtml(sitedata.homepage.intro_paragraph)"
+           class="intro_paragraph">
+      </div>
       <div>
         <h3>News</h3>
-        <ul style="font-size:15px">
-          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:4"
-              style="margin-top:5px;margin-bottom:5px;" >
+        <ul>
+          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:4">
             <strong ng-bind="newsitem.date"></strong>:
             <span ng-bind="newsitem.title"></span>
           </li>

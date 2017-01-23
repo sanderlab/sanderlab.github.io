@@ -10,6 +10,8 @@ Quickstart:
 $ cd installation_directory
 $ npm install
 $ npm install http-server -g
+$ cd src
+$ http-server
 ```
 
 

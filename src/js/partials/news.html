@@ -1,4 +1,4 @@
-<div layout="row" layout-align="center top" layout-wrap>
+<div class="toppage news" layout="row" layout-align="center top" layout-wrap>
   <div flex-xs flex-gt-xs="60">
     <md-card ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true">
       <md-card-title>
@@ -9,8 +9,7 @@
       </md-card-title>
       <md-card-content>
         <p ng-repeat="paragraph in newsitem.paragraphs"
-           ng-bind-html="getSafeHtml(paragraph)"
-           style="text-align:justify;text-justify:inter-word;font-size:14px;">
+           ng-bind-html="getSafeHtml(paragraph)">
         </p>
       </md-card-content>
     </md-card>
