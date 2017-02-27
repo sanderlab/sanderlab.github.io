@@ -10,7 +10,7 @@
         </md-card-title-text>
       </md-card-title>
       <md-card-content>
-        <p ng-bind="opening.description"></p>
+        <p ng-bind-html="getSafeHtml(opening.description)"></p>
         <p class="moreinfo">
         Click <a target="_blank" ng-href="{{opening.link}}">here</a> for more information or to apply.
         </p>
