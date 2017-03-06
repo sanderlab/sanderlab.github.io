@@ -7,28 +7,31 @@
 },
 
 "research":{
-    "final_text":"For an up-to-date list of Sander lab publications, please see our Google Scholar page <a target=\"_blank\" href=\"https://scholar.google.com/citations?user=4R7_wW8AAAAJ&hl=en\">here.</a>",
-    "overviewtopics":[
-     {
-       "title": "Predictive network models",
-       "description": "We are modeling intracellular signaling events (e.g., between proteins, nucleic acids, and metabolites) and cell-cell interactions to better understand what functionally changes in cancer and how to exploit vulnerabilities. In wet and dry laboratories, and with collaborators, we are gathering data from systematic perturbation experiments with rich observational readouts to derive quantitative and predictive models. We have a particular interest in identifying promising combination therapies for cancer to circumvent drug resistance.",
-       "image": "networkmodels.png"
-     },
-     {
-       "title": "Cancer precision medicine",
-       "description": "We have played a key role in national and international cancer genome atlas projects by providing open-source bioinformatics tools for analysis. We collaborate closely with clinicians (primarily at the Dana-Farber Cancer Institute (DFCI) and Memorial Sloan Kettering) to apply bioinformatics analysis to cancer genomics. For example, by analyzing pan-cancer oncogenic signatures from around 10,000 patients, we are developing a tool to match patients to appropriate clinical trials based on shared occurrence of genomic alterations. We anticipate working with clinicians to design basket or match trials in the near future.",
-       "image": "cbioportal.png"
-     },
-     {
-       "title": "Structural and evolutionary biology",
-       "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School, we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we have solved the problem of 3D fold prediction using information from next-generation sequencing. We are now generating evolutionarily constrained sequences in the laboratory, and further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
-       "image": "evcouplings.png"
-     },
-     {
-       "title": "Outlook on goals, style of science, and collaborations",
-       "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at Harvard Medical School (HMS). We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
-       "image": "blank.png"
-     }
+    "overview":{
+        "topics":[
+         {
+           "title": "Predictive network models",
+           "description": "We are modeling intracellular signaling events (e.g., between proteins, nucleic acids, and metabolites) and cell-cell interactions to better understand what functionally changes in cancer and how to exploit vulnerabilities. In wet and dry laboratories, and with collaborators, we are gathering data from systematic perturbation experiments with rich observational readouts to derive quantitative and predictive models. We have a particular interest in identifying promising combination therapies for cancer to circumvent drug resistance.",
+           "image": "networkmodels.png"
+         },
+         {
+           "title": "Cancer precision medicine",
+           "description": "We have played a key role in national and international cancer genome atlas projects by providing open-source bioinformatics tools for analysis. We collaborate closely with clinicians (primarily at the Dana-Farber Cancer Institute (DFCI) and Memorial Sloan Kettering) to apply bioinformatics analysis to cancer genomics. For example, by analyzing pan-cancer oncogenic signatures from around 10,000 patients, we are developing a tool to match patients to appropriate clinical trials based on shared occurrence of genomic alterations. We anticipate working with clinicians to design basket or match trials in the near future.",
+           "image": "cbioportal.png"
+         },
+         {
+           "title": "Structural and evolutionary biology",
+           "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School, we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we have solved the problem of 3D fold prediction using information from next-generation sequencing. We are now generating evolutionarily constrained sequences in the laboratory, and further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
+           "image": "evcouplings.png"
+         },
+         {
+           "title": "Outlook on goals, style of science, and collaborations",
+           "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at Harvard Medical School (HMS). We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
+           "image": "blank.png"
+         }
+       ]
+   },
+   "publications":[
    ]
 },
 

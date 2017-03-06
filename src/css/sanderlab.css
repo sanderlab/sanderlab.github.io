@@ -38,18 +38,18 @@
 }
 
 /* tabs resizing */
-.sanderlab md-tabs.hide-xs{
+.sanderlab .navbar md-tabs.hide-xs{
 	min-height: initial;
 }
-.sanderlab md-tabs-canvas{
+.sanderlab .navbar md-tabs-canvas{
 	height:100px;
 }
-.sanderlab md-pagination-wrapper{
+.sanderlab .navbar md-pagination-wrapper{
 	top:0;
 	bottom:0;
 	margin:auto;
 }
-.sanderlab md-tabs-content-wrapper{
+.sanderlab .navbar md-tabs-content-wrapper{
 	top:100px;
 	height:0;
 	display:none;
