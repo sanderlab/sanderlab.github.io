@@ -35,6 +35,14 @@
        {
        "citation": "Hopf TA, Ingraham JB, Poelwijk FJ, Schärfe CP, Springer M, Sander C, Marks DS. Mutation effects predicted from sequence co-variation. Nat Biotechnol. 2017 Feb;35(2):128-135. doi: 10.1038/nbt.3769. PubMed PMID: 28092658.", 
        "pdf":"../pdf/201701_Hopf_MutationEffectsPredicted_NatureBiotechnology.pdf"
+     },
+       {
+       "citation": "Toth-Petroczy A, Palmedo P, Ingraham J, Hopf TA, Berger B, Sander C, Marks DS. Structured States of Disordered Proteins from Genomic Sequences. Cell. 2016 Sep 22;167(1):158-170.e12. doi: 10.1016/j.cell.2016.09.010. PubMed PMID: 27662088.", 
+       "pdf":"../pdf/201609_Toth-Petroczy_StructuredStates_Cell.pdf"
+     },
+       {
+       "citation": "Weinreb C, Riesselman AJ, Ingraham JB, Gross T, Sander C, Marks DS. 3D RNA and Functional Interactions from Evolutionary Couplings. Cell. 2016 May 5;165(4):963-75. doi: 10.1016/j.cell.2016.03.030. PubMed PMID: 27087444; PubMed Central PMCID: PMC5024353.", 
+       "pdf":"../pdf/201605_Weinreb_3D_RNA_FunctionalInteractions_Cell.pdf"
      }
    ]
 },
