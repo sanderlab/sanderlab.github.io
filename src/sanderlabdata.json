@@ -32,6 +32,10 @@
        ]
    },
    "publications":[
+       {
+       "citation": "Hopf TA, Ingraham JB, Poelwijk FJ, Schärfe CP, Springer M, Sander C, Marks DS. Mutation effects predicted from sequence co-variation. Nat Biotechnol. 2017 Feb;35(2):128-135. doi: 10.1038/nbt.3769. PubMed PMID: 28092658.", 
+       "pdf":"../pdf/201701_Hopf_MutationEffectsPredicted_NatureBiotechnology.pdf"
+     }
    ]
 },
 
