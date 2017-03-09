@@ -30,37 +30,7 @@
            "image": "blank.png"
          }
        ]
-   },
-   "publications":[
-       {
-       "citation": "Hopf TA, Ingraham JB, Poelwijk FJ, Schärfe CP, Springer M, Sander C, Marks DS. Mutation effects predicted from sequence co-variation. Nat Biotechnol. 2017 Feb;35(2):128-135. doi: 10.1038/nbt.3769. PubMed PMID: 28092658.", 
-       "pdf":"../pdf/201701_Hopf_MutationEffectsPredicted_NatureBiotechnology.pdf"
-     },
-       {
-       "citation": "Gao J, Chang MT, Johnsen HC, Gao SP, Sylvester BE, Sumer SO, Zhang H, Solit DB, Taylor BS, Schultz N, Sander C. 3D clusters of somatic mutations in cancer reveal numerous rare mutations as functional targets. Genome Med. 2017 Jan 23;9(1):4. doi: 10.1186/s13073-016-0393-x. PubMed PMID: 28115009; PubMed Central PMCID: PMC5260099.", 
-       "pdf":"../pdf/201701_Gao_3D_ClustersSomaticMutations_GenomeMedicine.pdf.pdf"
-     },
-       {
-       "citation": "Reznik E, Wang Q, La K, Schultz N, Sander C. Mitochondrial respiratory gene expression is suppressed in many cancers. Elife. 2017 Jan 18;6. pii: e21592. doi: 10.7554/eLife.21592. PubMed PMID: 28099114; PubMed Central PMCID: PMC5243113.", 
-       "pdf":"../pdf/201701_Reznik_MitochondrialRespiratoryGeneExpression_ eLife.pdf.pdf"
-     },
-       {
-       "citation": "Şenbabaoğlu Y, Gejman RS, Winer AG, Liu M, Van Allen EM, de Velasco G, Miao D, Ostrovnaya I, Drill E, Luna A, Weinhold N, Lee W, Manley BJ, Khalil DN, Kaffenberger SD, Chen Y, Danilova L, Voss MH, Coleman JA, Russo P, Reuter VE, Chan TA, Cheng EH, Scheinberg DA, Li MO, Choueiri TK, Hsieh JJ, Sander C, Hakimi AA. Tumor immune microenvironment characterization in clear cell renal cell carcinoma identifies prognostic and immunotherapeutically relevant messenger RNA signatures. Genome Biol. 2016 Nov 17;17(1):231. Erratum in: Genome Biol. 2017 Mar 1;18(1):46. PubMed PMID: 27855702; PubMed Central PMCID: PMC5114739.", 
-       "pdf":"../pdf/201602_Senbabaoglu_Multi-MethodApproachProteomicNetwork_ PLoSComputationalBiology.pdf"
-     },
-       {
-       "citation": "Okada T, Lee AY, Qin LX, Agaram N, Mimae T, Shen Y, O'Connor R, López-Lago MA, Craig A, Miller ML, Agius P, Molinelli E, Socci ND, Crago AM, Shima F, Sander C, Singer S. Integrin-α10 Dependency Identifies RAC and RICTOR as Therapeutic Targets in High-Grade Myxofibrosarcoma. Cancer Discov. 2016 Oct;6(10):1148-1165. PubMed PMID: 27577794; PubMed Central PMCID: PMC5050162.", 
-       "pdf":"../pdf/201608_Okada_Integrin-alpha10_CancerDiscovery.pdf"
-     },
-       {
-       "citation": "Toth-Petroczy A, Palmedo P, Ingraham J, Hopf TA, Berger B, Sander C, Marks DS. Structured States of Disordered Proteins from Genomic Sequences. Cell. 2016 Sep 22;167(1):158-170.e12. doi: 10.1016/j.cell.2016.09.010. PubMed PMID: 27662088.", 
-       "pdf":"../pdf/201609_Toth-Petroczy_StructuredStates_Cell.pdf"
-     },
-       {
-       "citation": "Weinreb C, Riesselman AJ, Ingraham JB, Gross T, Sander C, Marks DS. 3D RNA and Functional Interactions from Evolutionary Couplings. Cell. 2016 May 5;165(4):963-75. doi: 10.1016/j.cell.2016.03.030. PubMed PMID: 27087444; PubMed Central PMCID: PMC5024353.", 
-       "pdf":"../pdf/201605_Weinreb_3D_RNA_FunctionalInteractions_Cell.pdf"
-     }
-   ]
+   }
 },
 
 "contact":{

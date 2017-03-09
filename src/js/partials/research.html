@@ -34,26 +34,15 @@
       </md-tab>
       
       <md-tab label="Publications">
-        <md-content class="md-padding" 
-                    layout="row" 
+        <md-content layout="row" 
                     layout-xs="column"
                     layout-align="center center"
-                    layout-wrap 
-                    layout-margin>
-                    
-          <div flex-xs flex-gt-xs="60">
-            <md-card ng-repeat="publication in sitedata.research.publications">
-              <md-card-content>
-                <p>
-                  {{publication.citation}}
-                  <span ng-show="publication.pdf">
-                    (<a target="_blank" ng-href="{{publication.pdf}}">pdf</a>)
-                  </span>
-                </p>
-              </md-card-content>
-            </md-card>
+                    layout-wrap>
+          
+          <div flex-xs flex-gt-xs="60"
+               ng-include src="'js/partials/publications.html'">
           </div>
-  
+             
           <div flex="100" layout-align="center center" style="text-align:center">
             For an up-to-date list of Sander lab publications, please see our Google Scholar page 
             <a target="_blank" href="https://scholar.google.com/citations?user=4R7_wW8AAAAJ&hl=en">here.</a>
