@@ -102,7 +102,7 @@
           "description":"Sahand Hormoz will join us as an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI in June 2017. His academic appointment will be in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
         },
         {
-          "title": "YOU?!", 
+          "title": "YOU?", 
           "link": "http://sanderlab.org/associateprofessor.html",
           "description":"We are currently searching for an exceptional Assistant/Associate Professor in Computational Biology to join the cBio Center, with an academic appointment in the Department of Biomedical Informatics at Harvard Medical School. Please help us spread the word to potential candidates!"
         }
@@ -138,7 +138,7 @@
      "pubmed_link": "",
      "personal_website": "https://www.linkedin.com/in/laurakleiman",
      "tagline": "Enabling translational cancer research",
-     "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she initiated a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
+     "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she led all start-up activities for a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
   },
   {
      "key": "dwanaagosto",
@@ -283,7 +283,14 @@
 ],
 
 "news":[
-  {
+   {
+     "title": "Chris presents at the Governor's Conference on Effective Partnering in Cancer Research at the Institute for Advanced Study at Princeton",
+     "date": "April 6, 2017",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "Welcome to Benni Schubert, a new postdoctoral fellow!",
      "date": "October 1, 2016",
      "paragraphs":[
