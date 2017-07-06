@@ -283,7 +283,14 @@
 ],
 
 "news":[
-      {
+  {
+     "title": "New preprint: \"Protein profiling in cancer cell lines And tumor tissue using reverse phase protein arrays\" - Jing et al., bioRxiv",
+     "date": "May 31, 2017",
+     "paragraphs":[
+ ""
+     ]
+  },   
+   {
      "title": "Chris named the latest member of the Zuse Institute Digital Future Hall of Fame and presents keynote lecture in Berlin",
      "date": "May 12, 2017",
      "paragraphs":[
