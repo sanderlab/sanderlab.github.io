@@ -141,6 +141,20 @@
      "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she led all start-up activities for a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
   },
   {
+     "key": "augustinluna",
+     "name": "Augustin Luna",
+     "role": "Bioinformatics Scientist and Program Organizer",
+     "email": "anula@jimmy.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "AugustinLuna.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "https://www.linkedin.com/in/augustin-luna-12473510/",
+     "tagline": "Using molecular networks and pathways as a means of integrating and analyzing wide-scale changes in cellular processes in response to external stimuli (e.g. drug response) and alterations (e.g. mutations) through statistical and mechanistic models",
+     "bio": "<p>Dr. Augustin Luna has a background in biomedical engineering and is a Bioinformatics Scientist in the cBio Center at the Dana-Farber Cancer Institute and the Department of Cell Biology at Harvard Medical School. Augustin did a post-doctoral research fellowship in the Computational Biology Center at Memorial Sloan-Kettering Cancer Center where he conducted research through a Ruth L. Kirschstein National Research Service Award (NRSA) for a project entitled \"Chemogenomic Analysis of the NCI Therapeutic Compound Database\". Previously, Augustin earned his PhD through the joint NIH Graduate Partnership Program (NIH GPP) in Bioinformatics with the National Cancer Institute/Developmental Therapeutics Branch and Boston University on work modeling the inter-relationship between DNA damage response and metabolism.</p><p>The underlying thread of his work has been the analysis of complex biological systems to understand and control them in order to improve human health. A focal point of this work has been the usage of molecular networks and pathways as a means of integrating and analyzing wide-scale changes in cellular processes in response to external stimuli (e.g. drug response) and alterations (e.g. mutations) through statistical and mechanistic models. Additionally, he has worked to facilitate wide dissemination of scientific data and software tools. He has done this through work on standardized representations of biological data (e.g. the Biological Pathway Exchange format and the Systems Biology Graphical Notation) and the development (and by mentoring student projects) of software tools to visualize and analyze biological networks.</p>"
+  },
+  {
      "key": "dwanaagosto",
      "name": "Dwana Agosto",
      "role": "Center Administrator",
