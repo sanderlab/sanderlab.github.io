@@ -297,7 +297,14 @@
 ],
 
 "news":[
-  {
+   {
+     "title": "New publication: \"Analysis of renal cancer cell lines from two major resources enables genomics-guided cell line selection\" (Sinha et al., Nature Communications)",
+     "date": "May 10, 2017",
+     "paragraphs":[
+ "Read the paper <a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436135/\"> here</a>."
+     ]
+  }, 
+   {
      "title": "New publication: \"Integrated genomic and molecular characterization of cervical cancer\" (The Cancer Genome Atlas Research Network, Nature)",
      "date": "March 16, 2017",
      "paragraphs":[
