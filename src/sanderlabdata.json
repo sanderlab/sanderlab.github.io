@@ -297,7 +297,21 @@
 ],
 
 "news":[
-  {
+    {
+     "title": "New publication: \"Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma\" (TCGA Research Network, Cancer Cell)",
+     "date": "August 14, 2017",
+     "paragraphs":[
+ "Read the paper <a target=\"_blank\" href=\"http://www.sciencedirect.com/science/article/pii/S1535610817302994\"> here</a>."
+     ]
+  },
+      {
+     "title": "New publication: \"CTD2 Dashboard: a searchable web interface to connect validated results from the Cancer Target Discovery and Development Network\" (Aksoy et al., Database)",
+     "date": "August 8, 2017",
+     "paragraphs":[
+ "Read the paper <a target=\"_blank\" href=\"https://academic.oup.com/database/article/4079798\"> here</a>."
+     ]
+  },
+   {
      "title": "Carlos Carmona Fontaine (New York University) visits the cBio Center and presents \"Metabolic sources of immune cell variability in the tumor microenvironment\"",
      "date": "August 18, 2017",
      "paragraphs":[
