@@ -196,6 +196,20 @@
      "tagline": "Using mathematical modeling to predict the dynamics of microbial systems under perturbations, such as antibiotics, and optimize drug combinations in cancer",
      "bio": "Richard's background is in mathematics and theoretical biophysics. He studied mathematics at Humboldt-Universität zu Berlin, Germany and finished his PhD in theoretical physics at Institut Curie and Université Pierre et Marie Curie in Paris, France. Previously, he was a postdoc with Chris Sander at Memorial Sloan Kettering Cancer Center in New York."
   },
+     {
+     "key": "judyshen",
+     "name": "Judy (Ciyue) Shen",
+     "role": "Graduate student",
+     "email": "nehs_c@g.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center Building", "9th Floor"],
+     "photo": "Judy.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Combining experimental and computational approaches to develop combination therapies for cancer",
+     "bio": "Judy got her bachelors degree in biochemistry and mathematics at Brandeis University. In her undergraduate research, she studied mechanisms and kinetics of transcription factor interactions using single-molecule microscopy. Judy is now a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School and interested in translational research that integrates experimental and computational approaches. In the Sander lab, Judy is studying combination therapies for cancer."
+  },
   {
      "key": "thomashopf",
      "name": "Thomas A. Hopf",
