@@ -307,6 +307,20 @@
      "personal_website": "",
      "tagline": "Performing quantitative experiments and theoretical modeling to explore how biological interactions shape evolution, both in nature and in the clinic",
      "bio": "Frank's aim is to find simple, but informative, descriptions of how proteins and biochemical networks are shaped by evolution and how they adapt, in an attempt to make evolution a more quantitative and predictive science. His major focus is on understanding the complexities caused by biological interactions, relevant not only to natural evolution, but also to 'clinical evolution', such as in tumor development, within-host viral evolution, and the acquisition of antibiotic resistance. Frank's background is in experimental physics and his research is an interplay between experiment and theoretical modeling. In his current position At the cBio Center, he has set up a laboratory that develops core technologies in mutant library generation, high-throughput screening, and directed evolution, in order to test concepts in evolutionary systems biology."
+  },
+  {
+     "key": "christiandallago",
+     "name": "Christian Dallago",
+     "role": "Visiting Software Engineer",
+     "email": "",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "ChristianDallago.png",
+     "google_scholar_link": "https://scholar.google.com/citations?user=4q0fNGAAAAAJ",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Using phenotypic data to engineer drug similarity measures",
+     "bio": "Christian completed his Master of Science at the Technical University of Munich (TUM), in Germany. He has spent two years working on different software tools for Rostlab, the chair of Bioinformatics at TUM, and wrote his master thesis on adverse drug reaction prediction. He joined cBio Center at DFCI to co-develop new visualization tools and advance his research."
   }
 ],
 
