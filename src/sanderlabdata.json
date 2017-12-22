@@ -321,6 +321,20 @@
      "personal_website": "",
      "tagline": "Using phenotypic data to engineer drug similarity measures",
      "bio": "Christian completed his Master of Science at the Technical University of Munich (TUM), in Germany. He has spent two years working on different software tools for Rostlab, the chair of Bioinformatics at TUM, and wrote his master thesis on adverse drug reaction prediction. He joined cBio Center at DFCI to co-develop new visualization tools and advance his research."
+  },
+  {
+     "key": "rohanmaddamsetti",
+     "name": "Rohan Maddamsetti",
+     "role": "Postdoctoral Fellow",
+     "email": "nahor@hms.harvard.edu",
+     "phone": "",
+     "location": ["Armenise Building, 6th Floor"],
+     "photo": "Rohan.png",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "https://rohanmaddamsetti.weebly.com",
+     "tagline": "Molecular evolution of proteins and genomes",
+     "bio": "Rohan is a postdoctoral fellow in the Harvard Medical School Department of Systems Biology, advised by Profs. Debora Marks and Chris Sander. He is working on Pathway Commons biological applications and analysis tools."
   }
 ],
 
