@@ -98,13 +98,13 @@
         },
         {
           "title": "Hormoz laboratory", 
-          "link": "http://sysbio.med.harvard.edu/sahand-hormoz",
-          "description":"Sahand Hormoz will join us as an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI in June 2017. His academic appointment will be in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
+          "link": "https://www.sahandhormoz.com/",
+          "description":"Sahand Hormoz is an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI. His academic appointment is in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
         },
         {
-          "title": "YOU?", 
-          "link": "http://sanderlab.org/associateprofessor.html",
-          "description":"We are currently searching for an exceptional Assistant/Associate Professor in Computational Biology to join the cBio Center, with an academic appointment in the Department of Biomedical Informatics at Harvard Medical School. Please help us spread the word to potential candidates!"
+          "title": "Singer laboratory", 
+          "link": "https://personal.broadinstitute.org/msinger/",
+          "description":"Meromit Singer will join us as an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI in June 2018! Her academic appointment will be in the Department of Microbiology and Immunology at Harvard Medical School." 
         }
      ]
 },
