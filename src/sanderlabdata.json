@@ -340,6 +340,13 @@
 
 "news":[
    {
+     "title": "Welcome to Christian Dallago, a visiting software engineer!",
+     "date": "January 8, 2018",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "New publication: \"Comprehensive and Integrative Genomic Characterization of Hepatocellular Carcinoma\" (TCGA Research Network, Cell)",
      "date": "June 15, 2017",
      "paragraphs":[
