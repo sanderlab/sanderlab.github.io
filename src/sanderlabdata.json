@@ -335,10 +335,31 @@
      "personal_website": "https://rohanmaddamsetti.weebly.com",
      "tagline": "Molecular evolution of proteins and genomes",
      "bio": "Rohan is a postdoctoral fellow in the Harvard Medical School Department of Systems Biology, advised by Profs. Debora Marks and Chris Sander. He is working on Pathway Commons biological applications and analysis tools."
+  },
+  {
+     "key": "carolinloos",
+     "name": "Carolin Loos",
+     "role": "Research Intern",
+     "email": "sool_nilorac@hms.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "",
+     "google_scholar_link": "https://scholar.google.com/citations?user=r5hdqSQAAAAJ&hl=en",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Developing and applying methods for the calibration of mechanistic models to get a better understanding of diseases",
+     "bio": "Carolin’s background is in applied mathematics. During her master’s studies at the Technical University of Munich she became interested in computational biology. Thus she joined the Institute of Computational Biology at the Helmholtz Zentrum München for her PhD thesis, where she works on statistical analysis of single-cell data and parameter estimation for ordinary differential equation models. Carolin has joined the Sander lab as a research intern to apply and develop computational methods to study cancer signaling."
   }
 ],
 
 "news":[
+   {
+     "title": "Welcome to research intern Carolin Loos!",
+     "date": "January 16, 2018",
+     "paragraphs":[
+ ""
+     ]
+  },
    {
      "title": "Welcome to Christian Dallago, a visiting software engineer!",
      "date": "January 8, 2018",
