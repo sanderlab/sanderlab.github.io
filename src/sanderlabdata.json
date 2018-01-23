@@ -89,7 +89,7 @@
 
 
 "cBio":{
-     "description": "Official website coming soon! The Sander lab is based in the newly formed cBio Center at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
+     "description": "Official website coming soon! The Sander lab is based in the newly formed (<a target=\"_blank\" href=\"http://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center/\">cBio Center</a>) at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
      "other_groups": [
         {
           "title": "Knowledge Systems Group", 
