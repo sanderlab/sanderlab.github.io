@@ -13,7 +13,7 @@
       <div>
         <h3>News</h3>
         <ul>
-          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:4">
+          <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:6">
             <strong ng-bind="newsitem.date"></strong>:
             <span ng-bind="newsitem.title"></span>
           </li>
