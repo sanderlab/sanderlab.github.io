@@ -349,6 +349,20 @@
      "personal_website": "",
      "tagline": "Developing and applying methods for the calibration of mechanistic models to get a better understanding of diseases",
      "bio": "Carolin’s background is in applied mathematics. During her master’s studies at the Technical University of Munich she became interested in computational biology. Thus she joined the Institute of Computational Biology at the Helmholtz Zentrum München for her PhD thesis, where she works on statistical analysis of single-cell data and parameter estimation for ordinary differential equation models. Carolin has joined the Sander lab as a research intern to apply and develop computational methods to study cancer signaling."
+  },
+  {
+     "key": "alexandrafranz",
+     "name": "Alexandra Franz",
+     "role": "Postdoctoral Fellow",
+     "email": "znarfa@jimmy.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "Alexandra_Franz.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Applying perturbation biology and computational modeling to decipher cancer vulnerabilities that are exploitable for high efficacy cancer therapies",
+     "bio": "Alexandra has a background in Molecular Biology. In her graduate studies at the Swiss Federal Institute of Technology (ETH) and University of Zurich, she studied the Wnt signaling pathway using a combination of large-scale quantitative sequencing approaches and somatic genetics (e.g., CRISPR/Cas9). As a Research Fellow in Chris Sander’s group, Alexandra is interested in identifying cancer vulnerabilities that are exploitable for high efficacy cancer therapies. Alexandra spends time in both the wet and dry lab, applying perturbation biology and computational modeling to comprehensively profile and model the pathomechanisms involved in high-grade serous ovarian cancer."
   }
 ],
 
