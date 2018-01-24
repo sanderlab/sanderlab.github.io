@@ -1,7 +1,7 @@
 <div class="toppage cbiocenter" layout="row" layout-align="center top" layout-wrap>
 
   <h2 flex="90">cBio Center</h2>
-  <p flex="90" ng-bind="sitedata.cBio.description"></p>
+  <p flex="90" ng-bind-html="sitedata.cBio.description"></p>
   <div flex-xs flex-gt-xs="60">
     <md-card ng-repeat="othergroup in sitedata.cBio.other_groups">
       <md-card-title>
