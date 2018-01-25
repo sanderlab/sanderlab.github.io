@@ -4,7 +4,7 @@
       <md-card-title>
         <md-card-title-text>
           <span class="md-subhead" ng-bind="newsitem.date"></span>
-          <span class="md-headline" ng-bind="newsitem.title" style="font-size:18px;"></span>
+          <span class="md-headline" ng-bind-html="getSafeHtml(newsitem.title)" style="font-size:18px;"></span>
         </md-card-title-text>
       </md-card-title>
       <md-card-content>
