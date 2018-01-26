@@ -16,25 +16,13 @@
   <!-- other contact info -->
   <div flex="100" flex-gt-xs="30" layout="column" layout-align="center center"> 
     <div class="md-headline" ng-bind="sitedata.contact.other_contact.name"></div>
-    <div class="md-subhead">Scientific Research Director</div>
+    <div class="md-subhead">Scientific Research Director, cBio Center</div>
     <div class="md-subhead">
       <a ng-href="mailto:{{reverseEmail(sitedata.contact.other_contact.email_reversed)}}">
         <span ng-bind="reverseEmail(sitedata.contact.other_contact.email_reversed)"></span>
       </a>
     </div>
     <div class="md-subhead" ng-bind="sitedata.contact.other_contact.phone"></div>
-  </div>
-  
-  <!-- administrative contact info -->
-  <div flex="100" flex-gt-xs="30" layout="column" layout-align="center center"> 
-    <div class="md-headline" ng-bind="sitedata.contact.administrative_contact.name"></div>
-    <div class="md-subhead">Center Administrator</div>
-    <div class="md-subhead">
-      <a ng-href="mailto:{{reverseEmail(sitedata.contact.administrative_contact.email_reversed)}}">
-        <span ng-bind="reverseEmail(sitedata.contact.administrative_contact.email_reversed)"></span>
-      </a>
-    </div>
-    <div class="md-subhead" ng-bind="sitedata.contact.administrative_contact.phone"></div>
   </div>
   
   <!-- a break -->
