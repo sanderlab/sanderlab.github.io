@@ -15,7 +15,7 @@
         <ul>
           <li ng-repeat="newsitem in sitedata.news | orderBy:'timestamp':true | limitTo:6">
             <strong ng-bind="newsitem.date"></strong>:
-            <span ng-bind="newsitem.title"></span>
+            <span ng-bind-html="getSafeHtml(newsitem.title)"></span>
           </li>
           <li>
            <strong>...</strong> more news items are available <a ui-sref="news">here</a>.
