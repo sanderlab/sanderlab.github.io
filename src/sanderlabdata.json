@@ -353,11 +353,32 @@
      "personal_website": "https://www.linkedin.com/in/alexreynolds15/",
      "tagline": "Investigating molecular methods to better understand evolution-selection, as well as perturbation biology for developing cancer treatments",
      "bio": "A Senior Research Technician in the Sander Lab at the Dana-Farber Cancer Institute, Al is interested in molecular biology and genetics. Al is striving to get a better understanding of how directed evolution can influence protein folding and protein interactions. Additionally, Al is interrogating perturbation biology as a vehicle to develop a molecular model for studying high-grade serious ovarian cancer. A graduate with a Bachelor's in Biological Sciences from Louisiana State University, Al is also pursuing a Master's degree in Biotechnology from the Harvard Extension School. Other biology topics of interest include plant biology, cell biology, high-throughput experiments, and genomics."
+  },
+  {
+     "key": "AndrewDiamantoukos",
+     "name": "Andrew Diamantoukos",
+     "role": "Lead Software Engineer",
+     "email": "dwerdna@jimmy.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "Andrew_Diamantoukos.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Computer science, graphics, mathematics, and making the world a better place through software",
+     "bio": "Drew graduated from the Rochester Institute of Technology in 2013 with, of all things, a degree in Game Design & Development. Since then he has been heavily involved at various companies, learning about and delivering great software. He is extremely excited to grow here, and join the Human Cell Atlas Project in contributing massively to Open Source Software."
   }
 ],
 
 "news":[
   {
+     "title": "Welcome to Drew Diamantoukos, lead software engineer!",
+     "date": "March 2, 2018",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "Welcome to senior research technician Alexander Reynolds!",
      "date": "February 13, 2018",
      "paragraphs":[
