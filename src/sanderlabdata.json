@@ -39,6 +39,11 @@
         "email_reversed": "sirhc@sanderlab.org",
         "phone": ""
      },
+     "administrative_contact": {
+        "name": "Claire Hopkins",
+        "email_reversed": "snikpohc@bcb-mail.dfci.harvard.edu",
+        "phone": "(617) 582-9717"
+     },
      "other_contact": {
         "name": "Laura Kleiman",
         "email_reversed": "namielk@bcb-mail.dfci.harvard.edu",
