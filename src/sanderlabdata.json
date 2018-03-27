@@ -372,11 +372,32 @@
      "personal_website": "",
      "tagline": "Computer science, graphics, mathematics, and making the world a better place through software",
      "bio": "Drew graduated from the Rochester Institute of Technology in 2013 with, of all things, a degree in Game Design & Development. Since then he has been heavily involved at various companies, learning about and delivering great software. He is extremely excited to grow here, and join the Human Cell Atlas Project in contributing massively to Open Source Software."
+  },
+  {
+     "key": "ClaireHopkins",
+     "name": "Claire Hopkins",
+     "role": "Administrator",
+     "email": "snikpohc@jimmy.harvard.edu",
+     "phone": "617-582-9717",
+     "location": ["Longwood Center, 9th Floor, Room 342"],
+     "photo": "Claire.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Facilitating the administrative needs of the researchers and staff members of the cBio Center",
+     "bio": "Claire is the Administrator for the cBio Center at the Dana-Farber Cancer Institute (DFCI). She previously worked for the Center for Genetics and Prevention at DFCI in clinical administration. She worked in the United Kingdom as the Living Laboratory for Sustainability Coordinator at the University of Cambridge before becoming the Student Alumni Relations Coordinator for the Cambridge Judge Business School."
   }
 ],
 
 "news":[
-  {
+ {
+     "title": "Welcome to our new administrator, Claire Hopkins!",
+     "date": "March 2, 2018",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "Welcome to Drew Diamantoukos, lead software engineer!",
      "date": "March 2, 2018",
      "paragraphs":[
