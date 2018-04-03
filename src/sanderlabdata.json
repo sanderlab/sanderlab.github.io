@@ -390,7 +390,14 @@
 ],
 
 "news":[
- {
+  {
+     "title": "New preprint: \"Causal interactions from proteomic profiles: molecular data meets pathway knowledge\" (Babur et al., bioRxiv).",
+     "date": "February 24, 2018",
+     "paragraphs":[
+ "Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/24/258855.article-info\"> here</a>."
+     ]
+  },
+   {
      "title": "Welcome to our new administrator, Claire Hopkins!",
      "date": "March 27, 2018",
      "paragraphs":[
@@ -420,7 +427,7 @@
   },
    {
      "title": "New publication: \"A Landscape of Metabolic Variation across Tumor Types\" (Reznik et al., Cell Systems). <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/study-provides-first-systematic-survey-of-metabolites-across-tumor-types/\">DFCI Press Release</a>. <a target=\"_blank\" href=\"https://www.mskcc.org/blog/scientists-create-first-its-kind-metabolic-road-map\">MSKCC Blog</a>.",
-     "date": "January 24, 2018",
+     "date": "February 28, 2018",
      "paragraphs":[
  "Read the paper <a target=\"_blank\" href=\"http://www.cell.com/pb-assets/journals/research/cell-systems/CELS394.pdf\"> here</a>."
      ]
