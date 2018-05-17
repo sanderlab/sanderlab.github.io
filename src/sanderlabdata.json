@@ -346,20 +346,6 @@
      "bio": "Alexandra has a background in Molecular Biology. In her graduate studies at the Swiss Federal Institute of Technology (ETH) and University of Zurich, she studied the Wnt signaling pathway using a combination of large-scale quantitative sequencing approaches and somatic genetics (e.g., CRISPR/Cas9). As a Research Fellow in Chris Sander’s group, Alexandra is interested in identifying cancer vulnerabilities that are exploitable for high efficacy cancer therapies. Alexandra spends time in both the wet and dry lab, applying perturbation biology and computational modeling to comprehensively profile and model the pathomechanisms involved in high-grade serous ovarian cancer."
   },
   {
-     "key": "AlexanderReynolds",
-     "name": "Alexander Reynolds",
-     "role": "Sr. Research Technician",
-     "email": "sdlonyer@jimmy.harvard.edu",
-     "phone": "(617) 582-9311",
-     "location": ["Longwood Center, 4th Floor, LC-4315G"],
-     "photo": "Al.jpg",
-     "google_scholar_link": "",
-     "pubmed_link": "",
-     "personal_website": "https://www.linkedin.com/in/alexreynolds15/",
-     "tagline": "Investigating molecular methods to better understand evolution-selection, as well as perturbation biology for developing cancer treatments",
-     "bio": "A Senior Research Technician in the Sander Lab at the Dana-Farber Cancer Institute, Al is interested in molecular biology and genetics. Al is striving to get a better understanding of how directed evolution can influence protein folding and protein interactions. Additionally, Al is interrogating perturbation biology as a vehicle to develop a molecular model for studying high-grade serious ovarian cancer. A graduate with a Bachelor's in Biological Sciences from Louisiana State University, Al is also pursuing a Master's degree in Biotechnology from the Harvard Extension School. Other biology topics of interest include plant biology, cell biology, high-throughput experiments, and genomics."
-  },
-  {
      "key": "AndrewDiamantoukos",
      "name": "Andrew Diamantoukos",
      "role": "Lead Software Engineer",
