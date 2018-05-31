@@ -372,6 +372,20 @@
      "personal_website": "",
      "tagline": "Facilitating the administrative needs of the researchers and staff members of the cBio Center",
      "bio": "Claire is the Administrator for the cBio Center at the Dana-Farber Cancer Institute (DFCI). She previously worked for the Center for Genetics and Prevention at DFCI in clinical administration. She worked in the United Kingdom as the Living Laboratory for Sustainability Coordinator at the University of Cambridge before becoming the Student Alumni Relations Coordinator for the Cambridge Judge Business School."
+  },
+  {
+     "key": "Ayah",
+     "name": "Ayah Aboelela",
+     "role": "Undergraduate Research Intern",
+     "email": "100aleleoba.haya@umb.edu",
+     "phone": "508-744-6687",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "Ayah.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Applying computer science to interdisciplinary fields--specifically computational biology and bioinformatics. Using computation to draw interactions between key factors involved in cancer.",
+     "bio": "Ayah is an undergraduate student at UMass Boston majoring in computer science. She is now a summer research intern at the Sander Lab, hoping to explore how she can apply computer science to different fields, learn more about bioinformatics and computational biology, and use her skills to contribute to the search for a cure for cancer."
   }
 ],
 
