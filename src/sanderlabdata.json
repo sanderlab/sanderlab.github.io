@@ -400,6 +400,20 @@
      "personal_website": "",
      "tagline": "Combining perturbation biology and computational approaches to develop high efficacy combination cancer therapies",
      "bio": "Lea’s background is in life science engineering. During her master’s studies at the Swiss Federal Institute of Technology Lausanne (EPFL) she specialized in systems biology and molecular medical engineering. Being interested in experimental and computational biology, she joined Chris Sander’s group as part of her Master’s degree. Lea is now working in the wet lab, using perturbation biology to develop high efficacy combination therapies for cancer, in particular for high-grade serous ovarian cancer."
+  },
+     {
+     "key": "Bo",
+     "name": "Bo Yuan",
+     "role": "Graduate Student",
+     "email": "nauyob@g.harvard.edu",
+     "phone": "203-889-1375",
+     "location": ["Longwood Center, 9th Floor, Room 315 (LC-9315)"],
+     "photo": "BO.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Bridging cutting-edge data science technology with large-scale biological data, particularly modeling single-cell response to perturbations with deep learning models; co-advised by Aviv Regev at the Broad Institute",
+     "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Dr. Tian Xu at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning in cancer transcriptome. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarship and awards. He has first-authored research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo is particularly interested in using deep learning to understand cell biology, especially on the single-cell level. He is co-advised by Aviv Regev at the Broad Institute."
   }
 ],
 
