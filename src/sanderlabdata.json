@@ -386,6 +386,20 @@
      "personal_website": "",
      "tagline": "Applying computer science to interdisciplinary fields--specifically computational biology and bioinformatics. Using computation to draw interactions between key factors involved in cancer.",
      "bio": "Ayah is an undergraduate student at UMass Boston majoring in computer science. She is now a summer research intern at the Sander Lab, hoping to explore how she can apply computer science to different fields, learn more about bioinformatics and computational biology, and use her skills to contribute to the search for a cure for cancer."
+  },
+     {
+     "key": "Lea",
+     "name": "Léa Charaoui",
+     "role": "Visiting Master's Student",
+     "email": "ael.iuoarahc@jimmy.harvard.edu",
+     "phone": "",
+     "location": ["Longwood Center, 9th Floor"],
+     "photo": "leacharaoui.jpg",
+     "google_scholar_link": "",
+     "pubmed_link": "",
+     "personal_website": "",
+     "tagline": "Combining perturbation biology and computational approaches to develop high efficacy combination cancer therapies",
+     "bio": "Lea’s background is in life science engineering. During her master’s studies at the Swiss Federal Institute of Technology Lausanne (EPFL) she specialized in systems biology and molecular medical engineering. Being interested in experimental and computational biology, she joined Chris Sander’s group as part of her Master’s degree. Lea is now working in the wet lab, using perturbation biology to develop high efficacy combination therapies for cancer, in particular for high-grade serous ovarian cancer."
   }
 ],
 
