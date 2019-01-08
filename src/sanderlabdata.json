@@ -166,6 +166,7 @@
   {
      "key": "richardstein",
      "name": "Richard Stein",
+     "isAlumni": true,
      "role": "Research Associate, Harvard School of Public Health",
      "email": "niets@jimmy.harvard.edu",
      "phone": "(617) 582-7229",
@@ -194,6 +195,7 @@
   {
      "key": "thomashopf",
      "name": "Thomas A. Hopf",
+     "isAlumni": true,
      "role": "Research Fellow",
      "email": "fpoh_samoht@hms.harvard.edu",
      "phone": "",
@@ -222,6 +224,7 @@
   {
      "key": "rocreguant",
      "name": "Roc Reguant",
+     "isAlumni": true,
      "role": "Visiting Research Scholar",
      "email": "sallemoctnauger_cor@hms.harvard.edu",
      "phone": "",
@@ -236,6 +239,7 @@
   {
      "key": "benjaminschubert",
      "name": "Benjamin Schubert",
+     "isAlumni": true,
      "role": "Postdoctoral Fellow",
      "email": "trebuhcs_nimajneb@hms.harvard.edu",
      "phone": "",
@@ -264,6 +268,7 @@
   {
      "key": "elinnyman",
      "name": "Elin Nyman",
+     "isAlumni": true,
      "role": "Postdoctoral Fellow",
      "email": "namyn.nile@liu.se",
      "phone": "",
@@ -306,6 +311,7 @@
   {
      "key": "rohanmaddamsetti",
      "name": "Rohan Maddamsetti",
+     "isAlumni": true,
      "role": "Postdoctoral Fellow",
      "email": "nahor@hms.harvard.edu",
      "phone": "",
@@ -320,6 +326,7 @@
   {
      "key": "carolinloos",
      "name": "Carolin Loos",
+     "isAlumni": true,
      "role": "Research Intern",
      "email": "sool_nilorac@hms.harvard.edu",
      "phone": "",
@@ -376,6 +383,7 @@
   {
      "key": "Ayah",
      "name": "Ayah Aboelela",
+     "isAlumni": true,
      "role": "Undergraduate Research Intern",
      "email": "100aleleoba.haya@umb.edu",
      "phone": "508-744-6687",
