@@ -125,7 +125,7 @@
      "key": "laurakleiman",
      "name": "Laura Kleiman",
      "role": "Scientific Research Director, cBio Center",
-     "email": "namielk@bcb-mail.dfci.harvard.edu",
+     "email": "namielk@ds.dfci.harvard.edu",
      "phone": "(617) 582-9475",
      "location": ["Longwood Center Building", "9th Floor, Room 339"],
      "photo": "LauraKleiman.jpg",
@@ -419,6 +419,13 @@
 
 "news":[
 {
+     "title": "Sander lab attends the Broad Institute retreat",
+     "date": "December 17, 2018",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "Richard Stein gives a short talk at the EMBO-EMBL Symposium \"The Human Microbiome\" in Heidelberg, Germany",
      "date": "September 16, 2018",
      "paragraphs":[
