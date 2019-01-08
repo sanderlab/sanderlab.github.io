@@ -1,6 +1,6 @@
 <div class="toppage people" layout-xs="column" layout="row" layout-wrap layout-align="center top">
 
-  <h2 flex="100">Current members</h2>
+  <h1 flex="100">Current Members</h1>
   <button ng-repeat="person in sitedata.people | orderBy:'name':false"
           ui-sref="personpage({personId:person.key})"
           flex-xs flex-sm="50" flex-gt-sm="33"
@@ -30,7 +30,7 @@
     </md-card>
   </button>
  
-  <h2 flex="100">Alumni</h2>
+  <h1 flex="100">Alumni</h1>
   <button ng-repeat="person in sitedata.people | orderBy:'name':false"
           ui-sref="personpage({personId:person.key})"
           flex-xs flex-sm="50" flex-gt-sm="33"
