@@ -419,6 +419,13 @@
 
 "news":[
 {
+     "title": "Congratulations to Frank Poelwijk for being selected for a short talk at the upcoming Q-Bio conference in Hawaii!",
+     "date": "January 8, 2019",
+     "paragraphs":[
+ ""
+     ]
+  },
+   {
      "title": "Sander lab attends the Broad Institute retreat",
      "date": "December 17, 2018",
      "paragraphs":[
@@ -447,7 +454,7 @@
      ]
   },
    {
-     "title": "Chris Sander, Laura Kleiman, and colleagues organize the Dana-Farber and Nature conference <a target=\"_blank\" href=\"http://bcb.dfci.harvard.edu/index.php/posts/127-nature18\">Big Data and Cancer Precision Medicine</a>.",
+     "title": "Chris Sander, Laura Kleiman, and colleagues organize the Dana-Farber and Nature conference <a target=\"_blank\" href=\"http://bcb.dfci.harvard.edu/index.php/posts/127-nature18\">Big Data and Cancer Precision Medicine</a>",
      "date": "October 1, 2018",
      "paragraphs":[
  ""
