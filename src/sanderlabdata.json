@@ -122,20 +122,6 @@
      "bio": "<p>Chris Sander started his career as a theoretical physicist and then switched to theoretical biology, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York - and co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as <a target=\"_blank\" href=\"http://www.dana-farber.org/Research/Departments-and-Centers/Department-of-Biostatistics-and-Computational-Biology/cBio-Center-at-Dana-Farber.aspx\">Director of the cBio Center at the Dana-Farber Cancer Institute</a> in the Department of Biostatistics and Computational Biology, <a target=\"_blank\" href=\"http://cellbio.med.harvard.edu/people/faculty/sander-0\">Professor of Cell Biology at Harvard Medical School</a>, <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is creating new connections between scientists at Dana-Farber and Harvard Medical School, including building translational collaborative bridges for scientists using quantitative sciences to solve biological problems.</p><p>With his group and collaborators, Chris aims to beat drug resistance in cancer using systems biology methods to develop combination therapies. They are also developing the next generation cBioPortal for cancer research and therapy, obtaining biomolecular structures and functional interactions on a large scale using evolutionary information, and adapting machine learning methods to mine millions of genomes.</p>"
   },
   {
-     "key": "laurakleiman",
-     "name": "Laura Kleiman",
-     "role": "Scientific Research Director, cBio Center",
-     "email": "namielk@ds.dfci.harvard.edu",
-     "phone": "(617) 582-9475",
-     "location": ["Longwood Center Building", "9th Floor, Room 339"],
-     "photo": "LauraKleiman.jpg",
-     "google_scholar_link": "",
-     "pubmed_link": "",
-     "personal_website": "https://www.linkedin.com/in/laurakleiman",
-     "tagline": "Enabling translational cancer research",
-     "bio": "Laura is Scientific Research Director of the cBio Center at the Dana-Farber Cancer Institute. Previously she was Project Manager at the drug repurposing non-profit GlobalCures, where she led all start-up activities for a multicenter Phase III cancer clinical trial. Laura earned her PhD in Computational and Systems Biology from MIT. She was an American Cancer Society Postdoctoral Fellow at the Massachusetts General Hospital and Harvard Medical School, where she conducted translational cancer research. She has also performed research at Rutgers University and the Fred Hutchinson Cancer Research Center. Laura has authored peer-reviewed journal articles and book chapters on understanding and treating cancer and has given talks internationally on her work."
-  },
-  {
      "key": "augustinluna",
      "name": "Augustin Luna",
      "role": "Bioinformatics Scientist and Program Organizer",
