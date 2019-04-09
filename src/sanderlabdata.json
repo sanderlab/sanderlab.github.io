@@ -138,7 +138,7 @@
   {
      "key": "nicholasgauthier",
      "name": "Nicholas Gauthier",
-     "role": "Staff Scientist",
+     "role": "Senior Research Scientist",
      "email": "reihtuag_psalohcin@dfci.harvard.edu",
      "phone": "(617) 582-9474",
      "location": ["Longwood Center Building", "9th Floor, Room 311"],
@@ -147,7 +147,7 @@
      "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
      "personal_website": "",
      "tagline": "Applying experimental and computational methods to probe evolution-selection and design combination therapies to overcome cancer drug resistance",
-     "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments and evaluating combination therapies for overcoming cancer drug resistance."
+     "bio": "Nick's background is in computer science and computational biology. During his graduate work in cancer biology at Memorial Sloan Kettering Cancer Center, he became fascinated by how \"normal\" cells in the tumor microenvironment influence cancer development, maintenance, and progression. To address limitations in existing methods for studying tumor-microenvironment interactions, he developed a proteomic method called CTAP for identifying and linking thousands of proteins to their cellular source in heterogeneous cell culture using mass spectrometry. During his postdoc, Nick developed a web resource for visualizing and analyzing recurrent mutation hotspots in protein domains in cancer (mutationaligner.org) and also spearheaded technology development for evolutionary constraint determination. At the cBio Center at DFCI, Nick is leading an experimental lab focused on method development for evolution-selection experiments, protein design, and evaluating combination therapies for overcoming cancer drug resistance."
   },
   {
      "key": "richardstein",
