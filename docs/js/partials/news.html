@@ -4,13 +4,18 @@
       <md-card-title>
         <md-card-title-text>
           <span class="md-subhead" ng-bind="newsitem.date"></span>
-          <span class="md-headline" ng-bind-html="getSafeHtml(newsitem.title)" style="font-size:18px;"></span>
+          <span
+            class="md-headline"
+            ng-bind-html="getSafeHtml(newsitem.title)"
+            style="font-size: 18px;"
+          ></span>
         </md-card-title-text>
       </md-card-title>
       <md-card-content>
-        <p ng-repeat="paragraph in newsitem.paragraphs"
-           ng-bind-html="getSafeHtml(paragraph)">
-        </p>
+        <p
+          ng-repeat="paragraph in newsitem.paragraphs"
+          ng-bind-html="getSafeHtml(paragraph)"
+        ></p>
       </md-card-content>
     </md-card>
   </div>
