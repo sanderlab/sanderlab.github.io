@@ -1,0 +1,224 @@
+
+
+
+
+
+
+/* header */
+.sanderlab .navbar{
+	border-bottom: 1px #e0e0e0 solid;
+    margin: 0 10px;
+    height: 100px;
+}
+
+.sanderlab .flex h1{
+	margin: 0;
+	line-height:100px;
+	text-align: center;
+	font-size:48px;
+}
+.sanderlab .flex h1 a{
+	text-decoration:none;
+	color : #800000;
+}
+
+
+/* expanding menu button when xs */
+.sanderlab .flex .md-menu{
+	height:110px;
+	line-height:110px;
+}
+.sanderlab .fa.s28 {
+  font-size:28px;
+  padding-left:0px;
+}
+.sanderlab .selectedtabicon{
+	line-height: 48px;
+    padding-right: 5px;
+}
+
+/* tabs resizing */
+.sanderlab .navbar md-tabs.hide-xs{
+	min-height: initial;
+}
+.sanderlab .navbar md-tabs-canvas{
+	height:100px;
+}
+.sanderlab .navbar md-pagination-wrapper{
+	top:0;
+	bottom:0;
+	margin:auto;
+}
+.sanderlab .navbar md-tabs-content-wrapper{
+	top:100px;
+	height:0;
+	display:none;
+}
+
+/* 
+ *
+ * GENERAL 
+ *
+ */
+.sanderlab p{
+	font-size:16px;
+}
+
+
+/* 
+ *
+ * INDEX / HOME PAGE 
+ *
+ */
+.sanderlab .home .index_image_holder{
+	text-align:center;
+	width:100%
+}
+.sanderlab .home .index_image_holder img{
+    width:419px;
+    height:325px;
+}
+.sanderlab .home .index_image_holder p{
+    width:419px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:justify;
+    text-justify:inter-word;
+}
+.sanderlab .home .intro_paragraph p{
+	text-align:justify;
+	text-justify:inter-word;
+	font-size:18px;
+}
+.sanderlab .home .intro_paragraph p:first-child{
+	margin:0;
+}
+.sanderlab .home ul{
+	font-size:15px;
+}
+.sanderlab .home ul li{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+
+
+/* 
+ *
+ * RESEARCH PAGE 
+ *
+ */
+.sanderlab .pubs-list p{
+	margin:2px;
+}
+
+
+
+/* 
+ *
+ * PEOPLE PAGE 
+ *
+ */
+.sanderlab .people button.peoplebutton{
+	background:none!important;
+	border:none;
+	padding:0!important;
+	font:inherit;
+	text-align:left;
+	outline:none;
+}
+.sanderlab .people md-card{
+	height: 95%;
+}
+.sanderlab .people md-card-title-media img{
+	height:128px!important;
+	width:128px!important;
+}
+.sanderlab .people md-card-content p{
+	text-align:justify;
+	text-justify:inter-word;
+	font-size:14px;
+}
+
+
+/* 
+ *
+ * PERSON PAGE 
+ *
+ */
+.sanderlab .person img.imagelarge{
+	height:256px!important;
+	width:256px!important;
+}
+.sanderlab .person img.imagesmall{
+	height:192px!important;
+	width:192px!important;
+}
+.sanderlab .person .description p{
+	text-align:justify;
+	text-justify:inter-word;
+	font-size:14px;
+}
+
+
+/* 
+ *
+ * NEWS PAGE 
+ *
+ */
+.sanderlab .news md-card-content p{
+	text-align:justify;
+	text-justify:inter-word;
+	font-size:14px;
+}
+
+
+/* 
+ *
+ * JOIN AND CBIO CENTER PAGE 
+ *
+ */
+.sanderlab .join md-card-content p, 
+.sanderlab .cbiocenter md-card-content p{
+   text-align:justify;
+   text-justify:inter-word;
+}
+.sanderlab .join md-card-content p.moreinfo, 
+.sanderlab .cbiocenter md-card-content p.moreinfo{
+    text-align:center;
+}
+
+
+
+/* animate entering exiting pages DOESN"T WORK */
+
+/*.ui-view-container {
+    position: relative;
+}
+
+[ui-view].ng-enter, [ui-view].ng-leave {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+[ui-view].ng-enter {
+    -webkit-animation: slideInRight 0.5s;
+    animation: slideInRight 0.5s;
+}
+
+[ui-view].ng-leave {
+    -webkit-animation: slideOutLeft 0.5s;
+    animation: slideOutLeft 0.5s;
+}
+[ui-view].ng-enter.back {
+    -webkit-animation: slideInLeft 0.5s;
+    animation: slideInLeft 0.5s;
+}
+
+[ui-view].ng-leave.back {
+    -webkit-animation: slideOutRight 0.5s;
+    animation: slideOutRight 0.5s;
+}*/
+
+
