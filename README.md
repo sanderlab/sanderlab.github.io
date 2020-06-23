@@ -6,9 +6,9 @@ This repository contains the code for sanderlab.org
 ## Linode-Hosted Project List 
 This is a list of projects that are available on Linode server. They are accesible via either of the following: 
 
-* http://sanderlab.org/PROJECT_NAME
+* http://sanderlab.org/PROJECT_NAME (e.g., http://sanderlab.org/pertbio)
 * http://projects.sanderlab.org/PROJECT_NAME
-* http://IP_ADDRESS/PROJECT_NAME
+* http://IP_ADDRESS/PROJECT_NAME 
 
 ### Java-Based
 * protnet: ???
