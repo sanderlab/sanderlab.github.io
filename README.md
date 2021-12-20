@@ -13,6 +13,9 @@ To change website
 ## Edit Images
 Images may be added or removed here: https://github.com/dfci/sanderlab/tree/master/docs/images **NOTE:** Ensure images of people are placed in the people folder versus images for research activities. 
 
+## Deployment
+Wait 15-20 minutes for website to be deployed automatically on sanderlab.org. If it does not then contact site administrators.
+
 # Projects 
 ## Linode-Hosted Project List 
 This is a list of projects that are available on Linode server. They are accesible via either of the following: 
