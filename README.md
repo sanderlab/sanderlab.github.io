@@ -2,6 +2,17 @@
 
 This repository contains the code for sanderlab.org 
 
+# How to the sanderlab.org Website 
+
+To change website 
+
+## Edit Text
+1. Edit this data file: https://github.com/dfci/sanderlab/edit/master/docs/sanderlabdata.json
+2. Make sure the result is valid JSON: https://jsonformatter.curiousconcept.com/#
+
+## Edit Images
+Images may be added or removed here: https://github.com/dfci/sanderlab/tree/master/docs/images **NOTE:** Ensure images of people are placed in the people folder versus images for research activities. 
+
 # Projects 
 ## Linode-Hosted Project List 
 This is a list of projects that are available on Linode server. They are accesible via either of the following: 
