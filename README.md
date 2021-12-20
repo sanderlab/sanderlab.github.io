@@ -12,7 +12,7 @@ This repository contains the code for sanderlab.org
 Images may be added or removed here: https://github.com/dfci/sanderlab/tree/master/docs/images **NOTE:** Ensure images of people are placed in the people folder versus images for research activities. 
 
 ## Deployment
-Wait 5-10 minutes for website to be deployed automatically on sanderlab.org with new changes via the GitHub Pages system, if it does not then contact site administrators.
+Wait 5-10 minutes for website to be deployed automatically on sanderlab.org with new changes via the GitHub Pages system, if it does not then contact site administrators. **NOTE:** Only changes in the docs/ folder will trigger re-deployment.
 
 # Projects 
 ## Linode-Hosted Project List 
