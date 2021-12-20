@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains the code for sanderlab.org 
+This repository contains the code for https://sanderlab.org 
 
 # How to Edit the sanderlab.org Website 
 
