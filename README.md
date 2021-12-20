@@ -2,7 +2,7 @@
 
 This repository contains the code for sanderlab.org 
 
-# How to the sanderlab.org Website 
+# How to Edit the sanderlab.org Website 
 
 To change website 
 
