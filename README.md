@@ -4,8 +4,6 @@ This repository contains the code for sanderlab.org
 
 # How to Edit the sanderlab.org Website 
 
-To change website 
-
 ## Edit Text
 1. Edit this data file: https://github.com/dfci/sanderlab/edit/master/docs/sanderlabdata.json
 2. Make sure the result is valid JSON: https://jsonformatter.curiousconcept.com/#
