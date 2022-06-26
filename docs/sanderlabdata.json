@@ -2,7 +2,7 @@
   "homepage": {
     "intro_paragraph": "Chris Sander's lab is based at the Dana-Farber Cancer Institute and at Harvard Medical School, and is affiliated with the Broad Institute and the Ludwig Center at Harvard. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, machine learning, statistical physics, data science and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine and early detection of cancer, and to make discoveries in structural, evolutionary and cell biology.",
     "image": "images/SanderLabHome.pdf",
-    "image_caption": "The Sander lab and cBio Center are located on the 9th floor of Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">Google Maps</a>). Come visit us!"
+    "image_caption": "The Sander lab is on the 9th floor of Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">Google Maps</a>). Come visit us!"
   },
 
   "research": {
@@ -10,7 +10,7 @@
       "topics": [
         {
           "title": "Predictive network models",
-          "description": "We are modeling intracellular signaling events (e.g., between proteins, nucleic acids, and metabolites) and cell-cell interactions to better understand what functionally changes in cancer and how to exploit vulnerabilities. In wet and dry laboratories, and with collaborators, we are gathering data from systematic perturbation experiments with rich observational readouts to derive quantitative and predictive models. We have a particular interest in identifying promising combination therapies for cancer to circumvent drug resistance.",
+          "description": "We are modeling intracellular signaling events (e.g., between proteins, nucleic acids, and metabolites) and cell-cell interactions to better understand what functionally changes in cancer and how to exploit vulnerabilities. In wet and dry laboratories, and with collaborators, we are gathering data from systematic perturbation experiments with rich observational readouts to derive quantitative and predictive models. We have a particular interest in identifying promising combination therapies for cancer to circumvent drug resistance. A recent example is the combination of PARPi and FASNi in high grade serous ovarian cancer.",
           "image": "networkmodels.png"
         },
         {
@@ -25,7 +25,7 @@
         },
         {
           "title": "Outlook on goals, style of science, and collaborations",
-          "description": "We generally focus on projects that could soon impact the real world. Working within our group and with collaborators, decisions are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping individuals advance their careers. Within the community, we aim to promote creative ways of communicating scientific results and help reform the counterproductive journal publication system. There are many exciting collaborative opportunities that we look forward to exploring with laboratories in various departments at Harvard Medical School (HMS). We plan to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and build more collaborations between HMS and DFCI.",
+          "description": "We generally focus on projects that can impact the real world. Working within our group and with collaborators, we are guided by the common goals of scientific progress, building supportive and constructive human relations, and helping team members and collaborators to achieve their personal goals. Within the community, we aim to promote creative ways of communicating scientific results, increasing the diversity of who can do science, and help reform the inefficient, outdated, often counterproductive journal publication system. We seek active and mututally supportive collaborative opportunities within the local insitutions and increasingly world wide, especially during and after the 2019 oandemic. We wish to promote translational work bridging basic quantitative science and problems of human health, especially cancer, and the global enviroment.",
           "image": "blank.png"
         }
       ]
@@ -35,41 +35,37 @@
   "contact": {
     "scientific_contact": {
       "name": "Chris Sander",
-      "email_reversed": "sirhc@sanderlab.org",
+      "email": "sander.research@gmail.com",
       "phone": "(617) 800-9472"
     },
-    "administrative_contact____REMOVE_TO_REENABLE": {
-      "name": "TBH",
-      "email_reversed": "enon@none.com",
-      "phone": "(617) 582-9717"
-    },
+    
     "mailing_addresses": [
       [
-        "cBio Center at Dana-Farber Cancer Institute",
+        "Chris Sander Lab",
         "360 Longwood Avenue",
-        "Longwood Center Building, 9th Floor, Room 310 (LC-9310)",
-        "Boston, MA 02115"
+        "Longwood Center Building, 9th Floor",
+        "Boston, MA 02215"
       ],
       [
-        "CompBio Collaboratory at Harvard Medical School",
+        "Sander Lab in the CompBio Collaboratory at Harvard Medical School",
         "210 Longwood Avenue",
-        "Armenise Building, 6th Floor, Room 625B",
+        "Armenise Building, 6th Floor",
         "Boston, MA 02115"
       ]
     ],
-    "map_text": "The Sander lab and cBio Center recently moved into a newly renovated space in the Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
+    "map_text": "Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
   },
 
   "join": {
-    "description": "We are actively looking to expand the Sander lab and cBio Center! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School. These are our current job openings:",
+    "description": "We are actively looking for collaborators and team members! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School. These are our current job openings:",
     "openings": [
       {
-        "title": "Postdoc in Quantitative Biology",
+        "title": "Postdoc in Quantitative Biology in the Wellcome Leap Delta Tissue project",
         "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job",
         "description": "Join Chris Sander’s group as a postdoc at Dana-Farber Cancer Institute or Harvard Medical School, with links to the Broad Institute, to work on: <p><strong>Perturbation Biology</strong> Model intracellular signaling events and cell-cell interactions using systematic perturbation to better understand what functionally changes in cancer and how to exploit vulnerabilities using combination therapies.</p><p><strong>Cancer Genomics</strong> Collaborate closely with clinicians to apply bioinformatics analysis to large cancer genomics, proteomics, and metabolomics datasets. Build tools for visualizing and understanding complex biological data. Help match patients to appropriate clinical trials based on shared occurrence of genomic alterations.</p><p><strong>Evolutionary Biology</strong> In collaboration with the Marks group at Harvard Medical School, apply statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Generate evolutionarily constrained sequences in the laboratory, and further develop a quantitative theory relating biopolymer sequences to phenotypic consequences.</p>"
       },
       {
-        "title": "Software Engineer I",
+        "title": "Postdoc in Machine Learning of Cancer Risk from Electronic Medical Records",
         "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job",
         "description": "We are looking for an experienced and versatile Software Engineer to work within the new cBio Center at Dana-Farber Cancer Institute in the area of biological data and information tools applied to basic biological research, cancer genomics, and potential clinical translation."
       }
@@ -77,8 +73,8 @@
   },
 
   "cBio": {
-    "description": "Official website coming soon! The Sander lab is based in the newly formed <a target=\"_blank\" href=\"http://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center\">cBio Center</a> at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
-    "other_groups": [
+    "description": "The Sander lab is based in the newly formed <a target=\"_blank\" href=\"http://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center\">cBio Center</a> at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
+    "affiliated_groups": [
       {
         "title": "Knowledge Systems Group",
         "link": "http://bcb.dfci.harvard.edu/knowledge-systems/",
@@ -89,11 +85,6 @@
         "link": "https://hormoz.hms.harvard.edu/",
         "description": "Sahand Hormoz is an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI. His academic appointment is in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
       },
-      {
-        "title": "Singer laboratory",
-        "link": "https://personal.broadinstitute.org/msinger/",
-        "description": "Meromit Singer will join us as faculty in the cBio Center and Department of Biostatistics and Computational Biology at DFCI in June 2018! Her academic appointment will be in the Department of Microbiology and Immunology at Harvard Medical School."
-      }
     ]
   },
 
@@ -108,9 +99,9 @@
         "Special Advisor for Quantitative Biology, Ludwig Center at Harvard",
         "Associate Member, Broad Institute"
       ],
-      "email": "sirhc@sanderlab.org",
-      "phone": "(617) 582-9717",
-      "location": ["Longwood Center Building", "9th Floor, Room 316"],
+      "email": "sander.research@gmail.com",
+      "phone": "(617) 800-9472",
+      "location": ["Longwood Center Building", "9th Floor"],
       "photo": "ChrisSander.jpg",
       "google_scholar_link": "http://bit.ly/ACCayl",
       "pubmed_link": "",
@@ -130,7 +121,7 @@
       "pubmed_link": "",
       "personal_website": "https://www.linkedin.com/in/augustin-luna-12473510/",
       "tagline": "Using molecular networks and pathways as a means of integrating and analyzing wide-scale changes in cellular processes in response to external stimuli (e.g. drug response) and alterations (e.g. mutations) through statistical and mechanistic models",
-      "bio": "<p>Dr. Augustin Luna has a background in biomedical engineering and is a Bioinformatics Scientist in the cBio Center at the Dana-Farber Cancer Institute and the Department of Cell Biology at Harvard Medical School. Augustin did a post-doctoral research fellowship in the Computational Biology Center at Memorial Sloan-Kettering Cancer Center where he conducted research through a Ruth L. Kirschstein National Research Service Award (NRSA) for a project entitled \"Chemogenomic Analysis of the NCI Therapeutic Compound Database\". Previously, Augustin earned his PhD through the joint NIH Graduate Partnership Program (NIH GPP) in Bioinformatics with the National Cancer Institute/Developmental Therapeutics Branch and Boston University on work modeling the inter-relationship between DNA damage response and metabolism.</p><p>The underlying thread of his work has been the analysis of complex biological systems to understand and control them in order to improve human health. A focal point of this work has been the usage of molecular networks and pathways as a means of integrating and analyzing wide-scale changes in cellular processes in response to external stimuli (e.g. drug response) and alterations (e.g. mutations) through statistical and mechanistic models. Additionally, he has worked to facilitate wide dissemination of scientific data and software tools. He has done this through work on standardized representations of biological data (e.g. the Biological Pathway Exchange (BioPAX) format and the Systems Biology Graphical Notation (SBGN)) and the development (and by mentoring student projects) of software tools to visualize and analyze biological networks.</p>"
+      "bio": "<p> Augustin has a background in biomedical engineering and is a Bioinformatics Scientist in the cBio Center at the Dana-Farber Cancer Institute and the Department of Cell Biology at Harvard Medical School. Augustin did a post-doctoral research fellowship in the Computational Biology Center at Memorial Sloan-Kettering Cancer Center where he conducted research through a Ruth L. Kirschstein National Research Service Award (NRSA) for a project entitled \"Chemogenomic Analysis of the NCI Therapeutic Compound Database\". Previously, Augustin earned his PhD through the joint NIH Graduate Partnership Program (NIH GPP) in Bioinformatics with the National Cancer Institute/Developmental Therapeutics Branch and Boston University on work modeling the inter-relationship between DNA damage response and metabolism.</p><p>The underlying thread of his work has been the analysis of complex biological systems to understand and control them in order to improve human health. A focal point of this work has been the usage of molecular networks and pathways as a means of integrating and analyzing wide-scale changes in cellular processes in response to external stimuli (e.g. drug response) and alterations (e.g. mutations) through statistical and mechanistic models. Additionally, he has worked to facilitate wide dissemination of scientific data and software tools. He has done this through work on standardized representations of biological data (e.g. the Biological Pathway Exchange (BioPAX) format and the Systems Biology Graphical Notation (SBGN)) and the development (and by mentoring student projects) of software tools to visualize and analyze biological networks.</p>"
     },
     {
       "key": "benfram",
@@ -413,72 +404,25 @@
 
   "news": [
     {
-      "title": "Congratulations to Frank Poelwijk for being selected for a short talk at the Q-Bio conference in Hawaii!",
-      "date": "February 20, 2019",
+      "title": "Latest publications",
+      "date": "2022",
       "paragraphs": [""]
     },
-    {
-      "title": "Sander lab attends the Broad Institute retreat",
-      "date": "December 17, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris Sander and Laura Kleiman host a collaborative lunch with Dana-Farber chemical and computational biology faculty",
-      "date": "December 3, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Richard Stein gives a short talk at the EMBO-EMBL Symposium \"The Human Microbiome\" in Heidelberg, Germany",
-      "date": "September 16, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Laura Kleiman organizes a lunch for computational and chemical biology summer students at Dana-Farber. Read about it <a target=\"_blank\" href=\"http://bcb.dfci.harvard.edu/index.php/posts/122-summerstudents18\">here</a>.",
-      "date": "August 15, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris Sander, Laura Kleiman, and colleagues organize the Dana-Farber and Nature conference <a target=\"_blank\" href=\"http://bcb.dfci.harvard.edu/index.php/posts/127-nature18\">Big Data and Cancer Precision Medicine</a>",
-      "date": "October 1, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "HMS BBS PhD student Bo Yuan joins the Sander lab. Welcome, Bo!",
-      "date": "July 19, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to visiting master's student Léa Charaoui!",
-      "date": "September 26, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to undergraduate research intern Ayah Aboelela!",
-      "date": "May 23, 2018",
-      "paragraphs": [""]
-    },
+ 
+
     {
       "title": "Chris receives the DeLano Award for Computational Biosciences at the American Society for Biochemistry and Molecular Biology meeting in San Diego and gives a lecture on “Solutions to the Computational Protein Folding Problem.” Read the award story <a target=\"_blank\" href=\"http://www.asbmb.org/asbmbtoday/201804/AnnualMeeting/Sander/\">here</a>.",
       "date": "April 24, 2018",
       "paragraphs": [""]
     },
+    
     {
-      "title": "Chris gives a talk entitled “Evolution Yields 3D Structures” at the Tsinghua International Symposium of Computational Structural Biology and Biophysics in China",
-      "date": "April 20, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "We are excited to work with the Chan Zuckerberg Initiative and Human Cell Atlas on collaborative computational tools! Learn more <a target=\"_blank\" href=\"https://www.chanzuckerberg.com/human-cell-atlas/comp-tools\"> here</a>.",
-      "date": "April 19, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"Computer-guided design of optimal microbial consortia for immune system modulation\" (Stein et al., eLife). Read the paper <a target=\"_blank\" href=\"https://elifesciences.org/articles/30916\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/model-can-predict-success-of-treatments-that-manipulate-the-gut-microbiota/\">Dana-Farber press release</a>.",
+      "title": "Publication: \"Computer-guided design of optimal microbial consortia for immune system modulation\" (Stein et al., eLife). Read the paper <a target=\"_blank\" href=\"https://elifesciences.org/articles/30916\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/model-can-predict-success-of-treatments-that-manipulate-the-gut-microbiota/\">Dana-Farber press release</a>.",
       "date": "April 17, 2018",
       "paragraphs": [""]
     },
     {
-      "title": "New publication: \"Oncogenic signaling pathways in The Cancer Genome Atlas\" (Sanchez-Vega et al., Cell). Read the paper <a target=\"_blank\" href=\"http://www.cell.com/cell/pdf/S0092-8674(18)30359-3.pdf\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/comprehensive-map-of-altered-gene-pathways-in-dozens-of-cancer-types-will-guide-research-in-precision-cancer-medicine/\">Dana-Farber press release</a>.",
+      "title": "Publication: \"Oncogenic signaling pathways in The Cancer Genome Atlas\" (Sanchez-Vega et al., Cell). Read the paper <a target=\"_blank\" href=\"http://www.cell.com/cell/pdf/S0092-8674(18)30359-3.pdf\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/comprehensive-map-of-altered-gene-pathways-in-dozens-of-cancer-types-will-guide-research-in-precision-cancer-medicine/\">Dana-Farber press release</a>.",
       "date": "April 5, 2018",
       "paragraphs": [""]
     },
@@ -488,269 +432,28 @@
       "paragraphs": [""]
     },
     {
-      "title": "New preprint: \"Rapid proteotyping reveals cancer biology and drug response determinants in the NCI-60 cells\" (Guo et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/21/268953\"> here</a>.",
+      "title": "Preprint: \"Rapid proteotyping reveals cancer biology and drug response determinants in the NCI-60 cells\" (Guo et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/21/268953\"> here</a>.",
       "date": "February 21, 2018",
       "paragraphs": [""]
     },
     {
-      "title": "New preprint: \"AlignmentViewer: Sequence analysis of large protein families\" (Reguant et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/22/269720\"> here</a>.",
+      "title": "Preprint: \"AlignmentViewer: Sequence analysis of large protein families\" (Reguant et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/22/269720\"> here</a>.",
       "date": "February 22, 2018",
       "paragraphs": [""]
     },
     {
-      "title": "New preprint: \"Causal interactions from proteomic profiles: molecular data meets pathway knowledge\" (Babur et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/24/258855.article-info\"> here</a>.",
+      "title": "Preprint: \"Causal interactions from proteomic profiles: molecular data meets pathway knowledge\" (Babur et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/24/258855.article-info\"> here</a>.",
       "date": "February 24, 2018",
       "paragraphs": [""]
     },
-    {
-      "title": "Welcome to our new administrator, Claire Hopkins!",
-      "date": "March 27, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to Drew Diamantoukos, lead software engineer!",
-      "date": "March 2, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to senior research technician Alexander Reynolds!",
-      "date": "February 13, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Check out Chris Sander's <a target=\"_blank\" href=\"https://fast.wistia.net/embed/iframe/75sbrienjr\"> welcome video</a> for the Dana-Farber/Harvard Cancer Center",
-      "date": "January 26, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"A landscape of metabolic variation across tumor types\" (Reznik et al., Cell Systems). Read the paper <a target=\"_blank\" href=\"http://www.cell.com/pb-assets/journals/research/cell-systems/CELS394.pdf\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/study-provides-first-systematic-survey-of-metabolites-across-tumor-types/\">DFCI press release</a>. <a target=\"_blank\" href=\"https://www.mskcc.org/blog/scientists-create-first-its-kind-metabolic-road-map\">MSKCC blog</a>.",
-      "date": "February 28, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to postdoctoral fellow Alexandra Franz!",
-      "date": "January 3, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Congratulations to Kelly Brock on her Outstanding Postdoc Award!",
-      "date": "October 20, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Augustin Luna presents a poster on \"CellMinerCDB: Enabling cross-database exploration of molecular pharmacology data and response determinant discovery in cancer cell lines\" at the Broad Institute retreat",
-      "date": "December 18, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Nick Gauthier presents a poster on \"Systems Biology of Combination Therapy in Ovarian Cancer\" at the Dana-Farber Department of Biostatistics and Computational Biology retreat",
-      "date": "January 18, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to research intern Carolin Loos!",
-      "date": "January 16, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to Christian Dallago, a visiting software engineer!",
-      "date": "January 8, 2018",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"Comprehensive and Integrative Genomic Characterization of Hepatocellular Carcinoma\" (TCGA Research Network, Cell)",
-      "date": "June 15, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"http://www.cell.com/cell/fulltext/S0092-8674(17)30639-6\"> here</a>."
-      ]
-    },
-    {
-      "title": "Chris presents at the 2nd Big Data Forum for Life and Health Sciences in Beijing, China",
-      "date": "October 13, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "HMS BBS PhD student Judy Shen joins the Sander lab. Welcome, Judy!",
-      "date": "October 10, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris is now a full member of the Dana-Farber/Harvard Cancer Center (DF/HCC) and participating in the Cancer Cell Biology and Cancer Data Sciences programs",
-      "date": "September 6, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma\" (TCGA Research Network, Cancer Cell)",
-      "date": "August 14, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"http://www.sciencedirect.com/science/article/pii/S1535610817302994\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"CTD2 Dashboard: a searchable web interface to connect validated results from the Cancer Target Discovery and Development Network\" (Aksoy et al., Database)",
-      "date": "August 8, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://academic.oup.com/database/article/4079798\"> here</a>."
-      ]
-    },
-    {
-      "title": "Carlos Carmona Fontaine (New York University) visits the cBio Center and presents \"Metabolic sources of immune cell variability in the tumor microenvironment\"",
-      "date": "August 18, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Julio Saez-Rodriguez (RWTH Aachen University) visits the cBio Center and presents \"Understanding and predicting drug efficacy in cancer: from machine learning to biochemical models\"",
-      "date": "August 16, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Matthias Mann (Max Planck Institute of Biochemistry) visits the cBio Center and presents \"Mass spectrometry based proteomics and application to clinical proteomics\"",
-      "date": "August 9, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "David Sontag (MIT Clinical Machine Learning Group) visits the cBio Center and presents \"Machine learning and health care\"",
-      "date": "August 2, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents at the Takeda symposium \"Big Data for Target Discovery\" in Cambridge, MA",
-      "date": "September 13, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents keynote lecture at the EMBO workshop \"Integrating Genomics and Biophysics to Comprehend Functional Genetic Variation\" in Italy",
-      "date": "September 10, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents keynote lecture at the 3rd International SystemsX.ch Conference on Systems Biology in Switzerland",
-      "date": "September 7, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents at the 2017 Erice Crystallography Meeting on \"Integrative Structural Biology\" in Italy",
-      "date": "June 3, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"Integrative genomic analysis of cholangiocarcinoma identifies distinct IDH-mutant molecular profiles\" (Farshidfar et al., Cell Reports)",
-      "date": "March 14, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"http://www.sciencedirect.com/science/article/pii/S2211124717302140\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"Analysis of renal cancer cell lines from two major resources enables genomics-guided cell line selection\" (Sinha et al., Nature Communications)",
-      "date": "May 10, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436135/\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"Integrated genomic and molecular characterization of cervical cancer\" (The Cancer Genome Atlas Research Network, Nature)",
-      "date": "March 16, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://www.nature.com/nature/journal/v543/n7645/abs/nature21386.html\"> here</a>."
-      ]
-    },
-    {
-      "title": "New preprint: \"Protein profiling in cancer cell lines and tumor tissue using reverse phase protein arrays\" (Jing et al., bioRxiv)",
-      "date": "May 31, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://doi.org/10.1101/144535\"> here</a>."
-      ]
-    },
+   
+  
     {
       "title": "Chris named the latest member of the Zuse Institute Digital Future Hall of Fame and presents keynote lecture in Berlin",
       "date": "May 12, 2017",
       "paragraphs": [""]
     },
-    {
-      "title": "Chris is now affiliated with the following Harvard PhD programs: Systems Biology, Biological and Biomedical Sciences, Bioinformatics and Integrative Genomics, and Biophysics",
-      "date": "July 6, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents at the Governor's Conference on Effective Partnering in Cancer Research at the Institute for Advanced Study at Princeton",
-      "date": "April 6, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to Benni Schubert, a new postdoctoral fellow!",
-      "date": "October 1, 2016",
-      "paragraphs": [
-        "Learn more about Benni <a href=\"/#/people/benjaminschubert\">here</a>."
-      ]
-    },
-    {
-      "title": "Opening of the cBio Center on the 9th floor of Longwood Center",
-      "date": "November 22, 2016",
-      "paragraphs": ["<a href=\"/#/contact\">Come visit us!</a>."]
-    },
-    {
-      "title": "Sander lab attends the DFCI Department of Biostatistics and Computational Biology retreat",
-      "date": "January 19, 2017",
-      "paragraphs": [""]
-    },
-    {
-      "title": "New publication: \"3D clusters of somatic mutations in cancer reveal numerous rare mutations as functional targets\" (Gao et al., Genome Medicine)",
-      "date": "January 23, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0393-x\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"Mitochondrial respiratory gene expression is suppressed in many cancers\" (Reznik et al., eLife)",
-      "date": "January 18, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://elifesciences.org/content/6/e21592\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"Mutation effects predicted from sequence co-variation\" (Hopf et al., Nature Biotechnology)",
-      "date": "January 16, 2017",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3769.html\"> here</a>."
-      ]
-    },
-    {
-      "title": "New publication: \"Tumor immune microenvironment characterization in clear cell renal cell carcinoma identifies prognostic and immunotherapeutically relevant messenger RNA signatures\" (Şenbabaoğlu et al., Genome Biology)",
-      "date": "November 17, 2016",
-      "paragraphs": [
-        "Read the paper <a target=\"_blank\" href=\"https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1092-z\"> here</a>."
-      ]
-    },
-    {
-      "title": "Chris presents keynote lecture at the Barcelona BioMed Conference \"From genomes to structures: looking at big data with an atomic perspective\"",
-      "date": "November 28, 2016",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris presents keynote lecture at the CNIO Frontiers Meeting \"CANCEROMATICS III: Cancer Heterogeneity\" in Madrid",
-      "date": "November 13, 2016",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Chris joins Advisory Group and gives talk at the Centre for Big Data and Integrative Genomics workshop in Singapore",
-      "date": "November 10, 2016",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Sander lab attends the Broad Institute retreat",
-      "date": "December 19, 2016",
-      "paragraphs": [""]
-    },
-    {
-      "title": "Welcome to Roc Reguant, a new visiting researcher!",
-      "date": "December 12, 2016",
-      "paragraphs": [""]
-    },
+    
 
-    {
-      "title": "Chris presents keynote lecture at the Reverse Phase Protein Array Global Workshop in Germany",
-      "date": "September 25, 2016",
-      "paragraphs": [""]
-    }
   ]
 }
