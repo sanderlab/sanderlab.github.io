@@ -4,7 +4,6 @@
     "image": "images/SanderLabHome.pdf",
     "image_caption": "The Sander lab is on the 9th floor of Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">Google Maps</a>). Come visit us!"
   },
-
   "research": {
     "overview": {
       "topics": [
@@ -31,14 +30,12 @@
       ]
     }
   },
-
   "contact": {
     "scientific_contact": {
       "name": "Chris Sander",
       "email": "sander.research@gmail.com",
       "phone": "(617) 800-9472"
     },
-    
     "mailing_addresses": [
       [
         "Chris Sander Lab",
@@ -55,7 +52,6 @@
     ],
     "map_text": "Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
   },
-
   "join": {
     "description": "We are actively looking for collaborators and team members! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School. These are our current job openings:",
     "openings": [
@@ -71,7 +67,6 @@
       }
     ]
   },
-
   "cBio": {
     "description": "The Sander lab is based in the newly formed <a target=\"_blank\" href=\"http://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center\">cBio Center</a> at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
     "affiliated_groups": [
@@ -84,10 +79,9 @@
         "title": "Hormoz laboratory",
         "link": "https://hormoz.hms.harvard.edu/",
         "description": "Sahand Hormoz is an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI. His academic appointment is in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
-      },
+      }
     ]
   },
-
   "people": [
     {
       "key": "chrissander",
@@ -101,7 +95,10 @@
       ],
       "email": "sander.research@gmail.com",
       "phone": "(617) 800-9472",
-      "location": ["Longwood Center Building", "9th Floor"],
+      "location": [
+        "Longwood Center Building",
+        "9th Floor"
+      ],
       "photo": "ChrisSander.jpg",
       "google_scholar_link": "http://bit.ly/ACCayl",
       "pubmed_link": "",
@@ -115,7 +112,9 @@
       "role": "Bioinformatics Scientist and Program Organizer",
       "email": "anula@jimmy.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "AugustinLuna.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -129,7 +128,9 @@
       "role": "Graduate student",
       "email": "marf@g.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "BenFram.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -143,7 +144,10 @@
       "role": "Senior Research Scientist",
       "email": "reihtuag_psalohcin@dfci.harvard.edu",
       "phone": "(617) 582-9474",
-      "location": ["Longwood Center Building", "9th Floor, Room 311"],
+      "location": [
+        "Longwood Center Building",
+        "9th Floor, Room 311"
+      ],
       "photo": "nicholasgauthier.jpg",
       "google_scholar_link": "https://scholar.google.com/citations?user=NcaZT3wAAAAJ&hl=en",
       "pubmed_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gauthier+NP%5BAuthor%5D",
@@ -158,7 +162,10 @@
       "role": "Research Associate, Harvard School of Public Health",
       "email": "niets@jimmy.harvard.edu",
       "phone": "(617) 582-7229",
-      "location": ["Longwood Center Building", "9th Floor, Room 314"],
+      "location": [
+        "Longwood Center Building",
+        "9th Floor, Room 314"
+      ],
       "photo": "Richard.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -172,7 +179,10 @@
       "role": "Graduate student",
       "email": "nehs_c@g.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center Building", "9th Floor"],
+      "location": [
+        "Longwood Center Building",
+        "9th Floor"
+      ],
       "photo": "Judy.JPG",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -186,7 +196,9 @@
       "role": "Research Fellow",
       "email": "fpoh_samoht@hms.harvard.edu",
       "phone": "",
-      "location": ["Armenise Building, 6th Floor"],
+      "location": [
+        "Armenise Building, 6th Floor"
+      ],
       "photo": "Thomas_Hopf.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -200,7 +212,9 @@
       "role": "Postdoctoral Fellow",
       "email": "kcorb_yllek@hms.harvard.edu",
       "phone": "",
-      "location": ["Armenise Building, 6th Floor"],
+      "location": [
+        "Armenise Building, 6th Floor"
+      ],
       "photo": "KellyBrock.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -215,7 +229,9 @@
       "role": "Visiting Research Scholar",
       "email": "sallemoctnauger_cor@hms.harvard.edu",
       "phone": "",
-      "location": ["Armenise Building, 6th Floor"],
+      "location": [
+        "Armenise Building, 6th Floor"
+      ],
       "photo": "roc.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -230,7 +246,9 @@
       "role": "Postdoctoral Fellow",
       "email": "trebuhcs_nimajneb@hms.harvard.edu",
       "phone": "",
-      "location": ["Armenise Building, 6th Floor"],
+      "location": [
+        "Armenise Building, 6th Floor"
+      ],
       "photo": "Benjamin_Schubert.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -244,7 +262,10 @@
       "role": "Staff Scientist",
       "email": "relffits@jimmy.harvard.edu",
       "phone": "(617) 582-9787",
-      "location": ["Longwood Center Building", "4th Floor, Room 315G"],
+      "location": [
+        "Longwood Center Building",
+        "4th Floor, Room 315G"
+      ],
       "photo": "stiffler.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -274,7 +295,10 @@
       "role": "Senior Research Scientist",
       "email": "kjiwleop@jimmy.harvard.edu",
       "phone": "(617) 582-9311",
-      "location": ["Longwood Center Building", "4th Floor, Room 315G"],
+      "location": [
+        "Longwood Center Building",
+        "4th Floor, Room 315G"
+      ],
       "photo": "Frank.jpg",
       "google_scholar_link": "https://scholar.google.com/citations?user=QeJfCXUAAAAJ&hl=en",
       "pubmed_link": "",
@@ -289,7 +313,9 @@
       "role": "Visiting Software Engineer",
       "email": "tseuqer+ogalladcas@googlemail.com",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "ChristianDallago.png",
       "google_scholar_link": "https://scholar.google.com/citations?user=4q0fNGAAAAAJ",
       "pubmed_link": "",
@@ -304,7 +330,9 @@
       "role": "Postdoctoral Fellow",
       "email": "nahor@hms.harvard.edu",
       "phone": "",
-      "location": ["Armenise Building, 6th Floor"],
+      "location": [
+        "Armenise Building, 6th Floor"
+      ],
       "photo": "Rohan.png",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -319,7 +347,9 @@
       "role": "Research Intern",
       "email": "sool_nilorac@hms.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "CarolinLoos.jpg",
       "google_scholar_link": "https://scholar.google.com/citations?user=r5hdqSQAAAAJ&hl=en",
       "pubmed_link": "",
@@ -333,7 +363,9 @@
       "role": "Postdoctoral Fellow",
       "email": "znarfa@jimmy.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "Alexandra_Franz.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -348,7 +380,9 @@
       "role": "Lead Software Engineer",
       "email": "dwerdna@jimmy.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "Andrew_Diamantoukos.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -363,7 +397,9 @@
       "role": "Undergraduate Research Intern",
       "email": "100aleleoba.haya@umb.edu",
       "phone": "508-744-6687",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "Ayah.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -378,7 +414,9 @@
       "role": "Visiting Master's Student",
       "email": "ael.iuoarahc@jimmy.harvard.edu",
       "phone": "",
-      "location": ["Longwood Center, 9th Floor"],
+      "location": [
+        "Longwood Center, 9th Floor"
+      ],
       "photo": "leacharaoui.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -392,7 +430,9 @@
       "role": "Graduate Student",
       "email": "nauyob@g.harvard.edu",
       "phone": "203-889-1375",
-      "location": ["Longwood Center, 9th Floor, Room 315 (LC-9315)"],
+      "location": [
+        "Longwood Center, 9th Floor, Room 315 (LC-9315)"
+      ],
       "photo": "BO.jpg",
       "google_scholar_link": "",
       "pubmed_link": "",
@@ -401,59 +441,69 @@
       "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Dr. Tian Xu at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning in cancer transcriptome. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarship and awards. He has first-authored research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo is particularly interested in using deep learning to understand cell biology, especially on the single-cell level. He is co-advised by Aviv Regev at the Broad Institute."
     }
   ],
-
   "news": [
     {
       "title": "Latest publications",
       "date": "2022",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
- 
-
     {
       "title": "Chris receives the DeLano Award for Computational Biosciences at the American Society for Biochemistry and Molecular Biology meeting in San Diego and gives a lecture on “Solutions to the Computational Protein Folding Problem.” Read the award story <a target=\"_blank\" href=\"http://www.asbmb.org/asbmbtoday/201804/AnnualMeeting/Sander/\">here</a>.",
       "date": "April 24, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
-    
     {
       "title": "Publication: \"Computer-guided design of optimal microbial consortia for immune system modulation\" (Stein et al., eLife). Read the paper <a target=\"_blank\" href=\"https://elifesciences.org/articles/30916\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/model-can-predict-success-of-treatments-that-manipulate-the-gut-microbiota/\">Dana-Farber press release</a>.",
       "date": "April 17, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
     {
       "title": "Publication: \"Oncogenic signaling pathways in The Cancer Genome Atlas\" (Sanchez-Vega et al., Cell). Read the paper <a target=\"_blank\" href=\"http://www.cell.com/cell/pdf/S0092-8674(18)30359-3.pdf\"> here</a>. <a target=\"_blank\" href=\"http://www.dana-farber.org/newsroom/news-releases/2018/comprehensive-map-of-altered-gene-pathways-in-dozens-of-cancer-types-will-guide-research-in-precision-cancer-medicine/\">Dana-Farber press release</a>.",
       "date": "April 5, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
     {
       "title": "MutationAssessor Release 3 available <a target=\"_blank\" href=\"http://mutationassessor.org\"> here</a>.",
       "date": "April 3, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
     {
       "title": "Preprint: \"Rapid proteotyping reveals cancer biology and drug response determinants in the NCI-60 cells\" (Guo et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/21/268953\"> here</a>.",
       "date": "February 21, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
     {
       "title": "Preprint: \"AlignmentViewer: Sequence analysis of large protein families\" (Reguant et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/22/269720\"> here</a>.",
       "date": "February 22, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
     {
       "title": "Preprint: \"Causal interactions from proteomic profiles: molecular data meets pathway knowledge\" (Babur et al., bioRxiv). Read the paper <a target=\"_blank\" href=\"https://www.biorxiv.org/content/early/2018/02/24/258855.article-info\"> here</a>.",
       "date": "February 24, 2018",
-      "paragraphs": [""]
+      "paragraphs": [
+        ""
+      ]
     },
-   
-  
     {
       "title": "Chris named the latest member of the Zuse Institute Digital Future Hall of Fame and presents keynote lecture in Berlin",
       "date": "May 12, 2017",
-      "paragraphs": [""]
-    },
-    
-
+      "paragraphs": [
+        ""
+      ]
+    }
   ]
 }
