@@ -1,8 +1,8 @@
 {
   "homepage": {
-    "intro_paragraph": "Chris Sander's lab is based at the Dana-Farber Cancer Institute and at Harvard Medical School, and is affiliated with the Broad Institute and the Ludwig Center at Harvard. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, machine learning, statistical physics, data science and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine and early detection of cancer, and to make discoveries in structural, evolutionary and cell biology.",
+    "intro_paragraph": "The Sander lab is based at Harvard Medical School and is affiliated with the Broad Institute and the Ludwig Center at Harvard. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, machine learning, statistical physics, data science and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine and early detection of cancer, and to make discoveries in structural, evolutionary and cell biology.",
     "image": "images/SanderLabHome.png",
-    "image_caption": "The Sander lab is on the 9th floor of Longwood Center (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">Google Maps</a>). Come visit us!"
+    "image_caption": "The Sander lab is at Harvard Medical School, Armenise Building Floor 6 (<a target=\"_blank\" href=\"https://goo.gl/maps/bUPVEvzRuKw\">Google Maps</a>). Come visit us!"
   },
   "research": {
     "overview": {
