@@ -44,26 +44,26 @@
         "Boston, MA 02215"
       ],
       [
-        "Sander Lab in the CompBio Collaboratory at Harvard Medical School",
+        "Sande & Marks Labs: CompBio Collaboratory at Harvard Medical School",
         "210 Longwood Avenue",
         "Armenise Building, 6th Floor",
         "Boston, MA 02115"
       ]
     ],
-    "map_text": "Longwood Center at the corner of Longwood Avenue and Brookline Avenue."
+    "map_text": "Harvard Medical School is at the corner of Longwood Avenue and Avenue Louis Pasteur."
   },
   "join": {
-    "description": "We are actively looking for collaborators and team members! We are based in Boston, MA, at the Dana-Farber Cancer Institute and Harvard Medical School. These are our current job openings:",
+    "description": "We are actively looking for collaborators and team members! We are based in Boston, MA, at Harvard Medical School. These are our current job openings:",
     "openings": [
       {
         "title": "Postdoc in Quantitative Biology in the Wellcome Leap Delta Tissue project",
-        "link": "https://careers-dfci.icims.com/jobs/3424/postdoc-in-quantitative-biology-at-dana-farber-and-harvard/job",
-        "description": "Join Chris Sander’s group as a postdoc at Dana-Farber Cancer Institute or Harvard Medical School, with links to the Broad Institute, to work on: <p><strong>Perturbation Biology</strong> Model intracellular signaling events and cell-cell interactions using systematic perturbation to better understand what functionally changes in cancer and how to exploit vulnerabilities using combination therapies.</p><p><strong>Cancer Genomics</strong> Collaborate closely with clinicians to apply bioinformatics analysis to large cancer genomics, proteomics, and metabolomics datasets. Build tools for visualizing and understanding complex biological data. Help match patients to appropriate clinical trials based on shared occurrence of genomic alterations.</p><p><strong>Evolutionary Biology</strong> In collaboration with the Marks group at Harvard Medical School, apply statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Generate evolutionarily constrained sequences in the laboratory, and further develop a quantitative theory relating biopolymer sequences to phenotypic consequences.</p>"
+        "link": "https://www.sanderlab.org",
+        "description": "Join Chris Sander’s group as a postdoc Harvard Medical School, with links to the Broad Institute, to work on: <p><strong>Perturbation Biology</strong> Model intracellular signaling events and cell-cell interactions using systematic perturbation to better understand what functionally changes in cancer and how to exploit vulnerabilities using combination therapies.</p><p><strong>Cancer Genomics</strong> Collaborate closely with clinicians to apply bioinformatics analysis to large cancer genomics, proteomics, and metabolomics datasets. Build tools for visualizing and understanding complex biological data. Help match patients to appropriate clinical trials based on shared occurrence of genomic alterations.</p><p><strong>Evolutionary Biology</strong> In collaboration with the Marks group at Harvard Medical School, apply statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Generate evolutionarily constrained sequences in the laboratory, and further develop a quantitative theory relating biopolymer sequences to phenotypic consequences.</p>"
       },
       {
         "title": "Postdoc in Machine Learning of Cancer Risk from Electronic Medical Records",
-        "link": "https://careers-dfci.icims.com/jobs/3415/software-engineer-i---cbio-center-at-dfci/job",
-        "description": "We are looking for an experienced and versatile Software Engineer to work within the new cBio Center at Dana-Farber Cancer Institute in the area of biological data and information tools applied to basic biological research, cancer genomics, and potential clinical translation."
+        "link": "https://www.sanderlab.org",
+        "description": "We are looking for a machine learning scientist to work in an international collaboration aiming at catching cancer early."
       }
     ]
   },
