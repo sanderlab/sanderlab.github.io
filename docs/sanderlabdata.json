@@ -1,4 +1,4 @@
- {
+{
 
   "homepage": {
 
@@ -112,6 +112,16 @@
 
     "openings": [
 
+        {
+
+        "title": "Computational Postdoc at Harvard Medical School",
+
+        "link": "https://www.sanderlab.org",
+
+        "description": " Seize the opportunity afforded by amazing advances in molecular technologies, computational technologies and machine learning - from single cell sequencing, protein detection and  image analysis to machine learning on large and complex datasets for predictive and generative purposes.  <p> Join the Sander lab at Harvard Medical School to make discoveries using systems and computational biology.  Use and develop machine learning, artificial intelligence and statistical physics methods to solve problems with predictive impact on solving human disease problems and engineering power for synthetic biology.</p> <p> We collaborate closely with the Marks lab, with the SynBioHive program in the systems biology department and the Board Institute; and with computational and experimental labs in Boston, Denver, Oregon, Houston, as well as Edinburgh, Toronto, Copenhagen, Oxford and Berlin. Make your own discoveries and further develop your skills in one of these areas.</p> <p><strong> Cancer risk prediction. </strong>  We use time series machine learning algorithms to learn from millions of clinical records which patients are at high risk for aggressive cancers. In collaboration with clinicians, the highest risk patients can be enrolled in surveillance programs with the aim to catch cancer as early as possible. </p> <p><strong> Cell state dynamics.</strong> From large-scale perturbation experiments and molecular and phenotypic profiles, develop computational models of cell biology that couple perturbations to molecular and  phenotypic changes. Use the cell state dynamics models to engineer novel combinations of perturbations with desired therapeutic effects and to guide experiment across many areas of cell biology.</p> <p><strong> Protein function and design.</strong> Develop and apply machine learning models to predict protein function from sequence information,building on our theory of evolutionary couplings and on the recent advances in statistical and machine learning models for the prediction of protein structures (EVfold, Rosettafold, Alphafold). Use statistical and machine learning methods design novel proteins for  environmental purposes.  Collaborate on engineering simple organisms with beneficial, gene and protein circuits.</p> "
+
+      },
+      
       {
 
         "title": "Postdoc in Quantitative Biology in the Wellcome Leap Delta Tissue project",
@@ -122,15 +132,6 @@
 
       },
 
-      {
-
-        "title": "Postdoc in Machine Learning of Cancer Risk from Electronic Medical Records",
-
-        "link": "https://www.sanderlab.org",
-
-        "description": "We are looking for a machine learning scientist to work in an international collaboration aiming at catching cancer early."
-
-      },
       
         {
 
