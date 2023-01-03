@@ -174,15 +174,12 @@
 
       "name": "Chris Sander",
 
-      "role": "Director",
+      "role_other":[
 
-      "role_other": [
+        "Faculty, Systems Biology, Harvard Medical School",
+        
+               "Special Advisor for Quantitative Biology, Ludwig Center at Harvard",
 
-        "Director, cBio Center at Dana-Farber Cancer Institute",
-
-        "Professor of Cell Biology, Harvard Medical School",
-
-        "Special Advisor for Quantitative Biology, Ludwig Center at Harvard",
 
         "Associate Member, Broad Institute"
 
@@ -210,7 +207,7 @@
 
       "tagline": "",
 
-      "bio": "<p>Chris Sander started his career as a theoretical physicist and then switched to theoretical biology, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York - and co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as <a target=\"_blank\" href=\"http://www.dana-farber.org/Research/Departments-and-Centers/Department-of-Biostatistics-and-Computational-Biology/cBio-Center-at-Dana-Farber.aspx\">Director of the cBio Center at the Dana-Farber Cancer Institute</a> in the Department of Biostatistics and Computational Biology, <a target=\"_blank\" href=\"http://cellbio.med.harvard.edu/people/faculty/sander-0\">Professor of Cell Biology at Harvard Medical School</a>, <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is creating new connections between scientists at Dana-Farber and Harvard Medical School, including building translational collaborative bridges for scientists using quantitative sciences to solve biological problems.</p><p>With his group and collaborators, Chris aims to beat drug resistance in cancer using systems biology methods to develop combination therapies. They are also developing the next generation cBioPortal for cancer research and therapy, obtaining biomolecular structures and functional interactions on a large scale using evolutionary information, and adapting machine learning methods to mine millions of genomes.</p>"
+      "bio": "<p>Chris Sander started his career as a theoretical physicist and then switched to theoretical biology, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York - and co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is creating new connections between scientists at Dana-Farber and Harvard Medical School, including building translational collaborative bridges for scientists using quantitative sciences to solve biological problems.</p><p>With his group and collaborators, Chris aims to beat drug resistance in cancer using systems biology methods to develop combination therapies. They are also developing the next generation cBioPortal for cancer research and therapy, obtaining biomolecular structures and functional interactions on a large scale using evolutionary information, and adapting machine learning methods to mine millions of genomes.</p>"
 
     },
 
@@ -800,6 +797,7 @@
 
 
 
+
  
 
       "photo": "Ayah.jpg",
@@ -878,7 +876,7 @@
 
       "tagline": "Bridging cutting-edge data science technology with large-scale biological data, particularly modeling single-cell response to perturbations with deep learning models; co-advised by Aviv Regev at the Broad Institute",
 
-      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Dr. Tian Xu at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning in cancer transcriptome. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarship and awards. He has first-authored research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo is particularly interested in using deep learning to understand cell biology, especially on the single-cell level. He is co-advised by Aviv Regev at the Broad Institute."
+      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Tian Xu at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning in cancer transcriptome. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarship and awards. He has first-authored research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo was particularly interested in using deep learning to understand cell biology, especially on the single-cell level and in using articial intelligences to identify populations at high risk for aggressive cancer. He was co-advised by Aviv Regev at the Broad Institute. Bo will graduate in early 2023."
 
     }
 
