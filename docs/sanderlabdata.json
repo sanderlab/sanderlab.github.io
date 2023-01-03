@@ -203,14 +203,6 @@
 
       "phone": "(617) 800-9472",
 
-     
-
-
-
-
-
-     
-
       "photo": "ChrisSander.jpg",
 
       "google_scholar_link": "http://bit.ly/ACCayl",
@@ -233,7 +225,7 @@
 
       "role": "Bioinformatics Scientist and Program Organizer",
 
-      "email": "anula@jimmy.harvard.edu",
+      "email": "anula@jimmy.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -265,7 +257,7 @@
 
       "role": "Graduate student",
 
-      "email": "marf@g.harvard.edu",
+      "email": "marf@g.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -297,7 +289,7 @@
 
       "role": "Senior Research Scientist",
 
-      "email": "reihtuag_psalohcin@dfci.harvard.edu",
+      "email": "reihtuag_psalohcin@dfci.harvard.edu - invert the first string.",
 
       "phone": "(617) 582-9474",
 
@@ -333,7 +325,7 @@
 
       "role": "Research Associate, Harvard School of Public Health",
 
-      "email": "niets@jimmy.harvard.edu",
+      "email": "niets@jimmy.harvard.edu - invert the first string.",
 
       "phone": "(617) 582-7229",
 
@@ -367,7 +359,7 @@
 
       "role": "Graduate student",
 
-      "email": "nehs_c@g.harvard.edu",
+      "email": "nehs_c@g.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -401,7 +393,7 @@
 
       "role": "Research Fellow",
 
-      "email": "fpoh_samoht@hms.harvard.edu",
+      "email": "fpoh_samoht@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -433,7 +425,7 @@
 
       "role": "Postdoctoral Fellow",
 
-      "email": "kcorb_yllek@hms.harvard.edu",
+      "email": "kcorb_yllek@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -467,7 +459,7 @@
 
       "role": "Visiting Research Scholar",
 
-      "email": "sallemoctnauger_cor@hms.harvard.edu",
+      "email": "sallemoctnauger_cor@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -501,7 +493,7 @@
 
       "role": "Postdoctoral Fellow",
 
-      "email": "trebuhcs_nimajneb@hms.harvard.edu",
+      "email": "trebuhcs_nimajneb@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -533,7 +525,7 @@
 
       "role": "Staff Scientist",
 
-      "email": "relffits@jimmy.harvard.edu",
+      "email": "relffits@jimmy.harvard.edu - invert the first string.",
 
       "phone": "(617) 582-9787",
 
@@ -569,7 +561,7 @@
 
       "role": "Postdoctoral Fellow",
 
-      "email": "namyn.nile@liu.se",
+      "email": "namyn.nile@liu.se - invert the first string.",
 
       "phone": "",
 
@@ -599,7 +591,7 @@
 
       "role": "Senior Research Scientist",
 
-      "email": "kjiwleop@jimmy.harvard.edu",
+      "email": "kjiwleop@jimmy.harvard.edu - invert the first string.",
 
       "phone": "(617) 582-9311",
 
@@ -635,7 +627,7 @@
 
       "role": "Visiting Software Engineer",
 
-      "email": "tseuqer+ogalladcas@googlemail.com",
+      "email": "tseuqer+ogalladcas@googlemail.com - invert the first string.",
 
       "phone": "",
 
@@ -669,7 +661,7 @@
 
       "role": "Postdoctoral Fellow",
 
-      "email": "nahor@hms.harvard.edu",
+      "email": "nahor@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -703,7 +695,7 @@
 
       "role": "Research Intern",
 
-      "email": "sool_nilorac@hms.harvard.edu",
+      "email": "sool_nilorac@hms.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -735,7 +727,7 @@
 
       "role": "Postdoctoral Fellow",
 
-      "email": "znarfa@jimmy.harvard.edu",
+      "email": "znarfa@jimmy.harvard.edu - invert the first string.",
 
       "phone": "",
 
@@ -803,7 +795,7 @@
 
       "role": "Undergraduate Research Intern",
 
-      "email": "100aleleoba.haya@umb.edu",
+      "email": "100aleleoba.haya@umb.edu - invert the first string.",
 
       "phone": "508-744-6687",
 
@@ -857,7 +849,7 @@
 
       "tagline": "Combining perturbation biology and computational approaches to develop high efficacy combination cancer therapies",
 
-      "bio": "Lea’s background is in life science engineering. During her master’s studies at the Swiss Federal Institute of Technology Lausanne (EPFL) she specialized in systems biology and molecular medical engineering. Being interested in experimental and computational biology, she joined Chris Sander’s group as part of her Master’s degree. Lea is now working in the wet lab, using perturbation biology to develop high efficacy combination therapies for cancer, in particular for high-grade serous ovarian cancer."
+      "bio": "Lea’s background is in life science engineering. During her master’s studies at the Swiss Federal Institute of Technology Lausanne (EPFL) she specialized in systems biology and molecular medical engineering. Being interested in experimental and computational biology, she joined Chris Sander’s group as part of her Master’s degree. Lea worked in the wet lab, using perturbation biology to develop high efficacy combination therapies for cancer, in particular for high-grade serous ovarian cancer. She returned to Europe after her period in the Sander Lab."
 
     },
 
@@ -869,7 +861,7 @@
 
       "role": "Graduate Student",
 
-      "email": "nauyob@g.harvard.edu",
+      "email": "nauyob@g.harvard.edu - invert the first string.",
 
       "phone": "203-889-1375",
 
@@ -887,9 +879,9 @@
 
       "personal_website": "",
 
-      "tagline": "Bridging cutting-edge data science technology with large-scale biological data, particularly modeling single-cell response to perturbations with deep learning models; co-advised by Aviv Regev at the Broad Institute",
+      "tagline": "Bridging cutting-edge data science technology with large-scale biological data, particularly modeling single-cell response to perturbations and predicting cancer risk with deep learning models; co-advised by Aviv Regev at the Broad Institute",
 
-      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Dr. Tian Xu at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning in cancer transcriptome. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarship and awards. He has first-authored research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo is particularly interested in using deep learning to understand cell biology, especially on the single-cell level. He is co-advised by Aviv Regev at the Broad Institute."
+      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Tian Xu, Prof at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning on cancer transcriptome data. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarships and awards. He has several primary research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo was particularly interested in using deep learning to understand cell biology, especially on the single-cell level, and to identify high risk patient from electronic medical records using time series machine learning.  He was co-advised by Aviv Regev at the Broad Institute (now at Genetech)."
 
     }
 
