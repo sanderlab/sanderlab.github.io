@@ -888,12 +888,25 @@
   ],
 
   "news": [
+        {
+
+      "title": "<a href='https://hms.harvard.edu/news/ai-predicts-future-pancreatic-cancer' target='_blank'>Press Release:</a> AI Tool Predicts Future Pancreatic Cancer",
+
+      "date": "May 2023",
+
+      "paragraphs": [
+
+        ""
+
+      ]
+
+    },
 
     {
 
-      "title": "Latest publications",
+      "title": "<a href='https://www.nature.com/articles/s41591-023-02332-5' target='_blank'>Publication:</a> A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories (Nature Medicine)",
 
-      "date": "2022",
+      "date": "May 2023",
 
       "paragraphs": [
 
