@@ -2,7 +2,7 @@
 
   "homepage": {
 
-    "intro_paragraph": "The Sander Lab is based at Harvard Medical School and is affiliated with the Broad Institute and the Ludwig Center at Harvard. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, machine learning, statistical physics, data science and mathematics. We apply these computational methods to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine and early detection of cancer, and to make discoveries in structural, evolutionary and cell biology.",
+    "intro_paragraph": "The Sander Lab is at Harvard Medical School and affiliated with the Broad Institute, the DF/HCC Cancer Center and the Ludwig Center at Harvard. We work in structural, evolutionary, and cell biology as well as cancer research. The overall goal of our work is to solve biological problems using quantitative methods from bioinformatics, machine learning (ML), artificial intelligence (AI), mathematics, statistical physics, and data science. We apply these computational methods to design proteins, to build predictive network models of molecular and cell-cell interactions, to support cancer precision medicine and the early detection of cancer.",
 
     "image": "images/SanderLabHome.png",
 
