@@ -118,20 +118,9 @@
 
         "link": "https://www.sanderlab.org",
 
-        "description": " Seize the opportunity afforded by amazing advances in molecular technologies, computational technologies and machine learning - from single cell sequencing, protein detection and image analysis to machine learning on large and complex datasets for predictive and generative purposes.  <p> Join the Sander lab at Harvard Medical School to make discoveries using systems and computational biology.  Use and develop machine learning, artificial intelligence and statistical physics methods to solve problems with predictive impact on solving human disease problems and engineering power for synthetic biology.</p> <p> We collaborate closely with the Marks Lab and the SynBioHive program in the Systems Biology department; with the Ludwig Center at Harvard and the Broad Institute; and with computational and experimental labs in Boston, Denver, Oregon, Houston, as well as Edinburgh, Toronto, Copenhagen, Oxford and Berlin.</p> <p> Make your own discoveries and further develop your skills in one of these areas.</p> <p><strong> Cancer risk prediction. </strong>  We use time series machine learning algorithms to learn from millions of clinical records which patients are at high risk for aggressive cancers. In collaboration with clinicians, the highest risk patients can be enrolled in surveillance programs with the aim to catch cancer as early as possible. </p> <p><strong> Cell state dynamics.</strong> From large-scale perturbation experiments and molecular and phenotypic profiles, develop computational models of cell biology that couple perturbations to molecular and  phenotypic changes. Use the cell state dynamics models to engineer novel combinations of perturbations with desired therapeutic effects and to guide experiment across many areas of cell biology.</p> <p><strong> Protein function and design.</strong> Develop and apply machine learning models to predict protein function from sequence information,building on our theory of evolutionary couplings and on the recent advances in statistical and machine learning models for the prediction of protein structures (EVfold, Rosettafold, Alphafold). Use statistical and machine learning methods to design novel proteins for therapeutic and environmental purposes.  Collaborate on engineering simple organisms with beneficial, gene and protein circuits.</p> "
+        "description": " Seize the opportunity afforded by amazing advances in molecular technologies, computational technologies and machine learning - from single cell sequencing, protein detection and image analysis to machine learning on large and complex datasets for predictive and generative purposes.  <p> Join the Sander lab at Harvard Medical School to make discoveries using systems and computational biology.  Use and develop machine learning, artificial intelligence and statistical physics methods to solve problems with predictive impact on solving human disease problems and engineering power for synthetic biology.</p> <p> We collaborate closely with the Marks Lab and the SynBioHive program in the Systems Biology department; with the Ludwig Center at Harvard and the Broad Institute; and with computational and experimental labs in Boston, Denver, Oregon, Houston, as well as Edinburgh, Toronto, Copenhagen, Oxford and Berlin.</p> <p> Make your own discoveries and further develop your skills in one of these areas.</p> <p><strong> Cancer risk prediction. </strong>  We use time series machine learning algorithms to learn from millions of clinical records which patients are at high risk for aggressive cancers. In collaboration with clinicians, the highest risk patients can be enrolled in surveillance programs with the aim to catch cancer as early as possible. </p> <p><strong> Cell state dynamics - perturbation biology.</strong> From large-scale perturbation experiments and molecular and phenotypic profiles, develop computational models of cell biology that couple perturbations to molecular and  phenotypic changes. Use the cell state dynamics models to engineer novel combinations of perturbations with desired therapeutic effects and to guide experiment across many areas of cell biology.</p> <p><strong> Protein function and design.</strong> Develop and apply machine learning models to predict protein function from sequence information,building on our theory of evolutionary couplings and on the recent advances in statistical and machine learning models for the prediction of protein structures (EVfold, Rosettafold, Alphafold). Use statistical and machine learning methods to design novel proteins for therapeutic and environmental purposes.  Collaborate on engineering simple organisms with beneficial, gene and protein circuits.</p> "
 
       },
-      
-      {
-
-        "title": "Postdoc in Quantitative Biology in the Wellcome Leap Delta Tissue project",
-
-        "link": "https://www.sanderlab.org",
-
-        "description": "Join Chris Sander’s group as a postdoc Harvard Medical School, with links to the Broad Institute, to work on: <p><strong>Perturbation Biology</strong> Model intracellular signaling events and cell-cell interactions using systematic perturbation to better understand what functionally changes in cancer and how to exploit vulnerabilities using combination therapies.</p><p><strong>Cancer Genomics</strong> Collaborate closely with clinicians to apply bioinformatics analysis to large cancer genomics, proteomics, and metabolomics datasets. Build tools for visualizing and understanding complex biological data. </p><p><strong>Evolutionary Biology</strong> In collaboration with the Marks group at Harvard Medical School, apply statistical physics methods to problems of evolutionary biology, structural biology, protein design and cell biology. Generate evolutionarily constrained sequences in the laboratory, and further develop a quantitative theory relating changes in DNA, RNA and protein sequences to phenotypic consequences.</p>"
-
-      },
-
       
         {
 
@@ -139,7 +128,7 @@
 
         "link": "https://www.sanderlab.org",
 
-        "description": "We are looking for a machine learning scientist to work in an international collaboration aiming at catching cancer early."
+        "description": "Use machine learning to identify patients at high risk for aggressive cancers so they can be enrolled in interception programs for prevention, early detection and early-stage treatment. On github: CancerRiskNet."
 
       }
 
@@ -149,31 +138,9 @@
 
   "cBio": {
 
-    "description": "The Sander lab is based in the newly formed <a target=\"_blank\" href=\"http://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center\">cBio Center</a> at the Dana-Farber Cancer Institute in the Department of Biostatistics and Computational Biology. The other groups in the cBio Center are:",
+    "description": "The Sander lab, aka cBio, is based in Systems Biology at Harvard Medical School."
 
-    "affiliated_groups": [
-
-      {
-
-        "title": "Knowledge Systems Group",
-
-        "link": "http://bcb.dfci.harvard.edu/knowledge-systems/",
-
-        "description": "The Knowledge Systems Group, led by Ethan Cerami, is an applied genomics software and data sciences group that enables cancer genomics research and precision medicine through development of powerful tools such as the cBioPortal for Cancer Genomics, Insight Engine, and MatchMiner."
-
-      },
-
-      {
-
-        "title": "Hormoz laboratory",
-
-        "link": "https://hormoz.hms.harvard.edu/",
-
-        "description": "Sahand Hormoz is an Assistant Professor in the cBio Center and Department of Biostatistics and Computational Biology at DFCI. His academic appointment is in the Department of Systems Biology at Harvard Medical School. The Hormoz lab aims to understand the dynamics of cellular state transitions and fate decisions during development and in cancer. They use engineering of synthetic gene circuits, single-molecule imaging, and single-cell analysis to study embryonic stem cells and other systems. They also develop new mathematical frameworks and theoretical tools to gain insight into stochastic processes and collective phenomena."
-
-      }
-
-    ]
+    
 
   },
 
@@ -185,13 +152,13 @@
 
       "name": "Chris Sander",
 
-      "role": "Director",
+      "role": "Faculty",
 
       "role_other": [
 
-        "Director, cBio Center at Dana-Farber Cancer Institute",
+        "Systems Biology, Harvard Medical School",
 
-        "Professor of Cell Biology, Harvard Medical School",
+        "Member, DF/HCC Cancer Center",
 
         "Special Advisor for Quantitative Biology, Ludwig Center at Harvard",
 
@@ -213,7 +180,7 @@
 
       "tagline": "",
 
-      "bio": "<p>Chris Sander started his career as a theoretical physicist and then switched to theoretical biology, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York - and co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as <a target=\"_blank\" href=\"http://www.dana-farber.org/Research/Departments-and-Centers/Department-of-Biostatistics-and-Computational-Biology/cBio-Center-at-Dana-Farber.aspx\">Director of the cBio Center at the Dana-Farber Cancer Institute</a> in the Department of Biostatistics and Computational Biology, <a target=\"_blank\" href=\"http://cellbio.med.harvard.edu/people/faculty/sander-0\">Professor of Cell Biology at Harvard Medical School</a>, <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is creating new connections between scientists at Dana-Farber and Harvard Medical School, including building translational collaborative bridges for scientists using quantitative sciences to solve biological problems.</p><p>With his group and collaborators, Chris aims to beat drug resistance in cancer using systems biology methods to develop combination therapies. They are also developing the next generation cBioPortal for cancer research and therapy, obtaining biomolecular structures and functional interactions on a large scale using evolutionary information, and adapting machine learning methods to mine millions of genomes.</p>"
+      "bio": "<p>Chris Sander started his career as a theoretical physicist and then switched to theoretical biology, in part inspired by the first completely sequenced genome. He founded two departments of computational biology - at the EMBL in Heidelberg and Memorial Sloan Kettering Cancer Center in New York - and co-founded the research branch of the European Bioinformatics Institute in Cambridge and a biotech startup with Millennium in Boston.</p><p>Chris joined the Harvard community in 2016 as faculty in Cell Biology and then Systems Biology.  <a target=\"_blank\" href=\"http://ludwigcenter.hms.harvard.edu/our-people\">Special Advisor for Quantitative Biology to the Ludwig Center at Harvard</a>, and Associate Member of the Broad Institute. He is creating new connections between scientists at Dana-Farber and Harvard Medical School, including building translational collaborative bridges for scientists using quantitative sciences to solve biological problems.</p><p>With his group and collaborators, Chris aims to beat drug resistance in cancer using systems biology methods to develop combination therapies. They are also developing the next generation cBioPortal for cancer research and therapy, obtaining biomolecular structures and functional interactions on a large scale using evolutionary information, and adapting machine learning methods to mine millions of genomes. He is collaborating with groups in Denmark and the US to apply AI to longitudinal health records to identify patients at high risk for pancreatic and ovarian cancer and collaborates with clinicians in the design of effective affordable surveillance program aiming at the early detection of cancer. </p>"
 
     },
 
@@ -223,9 +190,9 @@
 
       "name": "Augustin Luna",
 
-      "role": "Bioinformatics Scientist and Program Organizer",
+      "role": "Bioinformatics Scientist and Program Organizer - now faculty at the NLM and NCI",
 
-      "email": "anula@jimmy.harvard.edu - invert the first string.",
+      "email": "augustin.luna@nih.gov",
 
       "phone": "",
 
@@ -255,7 +222,7 @@
 
       "name": "Ben Fram",
 
-      "role": "Graduate student",
+      "role": "Graduate student - now at startup episteme.com",
 
       "email": "marf@g.harvard.edu - invert the first string.",
 
@@ -287,7 +254,7 @@
 
       "name": "Nicholas Gauthier",
 
-      "role": "Senior Research Scientist",
+      "role": "Senior Research Scientist - at DFCI",
 
       "email": "reihtuag_psalohcin@dfci.harvard.edu - invert the first string.",
 
@@ -297,7 +264,7 @@
 
         "Longwood Center Building",
 
-        "9th Floor, Room 311"
+        "5th Floor"
 
       ],
 
@@ -323,11 +290,11 @@
 
       "isAlumni": true,
 
-      "role": "Research Associate, Harvard School of Public Health",
+      "role": "Research Associate, Harvard School of Public Health - now at Novartis in Basel",
 
-      "email": "niets@jimmy.harvard.edu - invert the first string.",
+      "email": "richard_stein@gmx.de",
 
-      "phone": "(617) 582-7229",
+      "phone": "",
 
     
 
@@ -357,7 +324,7 @@
 
       "name": "Judy (Ciyue) Shen",
 
-      "role": "Graduate student",
+      "role": "Graduate student - now at pathAI",
 
       "email": "nehs_c@g.harvard.edu - invert the first string.",
 
@@ -391,7 +358,7 @@
 
       "name": "Thomas A. Hopf",
 
-      "role": "Research Fellow",
+      "role": "Research Fellow - now at Scientific Consulting",
 
       "email": "fpoh_samoht@hms.harvard.edu - invert the first string.",
 
@@ -423,7 +390,7 @@
 
       "name": "Kelly Brock",
 
-      "role": "Postdoctoral Fellow",
+      "role": "Postdoctoral Fellow - now at a Boston startup",
 
       "email": "kcorb_yllek@hms.harvard.edu - invert the first string.",
 
@@ -457,7 +424,7 @@
 
       "isAlumni": true,
 
-      "role": "Visiting Research Scholar",
+      "role": "Visiting Research Scholar - then PhD in Brunak lab in Copenhagen",
 
       "email": "sallemoctnauger_cor@hms.harvard.edu - invert the first string.",
 
@@ -491,7 +458,7 @@
 
       "isAlumni": true,
 
-      "role": "Postdoctoral Fellow",
+      "role": "Postdoctoral Fellow - now faculty in Munich",
 
       "email": "trebuhcs_nimajneb@hms.harvard.edu - invert the first string.",
 
@@ -523,7 +490,7 @@
 
       "name": "Michael Stiffler",
 
-      "role": "Staff Scientist",
+      "role": "Staff Scientist - now startup in Boston area",
 
       "email": "relffits@jimmy.harvard.edu - invert the first string.",
 
@@ -559,7 +526,7 @@
 
       "isAlumni": true,
 
-      "role": "Postdoctoral Fellow",
+      "role": "Postdoctoral Fellow - now faculty in Lund. Sweden",
 
       "email": "namyn.nile@liu.se - invert the first string.",
 
@@ -589,7 +556,7 @@
 
       "isAlumni": true,
 
-      "role": "Senior Research Scientist",
+      "role": "Senior Research Scientist - now at Generate Biomedicines",
 
       "email": "kjiwleop@jimmy.harvard.edu - invert the first string.",
 
@@ -625,7 +592,7 @@
 
       "isAlumni": true,
 
-      "role": "Visiting Software Engineer",
+      "role": "Visiting Software Engineer - now collaborating with Rost lab in Munich",
 
       "email": "tseuqer+ogalladcas@googlemail.com - invert the first string.",
 
@@ -659,7 +626,7 @@
 
       "isAlumni": true,
 
-      "role": "Postdoctoral Fellow",
+      "role": "Postdoctoral Fellow - now at West Coast company",
 
       "email": "nahor@hms.harvard.edu - invert the first string.",
 
@@ -725,7 +692,7 @@
 
       "name": "Alexandra Franz",
 
-      "role": "Postdoctoral Fellow",
+      "role": "Postdoctoral Fellow - now at Foundation Medicine",
 
       "email": "znarfa@jimmy.harvard.edu - invert the first string.",
 
@@ -759,7 +726,7 @@
 
       "isAlumni": true,
 
-      "role": "Lead Software Engineer",
+      "role": "Lead Software Engineer - now at new software company",
 
       "email": "drewd@code-phoenix.com",
 
@@ -793,7 +760,7 @@
 
       "isAlumni": true,
 
-      "role": "Undergraduate Research Intern",
+      "role": "Undergraduate Research Intern - now at graduate program",
 
       "email": "100aleleoba.haya@umb.edu - invert the first string.",
 
@@ -910,7 +877,7 @@
 
       "paragraphs": [
 
-        ""
+        "see there"
 
       ]
 
