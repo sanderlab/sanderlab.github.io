@@ -40,7 +40,7 @@
 
           "title": "Structural and evolutionary biology",
 
-          "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School, we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we solved the problem of 3D fold prediction using evolutionary information from millions of protein sequences organized in protein families, published in 2011. We generated evolutionarily constrained designed sequences in the laboratory, and are further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
+          "description": "In collaboration with the Marks group in the Department of Systems Biology at Harvard Medical School, we are applying statistical physics methods to problems of evolutionary biology, structural biology, and cell biology. Since our first attempts at residue contact prediction by the analysis of correlated mutations in protein families in 1994, we solved the problem of 3D fold prediction using evolutionary information from millions of protein sequences organized in protein families, published in 2011. Alphafold and Rosettafold built on the princple of extracting residue pair interactions from evolutionary information as an essential ingredient in their later methods. In protein design, we generated evolutionarily constrained designed sequences in the laboratory, and we are further developing a quantitative theory relating biopolymer sequences to phenotypic consequences.",
 
           "image": "evcouplings.png"
 
@@ -84,7 +84,7 @@
 
         "Harvard Medical School",
 
-        "Boston, MA 02215"
+        "Boston, MA 02115"
 
       ],
 
@@ -859,7 +859,7 @@
 
       "name": "Bo Yuan",
 
-      "role": "Graduate Student",
+      "role": "Graduate Student - now postdoc at Merck",
 
       "email": "nauyob@g.harvard.edu - invert the first string.",
 
@@ -881,7 +881,7 @@
 
       "tagline": "Bridging cutting-edge data science technology with large-scale biological data, particularly modeling single-cell response to perturbations and predicting cancer risk with deep learning models; co-advised by Aviv Regev at the Broad Institute",
 
-      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Tian Xu, Prof at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning on cancer transcriptome data. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarships and awards. He has several primary research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo was particularly interested in using deep learning to understand cell biology, especially on the single-cell level, and to identify high risk patient from electronic medical records using time series machine learning.  He was co-advised by Aviv Regev at the Broad Institute (now at Genetech)."
+      "bio": "Bo describes his interest as biological data science, integrating developed and developing data science technology with rapidly accumulating biological data (e.g. proteome and transcriptome). He holds an Honor Bachelor Degree in Biology from Shanghai Jiao Tong University (SJTU). He did a one-year research project with Tian Xu, Prof at Yale (now at Westlake University), where he completed his thesis on unsupervised and supervised learning on cancer transcriptome data. Previously he conducted research on stem cell biology, microbiome, cancer immunology and psychiatric disease. He has received multiple scholarships and awards. He has several primary research articles and has given talks internationally on his work. As a graduate student in the Biological and Biomedical Sciences (BBS) program at Harvard Medical School, Bo was particularly interested in using deep learning to understand cell biology, especially on the single-cell level, and to identify high risk patient from electronic medical records using time series machine learning.  He was co-advised by Aviv Regev at the Broad Institute (now at Genentech)."
 
     }
 
@@ -896,7 +896,7 @@
 
       "paragraphs": [
 
-        ""
+        "see there"
 
       ]
 
